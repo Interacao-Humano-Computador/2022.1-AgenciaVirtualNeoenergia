@@ -1,1 +1,17 @@
-site_name: My Docs
+site_name: Agência Virtual Neoenergia Brasília
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - toc:
+      title: Índice
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - tables
+theme:
+  name: material
+  palette:
+    primary: light green
+
