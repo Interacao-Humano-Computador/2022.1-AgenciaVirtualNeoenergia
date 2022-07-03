@@ -123,3 +123,10 @@ transporte público sobre as linhas de ônibus e seus respectivos horários, é 
 
 Diante dos sites analisados individualmente por cada integrante da equipe, fizemos uma reunião e entramos em consenso, optando pelo site da [NeoEnergia](https://agenciavirtual.neoenergiabrasilia.com.br/), que possui uma série de problemas identificados que serão válidos para a realização de uma análise de IHC, além do público alvo para realização de pesquisas ser mais fácil, já que a empresa atua no DF.
 
+## Bibliografia
+
+<p>BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.</p>
+<p>MACIEL, Cristiano; NOGUEIRA, José Luis; CIUFFO, Leandro; GARCIA, Ana Cristina. Avaliação
+Heurística de Sítios na Web. [S. l.]</p>
+<p>Nielsen, Jakob (1994). Usability Engineering. Morgan Kaufmann Publishers Inc., San
+Francisco, CA, USA.</p>
