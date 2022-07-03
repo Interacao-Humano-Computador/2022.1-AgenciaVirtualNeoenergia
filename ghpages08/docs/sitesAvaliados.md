@@ -65,7 +65,7 @@
 <p>O site do Governo de Pernambuco oferece informações e serviços do Estado, para que tanto turistas quanto moradores consigam possam ter acesso facilitado a atividades e notícias que o governo entrega</p>
 
 
-<p>Esse sistema também foi analisado utilizando a avaliação heurística, identificando problemas de usabilidade e design. Os problemas identificados afetaram as seguintes heurísticas:</p>
+<p> Os problemas identificados afetaram as seguintes heurísticas:</p>
 
 <ul>
   <li>Status do sistema</li>
@@ -77,6 +77,49 @@
 <p>Os principais problemas referem-se à não atualização do sistema quando para de carregar, vários menus espalhados pela tela e com designs diferentes, funcionalidades em teste e estética sobrecarregada.</p>
 
 
-## Central Expresso
+
 </div>
 
+## Central Expresso
+<div style="text-align: justify">
+  <p>O site da CT Expresso tem o propósito de informar a população que faz o uso do
+transporte público sobre as linhas de ônibus e seus respectivos horários, é possível também visualizar as redes sociais da empresa e seu número de contato, além de informações sobre vale transporte. Ela atua fazendo linhas entre o DF e os municípios do entorno e da região de Goiás. </p>
+
+<p> Os problemas identificados afetaram as seguintes heurísticas:</p>
+<ul>
+  <li>Consistência e padrões</li>
+  <li>Estética e design minimalista</li>
+</ul>
+
+<p>Os principais problemas referem-se ao mal posicionamento das informações, deixando-as incompletas e de difícil entendimento.</p>
+
+
+</div>
+
+## Agência Virtual NeoEnergia
+<div style="text-align: justify">
+
+<p>A NeoEnergia é uma empresa privada que fornece o abastecimento de energia elétrica a mais de 18 estados brasileiros. O site é destinado aos consumidores que desejam solicitar algum serviço ou buscar informações pela página. </p>
+
+<p> Os problemas identificados afetaram as seguintes heurísticas:</p>
+<ul>
+  <li>Visibilidade e status do sistema</li>
+  <li>Compatibilidade do sistema com o mundo real </li>
+  <li>Controle do usuário e liberdade</li>
+  <li>Consistência e padrões</li>
+  <li>Ajuda o usuário a reconhecer, diagnosticar e recuperar-se de erros</li>
+  <li>Prevenção de erros</li>
+  <li>Reconhecimento em vez de memorização</li>
+  <li>Flexibilidade e eficiência de uso</li>
+  <li>Estética e design minimalista</li>
+  <li>Ajuda e documentação</li>
+</ul>
+
+<p>Os principais problemas referem-se à não identificação de um erro cometido pelo usuário e falta de recursos que facilitem o acesso pelo usuário em funções como gerar relatório ou manter salvo senhas e evitar processo de recuperação de senha.</p>
+
+</div>
+
+## Site escolhido
+<div style="text-align: justify">
+<p>Diante dos sites analisados individualmente por cada integrante da equipe, fizemos uma reunião e entramos em consenso, optando pelo site da NeoEnergia, que possui uma série de problemas identificados que serão válidos para a realização de uma análise de IHC, além do público alvo para realização de pesquisas ser mais fácil, já que a empresa atua no DF.</p>
+<div>
