@@ -43,7 +43,7 @@
 ## Caixa Econômica
 
 <div style="text-align: justify">
-<p>A Caixa Econômica é uma instituição finaceira nacional que atende a pessoas de todos os cantos do Brasil. O site da empresa é destinado a um público muito grande e diverso, com realidades diferentes. </p>
+<p>A <a href="https://www.caixa.gov.br/Paginas/home-caixa.aspx">Caixa Econômica</a> é uma instituição finaceira nacional que atende a pessoas de todos os cantos do Brasil. O site da empresa é destinado a um público muito grande e diverso, com realidades diferentes. </p>
 
 
 <p>Para a análise do sistema, foi realizada uma avaliação heurística, a fim de identificar e documentar problemas de usabilidade e design. Os problemas identificados afetaram as seguintes heurísticas:</p>
@@ -62,7 +62,7 @@
 
 ## Governo de Pernambuco
 <div style="text-align: justify">
-<p>O site do Governo de Pernambuco oferece informações e serviços do Estado, para que tanto turistas quanto moradores consigam possam ter acesso facilitado a atividades e notícias que o governo entrega</p>
+<p>O site do <a href="https://www.pe.gov.br"> Governo de Pernambuco</a> oferece informações e serviços do Estado, para que tanto turistas quanto moradores consigam possam ter acesso facilitado a atividades e notícias que o governo entrega</p>
 
 
 <p> Os problemas identificados afetaram as seguintes heurísticas:</p>
@@ -82,7 +82,7 @@
 
 ## Central Expresso
 <div style="text-align: justify">
-  <p>O site da CT Expresso tem o propósito de informar a população que faz o uso do
+  <p>O site da <a href="https://www.centralexpresso.com/">CT Expresso</a> tem o propósito de informar a população que faz o uso do
 transporte público sobre as linhas de ônibus e seus respectivos horários, é possível também visualizar as redes sociais da empresa e seu número de contato, além de informações sobre vale transporte. Ela atua fazendo linhas entre o DF e os municípios do entorno e da região de Goiás. </p>
 
 <p> Os problemas identificados afetaram as seguintes heurísticas:</p>
@@ -99,7 +99,7 @@ transporte público sobre as linhas de ônibus e seus respectivos horários, é 
 ## Agência Virtual NeoEnergia
 <div style="text-align: justify">
 
-<p>A NeoEnergia é uma empresa privada que fornece o abastecimento de energia elétrica a mais de 18 estados brasileiros. O site é destinado aos consumidores que desejam solicitar algum serviço ou buscar informações pela página. </p>
+<p>A <a href="https://agenciavirtual.neoenergiabrasilia.com.br/">NeoEnergia</a> é uma empresa privada que fornece o abastecimento de energia elétrica a mais de 18 estados brasileiros. O site é destinado aos consumidores que desejam solicitar algum serviço ou buscar informações pela página. </p>
 
 <p> Os problemas identificados afetaram as seguintes heurísticas:</p>
 <ul>
@@ -120,6 +120,6 @@ transporte público sobre as linhas de ônibus e seus respectivos horários, é 
 </div>
 
 ## Site escolhido
-<div style="text-align: justify">
-<p>Diante dos sites analisados individualmente por cada integrante da equipe, fizemos uma reunião e entramos em consenso, optando pelo site da NeoEnergia, que possui uma série de problemas identificados que serão válidos para a realização de uma análise de IHC, além do público alvo para realização de pesquisas ser mais fácil, já que a empresa atua no DF.</p>
-<div>
+
+Diante dos sites analisados individualmente por cada integrante da equipe, fizemos uma reunião e entramos em consenso, optando pelo site da [NeoEnergia](https://agenciavirtual.neoenergiabrasilia.com.br/), que possui uma série de problemas identificados que serão válidos para a realização de uma análise de IHC, além do público alvo para realização de pesquisas ser mais fácil, já que a empresa atua no DF.
+
