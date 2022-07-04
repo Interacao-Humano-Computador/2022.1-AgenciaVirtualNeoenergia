@@ -25,7 +25,7 @@
   <tr>
     <td>Figma</td>
     <td>Ferramenta de design gráfico com vetores e prototipação colaborativa</td>
-    <td>![Miro](assets/tool_logos/miro_logo.png)</td>
+    <td>![Figma](assets/tool_logos/figma_logo.png)</td>
   </tr>
   <tr>
     <td>Github</td>
