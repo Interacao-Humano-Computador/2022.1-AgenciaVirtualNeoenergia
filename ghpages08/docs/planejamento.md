@@ -55,7 +55,7 @@ Data limite  | Atividade/entrega | Autor(es) | Revisor
 --------- | ----------------- | -------------- | ----------
 05/09 | A definir | A definir
 
-####Entrega da apresentação do projeto final
+###Entrega da apresentação do projeto final
 
 ###Referências
 
