@@ -1,47 +1,17 @@
 <h1>Ferramentas do Projeto</h1>
 
 <h3>Tabela que inclui mas não se limita às ferramentas usadas para execução destre projeto durante o semestre; sujeita a alterações.</h3>
-<table>
-  <tr>
-    <th>Nome</th>
-    <th>Descrição</th>
-    <th>Ícone</th>
-  </tr>
-  <tr>
-    <td>Telegram</td>
-    <td>Aplicativo de mensagem instantânea. É o canal primário de comunicação da equipe</td>
-    <td>![Telegram](assets/tool_logos/telegram_logo.png)</td>
-  </tr>
-  <tr>
-    <td>Discord</td>
-    <td>Plataforma para comunicação que usa o Protocolo de Voz Através da Internet(VoIP). Usado para reuniões síncronas à distância.</td>
-    <td>![Discord](assets/tool_logos/discord_logo.png)</td>
-  </tr>
-  <tr>
-    <td>Miro</td>
-    <td>Plataforma de colaboração visual. Importante para diagramação e apresentação visual</td>
-    <td>![Miro](assets/tool_logos/miro_logo.png)</td>
-  </tr>
-  <tr>
-    <td>Figma</td>
-    <td>Ferramenta de design gráfico com vetores e prototipação colaborativa</td>
-    <td>![Figma](assets/tool_logos/figma_logo.png)</td>
-  </tr>
-  <tr>
-    <td>Github</td>
-    <td>Plataforma usada para gerenciamento de configuração e evolução de software.</td>
-    <td>![Github](assets/tool_logos/github_logo.png)</td>
-  </tr>
-    <td>MkDocs</td>
-    <td>Gerador de sites estáticos</td>
-    <td>![MkDocs](assets/tool_logos/mkdocs_logo.png)</td>
-  </tr>
-    <td>MkDocs-Material</td>
-    <td>Temas/Templates para o MkDocs</td>
-    <td>![MkDocs-Material](assets/tool_logos/mkdocs-material_logo.png)</td>
-  </tr>
-</table>
-<hr>
+
+| Nome | Descrição | Ícone |
+| ---- | --------- | ----- |
+| Telegram | Aplicativo de mensagem instantânea. É o canal primário de comunicação da equipe. | ![Telegram](assets/tool_logos/telegram_logo.png)|
+| Discord | Plataforma para comunicação que usa o Protocolo de Voz Através da Internet(VoIP). Usado para reuniões síncronas à distância. | ![Discord](assets/tool_logos/discord_logo.png)|
+| Miro | Plataforma de colaboração visual. Importante para diagramação e apresentação visual | ![Miro](assets/tool_logos/miro_logo.png)|
+| Figma | Ferramenta de design gráfico com vetores e prototipação colaborativa | ![Figma](assets/tool_logos/figma_logo.png)|
+| Github | Plataforma usada para gerenciamento de configuração e evolução de software | ![Github](assets/tool_logos/github_logo.png)|
+| MkDocs | Gerador de sites estáticos | ![MkDocs](assets/tool_logos/mkdocs_logo.png)|
+| MkDocs-Material | Temas/Templates para o MkDocs | ![MkDocs-Material](assets/tool_logos/mkdocs-material_logo.png)|
+
 
 ## Tabela de Versionamento
 
