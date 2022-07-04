@@ -7,7 +7,7 @@
   <ol>
 
     <li> Status do sistema: o usuário deve ser informado pelo sistema em tempo razoável sobre o que está
-    contecendo. </li>
+    acontecendo. </li>
 
     <li>Correspondência entre o sistema e o mundo real: os termos e textos que se encontram no site devem estar de acordo com a sua finalidade.</li>
 
@@ -62,7 +62,7 @@
 
 ## Governo de Pernambuco
 <div style="text-align: justify">
-<p>O site do <a href="https://www.pe.gov.br"> Governo de Pernambuco</a> oferece informações e serviços do Estado, para que tanto turistas quanto moradores consigam possam ter acesso facilitado a atividades e notícias que o governo entrega</p>
+<p>O site do <a href="https://www.pe.gov.br"> Governo de Pernambuco</a> oferece informações e serviços do Estado, para que tanto turistas quanto moradores possam ter acesso facilitado a atividades e notícias que o governo entrega.</p>
 
 
 <p> Os problemas identificados afetaram as seguintes heurísticas:</p>
