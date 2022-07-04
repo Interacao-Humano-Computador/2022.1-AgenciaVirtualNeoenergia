@@ -37,7 +37,7 @@ Onde 'X' é o número da issue e o 'Comentário' deve ser um resumo do que foi f
 
 ## Tabela de Versionamento
 
-| Versão | Descrição | Autor | Revisor |
-| ------ | --------- | ----- | ------- |
-| `0.1`  | Criação e configuração do github pages | [Matheus Perillo](https://github.com/MatheusPerillo) | [Natan Santana](https://github.com/Neitan2001)
-| `0.2`  | Criação da página Home e páginas base do documento | [Natan Santana](https://github.com/Neitan2001) | [Clara Ribeiro](https://github.com/clara-ribeiro)
+| Data | Versão | Descrição | Autor | Revisor |
+| ---- | ------ | --------- | ----- | ------- |
+| 01/07/2022 | `0.1`  | Criação e configuração do github pages | [Matheus Perillo](https://github.com/MatheusPerillo) | [Natan Santana](https://github.com/Neitan2001)
+| 01/07/2022 | `0.2`  | Criação da página Home e páginas base do documento | [Natan Santana](https://github.com/Neitan2001) | [Clara Ribeiro](https://github.com/clara-ribeiro)
