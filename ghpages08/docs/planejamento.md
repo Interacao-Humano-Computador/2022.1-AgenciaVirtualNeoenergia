@@ -67,11 +67,11 @@ Também é dado destaque à importância de ter os usuários envolvidos nas ativ
 
 ### Engenharia de Usabilidade de Mayhew
 
-Foi proposto por Deborah Mayhew um ciclo de vida para a engenharia de usabilidade que conta com três fases: análise de requisitos, design/avaliação/desenvolvimento e instalação. Esse processo de design possui uma visão holística e agrupa importantes atividades de design, guiando o designer a uma boa proposta de intervenção (BARBOSA, 2021). 
+Foi proposto por Deborah Mayhew um ciclo de vida para a engenharia de usabilidade que conta com três fases: análise de requisitos, design/avaliação/desenvolvimento e instalação, como podemos ver na Imagem 1. Esse processo de design possui uma visão holística e agrupa importantes atividades de design, guiando o designer a uma boa proposta de intervenção (BARBOSA, 2021). 
 
 <figure>
     <img src="../assets/UsabilidadeMayhew.png" alt="Usabilidade de Mayhew" style="width:100%">
-    <figcaption align = "center"><b>Ciclo de vida para a engenharia de usabilidade (BARBOSA, 2021).</b></figcaption>
+    <figcaption align = "center"><b>Imagem 1 - Ciclo de vida para a engenharia de usabilidade (BARBOSA, 2021).</b></figcaption>
 </figure>
 
 * Análise de requisitos: definição das metas de usabilidade, levando em conta o perfil dos usuários, análise das tarefas, possibilidades e limitações da plataforma em que o sistema será executado e princípios gerais de design de IHC.
@@ -83,6 +83,14 @@ Foi proposto por Deborah Mayhew um ciclo de vida para a engenharia de usabilidad
 ### Aplicando a Usabilidade de Mayhew na avaliação do site
 
 O sistema avaliado já está em produção e, portanto, a análise será iniciada na fase da instalação, em que serão identificados erros e possibilidades de melhorias. Para conseguir executar tais melhorias, será necessário voltar a análise para a primeira fase, de análise de requisitos, passando por todas as etapas previstas. Após a análise de requisitos, o ciclo de vida será seguido normalmente, dando início à fase de design, avaliação e desenvolvimento.
+
+## Tabela de Versionamento
+
+| Versão | Descrição | Autor | Revisor |
+| ------ | --------- | ----- | ------- |
+| `0.1`  | Criação do tópico Processo de Design | [Clara Ribeiro](https://github.com/clara-ribeiro) | [Matheus Perillo](https://github.com/MatheusPerillo)
+| `0.2`  | Adição da legenda na imagem | [Clara Ribeiro](https://github.com/clara-ribeiro) | [Matheus Perillo](https://github.com/MatheusPerillo) 
+
 ### Bibliografia
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
 
