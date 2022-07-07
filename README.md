@@ -12,6 +12,43 @@ O site escolhido foi o da Neoenergia, o qual será estudado e analisado conforme
 
 A documentação se encontra <a href="https://interacao-humano-computador.github.io/2022.1-Grupo-08/">aqui</a>
 
+## Instalação 
+
+### Baixando e rodando o rojeto
+
+```bash
+# Clone o repositório
+$ git clone https://github.com/Interacao-Humano-Computador/2022.1-Grupo-08
+
+# Entre nas pastas do projeto
+$ cd 2022.1-Grupo-08
+$ cd ghpages08
+
+# Instale o Mkdocs Material
+$ pip install mkdocs-material
+
+# Rodando o projeto localmente
+$ mkdocs serve
+
+```
+
+## Subindo o projeto para o Github Pages
+
+### Como buildar o projeto
+
+```bash
+# Antes de qualquer build, verifique se já houve revisão e merge da sua branch
+# Abra o terminal e digite o seguinte comando:
+$ mkdocs build
+```
+
+### Fazendo deploy do projeto
+
+```bash
+# Após o build, para fazer o deploy basta digitar o seguinte comando:
+$ mkdocs gh-deploy
+```
+
 ## Desenvolvedores.🤝
 
 <div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
