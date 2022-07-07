@@ -67,11 +67,11 @@ Também é dado destaque à importância de ter os usuários envolvidos nas ativ
 
 ### Engenharia de Usabilidade de Mayhew
 
-Foi proposto por Deborah Mayhew um ciclo de vida para a engenharia de usabilidade que conta com três fases: análise de requisitos, design/avaliação/desenvolvimento e instalação, como podemos ver na Imagem 1. Esse processo de design possui uma visão holística e agrupa importantes atividades de design, guiando o designer a uma boa proposta de intervenção (BARBOSA, 2021). 
+Foi proposto por Deborah Mayhew um ciclo de vida para a engenharia de usabilidade que conta com três fases: análise de requisitos, design/avaliação/desenvolvimento e instalação, como podemos ver na Imagem 2. Esse processo de design possui uma visão holística e agrupa importantes atividades de design, guiando o designer a uma boa proposta de intervenção (BARBOSA, 2021). 
 
 <figure>
     <img src="../assets/UsabilidadeMayhew.png" alt="Usabilidade de Mayhew" style="width:100%">
-    <figcaption align = "center"><b>Imagem 1 - Ciclo de vida para a engenharia de usabilidade (BARBOSA, 2021).</b></figcaption>
+    <figcaption align = "center"><b>Imagem 2 - Ciclo de vida para a engenharia de usabilidade (BARBOSA, 2021).</b></figcaption>
 </figure>
 
 * Análise de requisitos: definição das metas de usabilidade, levando em conta o perfil dos usuários, análise das tarefas, possibilidades e limitações da plataforma em que o sistema será executado e princípios gerais de design de IHC.
