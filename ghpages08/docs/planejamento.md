@@ -84,12 +84,19 @@ Foi proposto por Deborah Mayhew um ciclo de vida para a engenharia de usabilidad
 
 O sistema avaliado já está em produção e, portanto, a análise será iniciada na fase da instalação, em que serão identificados erros e possibilidades de melhorias. Para conseguir executar tais melhorias, será necessário voltar a análise para a primeira fase, de análise de requisitos, passando por todas as etapas previstas. Após a análise de requisitos, o ciclo de vida será seguido normalmente, dando início à fase de design, avaliação e desenvolvimento.
 
+### Por que usar o ciclo de vida de Mayhew?
+
+<div style="text-align: justify">
+O ciclo de vida de Mayhew foi escolhido porque tem etapas bem definidas e detalhadas, guiando o designer de forma clara e objetiva sobre qual passo precisa dar, ao contrário do Ciclo de Vida em Estrela, por exemplo. Usar um ciclo de vida detalhado assim é vantajoso para nossa equipe pois não possuímos a experiência necessária para seguir ciclos de vida onde as etapas são mais subjetivas. 
+</div>
+
 ## Tabela de Versionamento
 
 | Versão | Descrição | Autor | Revisor |
 | ------ | --------- | ----- | ------- |
 | `0.1`  | Criação do tópico Processo de Design | [Clara Ribeiro](https://github.com/clara-ribeiro) | [Matheus Perillo](https://github.com/MatheusPerillo)
 | `0.2`  | Adição da legenda na imagem | [Clara Ribeiro](https://github.com/clara-ribeiro) | [Matheus Perillo](https://github.com/MatheusPerillo) 
+| `0.3`  | Adição de justificativa para processo escolhido | [Rafael Xavier](https://github.com/rafaelxavierr) |
 
 ### Bibliografia
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
