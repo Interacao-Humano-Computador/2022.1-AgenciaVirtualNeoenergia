@@ -96,7 +96,7 @@ O ciclo de vida de Mayhew foi escolhido porque tem etapas bem definidas e detalh
 | ------ | --------- | ----- | ------- |
 | `0.1`  | Criação do tópico Processo de Design | [Clara Ribeiro](https://github.com/clara-ribeiro) | [Matheus Perillo](https://github.com/MatheusPerillo)
 | `0.2`  | Adição da legenda na imagem | [Clara Ribeiro](https://github.com/clara-ribeiro) | [Matheus Perillo](https://github.com/MatheusPerillo) 
-| `0.3`  | Adição de justificativa para processo escolhido | [Rafael Xavier](https://github.com/rafaelxavierr) |
+| `0.3`  | Adição de justificativa para processo escolhido | [Rafael Xavier](https://github.com/rafaelxavierr) | [Natan Santana](https://github.com/Neitan2001)
 
 ### Bibliografia
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
