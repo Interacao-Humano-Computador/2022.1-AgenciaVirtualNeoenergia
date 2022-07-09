@@ -93,10 +93,10 @@ Data limite  | Atividade/entrega | Autor(es) | Revisor
 
 ## Tabela de Versionamento
 
-| Versão | Descrição | Autor | Revisor |
-| ------ | --------- | ----- | ------- |
-| `0.1`  | Cronograma de atividades | [Rafael Xavier](https://github.com/rafaelxavierr) | [Natan Santana](https://github.com/Neitan2001)
-| `0.2`  | Adição de legendas nas tabelas | [Rafael Xavier](https://github.com/rafaelxavierr) | [Natan Santana](https://github.com/Neitan2001)
+| Data | Versão | Descrição | Autor | Revisor |
+| ---- | ------ | --------- | ----- | ------- |
+| 04/07/2022 | `0.1`  | Cronograma de atividades | [Rafael Xavier](https://github.com/rafaelxavierr) | [Natan Santana](https://github.com/Neitan2001)
+| 06/07/2022 | `0.2`  | Adição de legendas nas tabelas | [Rafael Xavier](https://github.com/rafaelxavierr) | [Natan Santana](https://github.com/Neitan2001)
 
 
 
@@ -144,12 +144,12 @@ O ciclo de vida de Mayhew foi escolhido porque tem etapas bem definidas e detalh
 
 ## Tabela de Versionamento
 
-| Versão | Descrição | Autor | Revisor |
-| ------ | --------- | ----- | ------- |
-| `0.1`  | Criação do tópico Processo de Design | [Clara Ribeiro](https://github.com/clara-ribeiro) | [Matheus Perillo](https://github.com/MatheusPerillo)
-| `0.2`  | Adição da legenda na imagem | [Clara Ribeiro](https://github.com/clara-ribeiro) | [Matheus Perillo](https://github.com/MatheusPerillo)
-| `0.3`  | Correção de bugs na documentação | [Matheus Perillo](https://github.com/MatheusPerillo) | [Clara Ribeiro](https://github.com/clara-ribeiro)
-| `0.4`  | Adição de justificativa para processo escolhido | [Rafael Xavier](https://github.com/rafaelxavierr) | [Natan Santana](https://github.com/Neitan2001)
+| Data | Versão | Descrição | Autor | Revisor |
+| ---- | ------ | --------- | ----- | ------- |
+| 04/07/2022 | `0.1`  | Criação do tópico Processo de Design | [Clara Ribeiro](https://github.com/clara-ribeiro) | [Matheus Perillo](https://github.com/MatheusPerillo)
+| 04/07/2022 | `0.2`  | Adição da legenda na imagem | [Clara Ribeiro](https://github.com/clara-ribeiro) | [Matheus Perillo](https://github.com/MatheusPerillo)
+| 07/07/2022 | `0.3`  | Correção de bugs na documentação | [Matheus Perillo](https://github.com/MatheusPerillo) | [Clara Ribeiro](https://github.com/clara-ribeiro)
+| 07/07/2022 | `0.4`  | Adição de justificativa para processo escolhido | [Rafael Xavier](https://github.com/rafaelxavierr) | [Natan Santana](https://github.com/Neitan2001)
 
 ### Bibliografia
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.

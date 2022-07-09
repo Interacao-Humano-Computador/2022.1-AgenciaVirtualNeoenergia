@@ -11,6 +11,8 @@ markdown_extensions:
   - md_in_html
   - tables
 theme:
+  logo: assets/tinyLogo.png
+  favicon: assets/tinyLogo.png
   name: material
   palette:
     primary: light green
