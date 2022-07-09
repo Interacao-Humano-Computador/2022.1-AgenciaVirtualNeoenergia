@@ -15,7 +15,13 @@ As ferramentas utilizadas pela equipe serão softwares que facilitarão o gerenc
 | Github | Plataforma usada para gerenciamento de configuração e evolução de software | ![Github](../assets/tool_logos/github_logo.png)|
 | MkDocs | Gerador de sites estáticos | ![MkDocs](../assets/tool_logos/mkdocs_logo.png)|
 | MkDocs-Material | Temas/Templates para o MkDocs | ![MkDocs-Material]../(../assets/tool_logos/mkdocs-material_logo.png)|
-*Tabela 1: Tabela contendo as ferramentas utilizadas no projeto*
+
+<div style="text-align: center">
+    <p>
+        Tabela 1: Tabela contendo as ferramentas utilizadas no projeto
+    </p>
+</div>
+
 
 ## Referências
 
