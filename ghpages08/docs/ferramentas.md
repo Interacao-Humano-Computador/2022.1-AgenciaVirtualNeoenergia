@@ -2,10 +2,9 @@
 
 ## Introdução
 
-As ferramentas utilizadas pela equipe serão softwares que facilitarão o gerenciamento, comunicação da equipe e desenvolvimento da documentação necessária para a realização do projeto de análise do site da Neoenergia.
+As ferramentas utilizadas pela equipe serão softwares que facilitarão o gerenciamento, comunicação da equipe e desenvolvimento da documentação necessária para a realização do projeto de análise do site da Neoenergia. A Tabela 1 a seguir apresenta as ferramentas utilizadas pelo grupo e vale notar que pode ter modificações nessa tabela de acordo com o que o Time achar que poderá ajudar no desenvolvimento do projeto durante a execução.
 
 ## Ferramentas do Projeto
-Tabela que inclui, mas não se limita às ferramentas usadas para execução destre projeto durante o semestre (sujeita a alterações):
 
 | Nome | Descrição | Ícone |
 | ---- | --------- | ----- |
@@ -32,5 +31,6 @@ Tabela que inclui, mas não se limita às ferramentas usadas para execução des
 
 | Data | Versão | Descrição | Autor | Revisor |
 | ---- | ------ | --------- | ----- | ------- |
-| 04/07/2022 | 0.1  | Criação e esboço da página de ferramentas | [Daniel Coimbra](https://github.com/DanielCoimbra) | [Natan Santana](https://github.com/Neitan2001)
-| 04/07/2022 | 0.2  | Mudança de lista para tabela. Adição de uma descrição e um ícone para cada ferramenta | [Daniel Coimbra](https://github.com/DanielCoimbra) | [Natan Santana](https://github.com/Neitan2001)
+| 04/07/2022 | `0.1`  | Criação e esboço da página de ferramentas | [Daniel Coimbra](https://github.com/DanielCoimbra) | [Natan Santana](https://github.com/Neitan2001)
+| 04/07/2022 | `0.2`  | Mudança de lista para tabela. Adição de uma descrição e um ícone para cada ferramenta | [Daniel Coimbra](https://github.com/DanielCoimbra) | [Natan Santana](https://github.com/Neitan2001)
+| 09/07/2022 | `0.3`  | Adição da introdução e legenda da tabela | [Daniel Coimbra](https://github.com/DanielCoimbra) | [Natan Santana](https://github.com/Neitan2001)
