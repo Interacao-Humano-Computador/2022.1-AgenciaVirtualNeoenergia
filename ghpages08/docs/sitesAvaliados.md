@@ -40,6 +40,18 @@
   </ol>
 </div>
 
+## Sites escolhidos pelos integrantes 
+
+| Site avaliado por cada membro individualmente | Membro que fez a avaliação |
+| --------------------------------------------- | ---------------------- |
+| Caixa Econômica                               | Natan Tavares       |
+| Governo de Pernambuco         | Luíza Esteves        |
+| Central Expresso | Rafael Xavier            |
+| Rastreamento Correios              | Daniel Coimbra           |
+| Brasília Laser Show              | Matheus Perillo           |
+| Agência Virtual NeoEnergia              | Clara Ribeiro           |
+
+
 ## Caixa Econômica
 
 <div style="text-align: justify">
@@ -60,6 +72,7 @@
 </div>
 
 
+
 ## Governo de Pernambuco
 <div style="text-align: justify">
 <p>O site do <a href="https://www.pe.gov.br"> Governo de Pernambuco</a> oferece informações e serviços do Estado, para que tanto turistas quanto moradores possam ter acesso facilitado a atividades e notícias que o governo entrega.</p>
@@ -75,8 +88,6 @@
 </ul>
 
 <p>Os principais problemas referem-se à não atualização do sistema quando para de carregar, vários menus espalhados pela tela e com designs diferentes, funcionalidades em teste e estética sobrecarregada.</p>
-
-
 
 </div>
 
@@ -94,6 +105,39 @@ transporte público sobre as linhas de ônibus e seus respectivos horários, é 
 <p>Os principais problemas referem-se ao mal posicionamento das informações, deixando-as incompletas e de difícil entendimento.</p>
 
 
+</div>
+
+## Rastreamento Correios
+<div style="text-align: justify">
+  <p>O site do <a href="https://rastreamento.correios.com.br/app/index.php">Rastreamento Correios</a> permite que pessoas que aguardam por entregas realizadas pelos correios do Brasil possam ser rastreadas e identificadas ao longo de seu trajeto.</p>
+  <p>Para a análise do site, foi feito um estudo observatório, identificando as principais dificuldades que os usuários possam passar, como estética confusa, problemas com realização de login e cadastro.</p>
+
+  <p> Os problemas identificados afetaram as seguintes heurísticas:</p>
+  <ul>
+    <li>Visibilidade e status do sistema</li>
+    <li>Estética e design minimalista</li>
+    <li>Flexibilidade e eficiência de uso</li>
+    <li>Ajuda o usuário a reconhecer, diagnosticar e recuperar-se de erros</li>
+
+  </ul>
+</div>
+
+## Brasília Laser Show
+<div style="text-align: justify">
+<p>O <a href="http://www.brasilialaser.com/">Brasília Laser Show </a>é uma empresa prestadora de serviços especializada em
+iluminação a laser para eventos especiais. O site da empresa mostra os eventos
+que já cobriu em fotos e vídeos, e também, diversas redes para entrar em contato
+com a mesma.</p>
+
+<p> Os problemas identificados afetaram as seguintes heurísticas:</p>
+  <ul>
+    <li>Estética e design minimalista </li>
+    <li>Ajuda e documentação</li>
+    <li>Prevenção de erros</li>
+    <li>Consistência e padronização</li>
+    <li>Status do sistema</li>
+
+  </ul>
 </div>
 
 ## Agência Virtual NeoEnergia
@@ -121,7 +165,7 @@ transporte público sobre as linhas de ônibus e seus respectivos horários, é 
 
 ## Site escolhido
 
-Diante dos sites analisados individualmente por cada integrante da equipe, fizemos uma reunião e entramos em consenso, optando pelo site da [NeoEnergia](https://agenciavirtual.neoenergiabrasilia.com.br/), que possui uma série de problemas identificados que serão válidos para a realização de uma análise de IHC, além do público alvo para realização de pesquisas ser mais fácil, já que a empresa atua no DF.
+Diante dos sites analisados individualmente por cada integrante da equipe, fizemos uma reunião e entramos em consenso, optando pelo site da [NeoEnergia](https://agenciavirtual.neoenergiabrasilia.com.br/), que possui uma série de problemas identificados que serão válidos para a realização de uma análise de IHC, além do público alvo para realização de pesquisas ser mais fácil, já que o site avaliado da empresa, será específico para usuários do Distrito Federal.
 
 ## Bibliografia
 
@@ -130,3 +174,12 @@ Diante dos sites analisados individualmente por cada integrante da equipe, fizem
 Heurística de Sítios na Web. [S. l.]</p>
 <p>Nielsen, Jakob (1994). Usability Engineering. Morgan Kaufmann Publishers Inc., San
 Francisco, CA, USA.</p>
+
+## Tabela de Versionamento
+
+| Data | Versão | Descrição | Autor | Revisor |
+| ---- | ------ | --------- | ----- | ------- |
+| 03/07/2022 | `0.1`  | Criação da página de Sites Avaliados | [Luíza Esteves](https://github.com/luiza-esteves) | [Rafael Xavier](https://github.com/rafaelxavierr)
+| 04/07/2022 | `0.2`  | Adição de tabela de versionamento | [Luíza Esteves](https://github.com/luiza-esteves) | [Rafael Xavier](https://github.com/rafaelxavierr)
+| 07/07/2022 | `0.3`  | Inserção do restante dos sites avaliados| [Luíza Esteves](https://github.com/luiza-esteves) | [Rafael Xavier](https://github.com/rafaelxavierr)
+
