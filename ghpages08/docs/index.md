@@ -11,9 +11,6 @@ e todos os problemas encontrados serão documentados nessa wiki com sugestões d
 usuário consiga atingir o seu objetivo com o máximo de eficiência.
 </div>
 
-## Equipe
-
-
 ## Políticas
 
 ### Políticas de Branchs
