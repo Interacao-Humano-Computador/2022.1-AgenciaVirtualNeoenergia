@@ -1,4 +1,4 @@
-# Planejamento
+# Cronograma e Processo de Design
 
 ## Cronograma de atividades
 
