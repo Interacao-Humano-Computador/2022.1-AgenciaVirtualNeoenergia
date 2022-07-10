@@ -1,4 +1,4 @@
-# Planejamento
+# Cronograma e Processo de Design
 
 ## Cronograma de atividades
 
@@ -87,19 +87,6 @@ Data limite  | Atividade/entrega | Autor(es) | Revisor
 <p>Tabela 7: Relato dos resultados do Protótipo de Papel, o Planejamento da Avaliação do protótipo de alta fidelidade e o Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade</p>
 </div>
 
-## Referências
-
- <p><ul>1. SALES, André Barros. Plano de ensino da disciplina. Disponível em: <a href="https://aprender3.unb.br">https://aprender3.unb.br</a>. Acesso em: 03 de julho de 2022.</ul></p>
-
-## Tabela de Versionamento
-
-| Data | Versão | Descrição | Autor | Revisor |
-| ---- | ------ | --------- | ----- | ------- |
-| 04/07/2022 | `0.1`  | Cronograma de atividades | [Rafael Xavier](https://github.com/rafaelxavierr) | [Natan Santana](https://github.com/Neitan2001)
-| 06/07/2022 | `0.2`  | Adição de legendas nas tabelas | [Rafael Xavier](https://github.com/rafaelxavierr) | [Natan Santana](https://github.com/Neitan2001)
-
-
-
 ## Processo de Design
 <div style="text-align: justify">
 <p>
@@ -141,6 +128,12 @@ O sistema avaliado já está em produção e, portanto, a análise será iniciad
 <div style="text-align: justify">
 O ciclo de vida de Mayhew foi escolhido porque tem etapas bem definidas e detalhadas, guiando o designer de forma clara e objetiva sobre qual passo precisa dar, ao contrário do Ciclo de Vida em Estrela, por exemplo. Usar um ciclo de vida detalhado assim é vantajoso para nossa equipe pois não possuímos a experiência necessária para seguir ciclos de vida onde as etapas são mais subjetivas. 
 </div>
+### Bibliografia
+> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
+
+> Mayhew, D. Th e Usability Engineering Lifecycle: a practitioner’s handbook for user interface design. San Francisco, CA: Morgan Kaufmann, 1999.
+
+>  SALES, André Barros. Plano de ensino da disciplina. Disponível em: <a href="https://aprender3.unb.br">https://aprender3.unb.br</a>. Acesso em: 03 de julho de 2022.
 
 ## Tabela de Versionamento
 
@@ -148,12 +141,7 @@ O ciclo de vida de Mayhew foi escolhido porque tem etapas bem definidas e detalh
 | ---- | ------ | --------- | ----- | ------- |
 | 04/07/2022 | `0.1`  | Criação do tópico Processo de Design | [Clara Ribeiro](https://github.com/clara-ribeiro) | [Matheus Perillo](https://github.com/MatheusPerillo)
 | 04/07/2022 | `0.2`  | Adição da legenda na imagem | [Clara Ribeiro](https://github.com/clara-ribeiro) | [Matheus Perillo](https://github.com/MatheusPerillo)
+| 04/07/2022 | `0.1`  | Cronograma de atividades | [Rafael Xavier](https://github.com/rafaelxavierr) | [Natan Santana](https://github.com/Neitan2001)
+| 06/07/2022 | `0.2`  | Adição de legendas nas tabelas | [Rafael Xavier](https://github.com/rafaelxavierr) | [Natan Santana](https://github.com/Neitan2001)
 | 07/07/2022 | `0.3`  | Correção de bugs na documentação | [Matheus Perillo](https://github.com/MatheusPerillo) | [Clara Ribeiro](https://github.com/clara-ribeiro)
 | 07/07/2022 | `0.4`  | Adição de justificativa para processo escolhido | [Rafael Xavier](https://github.com/rafaelxavierr) | [Natan Santana](https://github.com/Neitan2001)
-
-### Bibliografia
-> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
-
-> Mayhew, D. Th e Usability Engineering Lifecycle: a practitioner’s handbook for user interface design. San Francisco, CA: Morgan Kaufmann, 1999.
-
->  SALES, André Barros. Plano de ensino da disciplina. Disponível em: <a href="https://aprender3.unb.br">https://aprender3.unb.br</a>. Acesso em: 03 de julho de 2022.
