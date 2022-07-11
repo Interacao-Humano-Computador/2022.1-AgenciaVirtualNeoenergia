@@ -45,8 +45,6 @@ O ciclo de vida de Mayhew foi escolhido porque tem etapas bem definidas e detalh
 
 > Mayhew, D. Th e Usability Engineering Lifecycle: a practitioner’s handbook for user interface design. San Francisco, CA: Morgan Kaufmann, 1999.
 
->  SALES, André Barros. Plano de ensino da disciplina. Disponível em: <a href="https://aprender3.unb.br">https://aprender3.unb.br</a>. Acesso em: 03 de julho de 2022.
-
 ## Tabela de Versionamento
 
 | Data | Versão | Descrição | Autor | Revisor |
