@@ -11,7 +11,8 @@ Este é o cronograma de atividades e entregas da equipe, que está sendo elabora
 
 Data limite  | Atividade/entrega | Autor(es) | Revisor
 --------- | ----------------- | -------------- | ----------
-07/07 | Adição da equipe no github pages | [Matheus Perillo](https://github.com/MatheusPerillo) | [Luíza Esteves](https://github.com/luiza-esteves)
+07/07 | Criação e costumização do Github pages e página inicial do projeto | [Natan Santana](https://github.com/MatheusPerillo) | [Matheus Perillo](https://github.com/MatheusPerillo)
+07/07 | Adição da equipe no Github pages | [Matheus Perillo](https://github.com/MatheusPerillo) | [Luíza Esteves](https://github.com/luiza-esteves)
 07/07 | Lista de sites avaliados e site escolhido para a disciplina | [Luíza Esteves](https://github.com/luiza-esteves) | [Rafael Xavier](https://github.com/rafaelxavierr)
 07/07 | Ferramentas do projeto | [Daniel Coimbra](https://github.com/DanielCoimbra) | [Natan Santana](https://github.com/Neitan2001)
 07/07 | Processo de Design | [Clara Ribeiro](https://github.com/clara-ribeiro) | [Matheus Perillo](https://github.com/MatheusPerillo)
