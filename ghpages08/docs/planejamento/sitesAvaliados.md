@@ -109,7 +109,7 @@ transporte público sobre as linhas de ônibus e seus respectivos horários, é 
 <p>Os principais problemas referem-se ao mal posicionamento das informações, deixando-as incompletas e de difícil entendimento.</p>
 </div>
 
-A avaliação completa pode ser encontrada [Aqui](../assets/avaliacao/rafaelAvaliacao.pdf){target=_blank}
+A avaliação completa pode ser encontrada [Aqui](./avalia%C3%A7%C3%B5es_dos_sites/central_expresso.md){target=_blank}
 
 ## Rastreamento Correios
 <div style="text-align: justify">
@@ -125,7 +125,7 @@ A avaliação completa pode ser encontrada [Aqui](../assets/avaliacao/rafaelAval
   </ul>
 </div>
 
-A avaliação completa pode ser encontrada [Aqui](../assets/avaliacao/rafaelAvaliacao.pdf){target=_blank}
+A avaliação completa pode ser encontrada [Aqui](./avalia%C3%A7%C3%B5es_dos_sites/rastreamento_correios.md){target=_blank}
 
 ## Brasília Laser Show
 <div style="text-align: justify">
@@ -162,7 +162,7 @@ A avaliação completa pode ser encontrada [Aqui](../assets/avaliacao/matheusAva
 <p>A responsável pela avaliação foi a Clara Macedo e os principais problemas referem-se à não identificação de um erro cometido pelo usuário e falta de recursos que facilitem o acesso pelo usuário em funções como gerar relatório ou manter salvo senhas e evitar processo de recuperação de senha.</p>
 </div>
 
-A avaliação completa pode ser encontrada [Aqui](../assets/avaliacao/claraAvaliacao.pdf){target=_blank}
+A avaliação completa pode ser encontrada [Aqui](./avalia%C3%A7%C3%B5es_dos_sites/agencia_virtual.md){target=_blank}
 
 ## Site escolhido
 
