@@ -14,8 +14,8 @@ As ferramentas utilizadas pela equipe serão softwares que facilitarão o gerenc
 | Figma | Ferramenta de design gráfico com vetores e prototipação colaborativa | ![Figma](../assets/tool_logos/figma_logo.png)|
 | Github | Plataforma usada para gerenciamento de configuração e evolução de software | ![Github](../assets/tool_logos/github_logo.png)|
 | MkDocs | Gerador de sites estáticos | ![MkDocs](../assets/tool_logos/mkdocs_logo.png)|
-| MkDocs-Material | Temas/Templates para o MkDocs | ![MkDocs-Material]../(../assets/tool_logos/mkdocs-material_logo.png)|
-
+| MkDocs-Material | Temas/Templates para o MkDocs | ![MkDocs-Material](../assets/tool_logos/mkdocs-material_logo.png)|
+| LucidChart | Elaboração de modelo de Árvore de Tarefas Concorrentes | ![LucidChart](../assets/tool_logos/lucidchart.svg)|
 <div style="text-align: center">
     <p>
         Tabela 1: Tabela contendo as ferramentas utilizadas no projeto
@@ -40,3 +40,4 @@ As ferramentas utilizadas pela equipe serão softwares que facilitarão o gerenc
 | 04/07/2022 | `0.1`  | Criação e esboço da página de ferramentas | [Daniel Coimbra](https://github.com/DanielCoimbra) | [Natan Santana](https://github.com/Neitan2001)
 | 04/07/2022 | `0.2`  | Mudança de lista para tabela. Adição de uma descrição e um ícone para cada ferramenta | [Daniel Coimbra](https://github.com/DanielCoimbra) | [Natan Santana](https://github.com/Neitan2001)
 | 09/07/2022 | `0.3`  | Adição da introdução e legenda da tabela | [Daniel Coimbra](https://github.com/DanielCoimbra) | [Natan Santana](https://github.com/Neitan2001)
+| 18/07/2022 | `0.4`  | Adição de nova feramenta | [Luíza Esteves](https://github.com/luiza-esteves) | [Rafael Xavier](https://github.com/rafaelxavierr)
