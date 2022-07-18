@@ -15,6 +15,7 @@ As ferramentas utilizadas pela equipe serão softwares que facilitarão o gerenc
 | Github | Plataforma usada para gerenciamento de configuração e evolução de software | ![Github](assets/tool_logos/github_logo.png)|
 | MkDocs | Gerador de sites estáticos | ![MkDocs](assets/tool_logos/mkdocs_logo.png)|
 | MkDocs-Material | Temas/Templates para o MkDocs | ![MkDocs-Material](assets/tool_logos/mkdocs-material_logo.png)|
+| LucidChart | Ferramenta utilizada para desenvolvimento de diagramas | ![LucidChart](assets/tool_logos/lucidchart.svg)|
 *Tabela 1: Tabela contendo as ferramentas utilizadas no projeto*
 
 ## Referências
@@ -26,6 +27,7 @@ As ferramentas utilizadas pela equipe serão softwares que facilitarão o gerenc
 - MkDocs-Material Github README file. Disponível em: <https://github.com/squidfunk/mkdocs-material#readme> [MkDocs-Material ](https://github.com/squidfunk/mkdocs-material#readme) - Acesso em 04/07/2022
 - Figma. Disponível em: <https://www.figma.com/about/>[Figma about page](https://www.figma.com/about/) - Acesso em 04/07/2022
 - Miro. Disponível em: <https://miro.com/about/> [Miro about page](https://miro.com/about/) - Acesso em 04/07/2022
+- LucidChart. Disponível em: <https://lucid.app/documents#/dashboard> [Miro about page](https://miro.com/about/) - Acesso em 18/07/2022
 
 ## Tabela de Versionamento
 
