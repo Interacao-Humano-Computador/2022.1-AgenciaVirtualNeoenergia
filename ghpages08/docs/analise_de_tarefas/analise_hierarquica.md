@@ -61,4 +61,4 @@ A Figura 4 apresenta o diagrama da análise da tarefa "Relatório Nada Consta" e
 
 | Data | Versão | Descrição | Autor | Revisor |
 | ---- | ------ | --------- | ----- | ------- |
-| 04/07/2022 | `0.1`  | Criação da página de análise hierárquica | [Natan Santana](https://github.com/Neitan2001) | 
+| 18/07/2022 | `0.1`  | Criação da página de análise hierárquica | [Natan Santana](https://github.com/Neitan2001) | [Luíza Esteves](https://github.com/luiza-esteves)
