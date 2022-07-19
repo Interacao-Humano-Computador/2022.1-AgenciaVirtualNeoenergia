@@ -145,7 +145,7 @@ com a mesma.</p>
   </ul>
 </div>
 
-A avaliação completa pode ser encontrada [Aqui](../assets/avaliacao/matheusAvaliacao.pdf){target=_blank}
+A avaliação completa pode ser encontrada [Aqui](./avalia%C3%A7%C3%B5es_dos_sites/brasilia_lazer.md){target=_blank}
 
 ## Agência Virtual NeoEnergia
 <div style="text-align: justify">
@@ -170,11 +170,11 @@ Diante dos sites analisados individualmente por cada integrante da equipe, fizem
 
 ## Bibliografia
 
-<p>BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.</p>
-<p>MACIEL, Cristiano; NOGUEIRA, José Luis; CIUFFO, Leandro; GARCIA, Ana Cristina. Avaliação
-Heurística de Sítios na Web. [S. l.]</p>
-<p>Nielsen, Jakob (1994). Usability Engineering. Morgan Kaufmann Publishers Inc., San
-Francisco, CA, USA.</p>
+> BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
+
+> MACIEL, Cristiano; NOGUEIRA, José Luis; CIUFFO, Leandro; GARCIA, Ana Cristina. Avaliação Heurística de Sítios na Web. [S. l.]
+
+> Nielsen, Jakob (1994). Usability Engineering. Morgan Kaufmann Publishers Inc., San Francisco, CA, USA.
 
 ## Tabela de Versionamento
 
@@ -183,4 +183,5 @@ Francisco, CA, USA.</p>
 | 03/07/2022 | `0.1`  | Criação da página de Sites Avaliados | [Luíza Esteves](https://github.com/luiza-esteves) | [Rafael Xavier](https://github.com/rafaelxavierr)
 | 04/07/2022 | `0.2`  | Adição de tabela de versionamento | [Luíza Esteves](https://github.com/luiza-esteves) | [Rafael Xavier](https://github.com/rafaelxavierr)
 | 07/07/2022 | `0.3`  | Inserção do restante dos sites avaliados| [Luíza Esteves](https://github.com/luiza-esteves) | [Rafael Xavier](https://github.com/rafaelxavierr)
+| 18/07/2022 | `0.4`  | Adição dos links para avaliações individuais dos sites| [Natan Santana](https://github.com/Neitan2001) | 
 
