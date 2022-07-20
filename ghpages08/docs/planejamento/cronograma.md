@@ -1,6 +1,6 @@
 # Cronograma de atividades
 
-### Introdução
+## Introdução
 
 
 <div style="text-align: justify">
