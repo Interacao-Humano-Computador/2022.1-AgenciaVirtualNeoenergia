@@ -1,6 +1,11 @@
 # Características da plataforma
 
+## Introdução
 
+<p style=" text-align: justify">
+&emsp; Para obter-se que os produtos interativos sejam fáceis de aprender, agradáveis e eficazes na visão do usuário a usabilidade geralmente é considerada como um garantia para tal.
+        É utilizada para otimizar as interações que as pessoas têm com produtos interativos para permitir que realizem suas atividades em suas rotinas.
+</p>
 
 ## Tabela de versionamento
 
