@@ -33,7 +33,7 @@ Data limite  | Atividade/entrega | Autor(es) | Revisor
 18/07 | Personas | [Daniel Coimbra](https://github.com/DanielCoimbra) | [Natan Santana](https://github.com/Neitan2001)
 18/07 | Perfil de Usuários | [Rafael Xavier](https://github.com/rafaelxavierr) | [Clara Ribeiro](https://github.com/clara-ribeiro)
 18/07 | Árvore de Tarefas Concorrentes | [Luíza Esteves](https://github.com/luiza-esteves) e [Daniel Coimbra](https://github.com/DanielCoimbra) | [Rafael Xavier](https://github.com/rafaelxavierr)
-18/07 | GOMS | [Rafael Xavier](https://github.com/rafaelxavierr) e [Clara Ribeiro](https://github.com/clara-ribeiro) | [Matheus Perillo](https://github.com/MatheusPerillo)
+18/07 | GOMS | [Rafael Xavier](https://github.com/rafaelxavierr) e [Clara Ribeiro](https://github.com/clara-ribeiro) | [Natan Santana](https://github.com/Neitan2001)
 18/07 | Análise Hierárquica de Tarefas | [Natan Santana](https://github.com/Neitan2001) | [Luíza Esteves](https://github.com/luiza-esteves)
 18/07 | Características da Plataforma | [Matheus Perillo](https://github.com/MatheusPerillo) | [Clara Ribeiro](https://github.com/clara-ribeiro)
 19/07 | Slides e gravação do vídeo de apresentação | Todos | [Natan Santana](https://github.com/Neitan2001)

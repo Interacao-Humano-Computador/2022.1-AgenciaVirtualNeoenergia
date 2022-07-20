@@ -232,5 +232,5 @@ frameworks: Toward a multidisciplinary science, pages 55–101. Morgan Kaufman
 | Data | Versão | Descrição | Autor | Revisor |
 | ---- | ------ | --------- | ----- | ------- |
 | 18/07/2022 | `0.1`  | Criação da página | [Natan Santana](https://github.com/Neitan2001) | [Luíza Esteves](https://github.com/luiza-esteves)
-| 19/07/2022 | `0.2`  | Adição das tabelas de Operação e Tempo Médio | [Clara Ribeiro](https://github.com/clara-ribeiro) | 
-19/07/2022 | `0.3` | Adição de introdução e divs | [Rafael Xavier](https://github.com/rafaelxavierr) | 
+| 19/07/2022 | `0.2`  | Adição das tabelas de Operação e Tempo Médio | [Clara Ribeiro](https://github.com/clara-ribeiro) | [Natan Santana](https://github.com/Neitan2001)
+19/07/2022 | `0.3` | Adição de introdução e divs | [Rafael Xavier](https://github.com/rafaelxavierr) | [Natan Santana](https://github.com/Neitan2001)
