@@ -44,4 +44,4 @@
 ## Tabela de Versionamento
 | Data | Versão | Descrição | Autor | Revisor |
 | ---- | ------ | --------- | ----- | ------- |
-| 16/07/2022 | `0.1`  | Criação da página de tarefas concorrentes | [Luíza Esteves](https://github.com/luiza-esteves) | [Matheus Perillo](https://github.com/MatheusPerillo)
+| 16/07/2022 | `0.1`  | Criação da página de tarefas concorrentes | [Luíza Esteves](https://github.com/luiza-esteves) | [Rafael Xavier](https://github.com/rafaelxavierr)
