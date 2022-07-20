@@ -3,13 +3,17 @@
 ## Introdução
 
 <p style=" text-align: justify">
-&emsp; Este é um método de elicitação muito utilizado, inclusive existem metodologias de projeto guiadas por personas. São pessoas fictícias criadas pelos desenvolvedores e projetistas de sistemas, para representar os usuários importantes para guiar a elicitação de requisitos e funcionalidades. São de muita valia, pois criam uma percepção tangível dos usuários para os envolvidos no desenvolvimento do software. Os usuários se tornam menos abstratos e genéricos. É também, uma importante ferramenta de síntese de ideias, de forma que o nome de uma persona já evoca, na mente dos desenvolvedores, todas as necessidades e objetivos ligados àquela persona. Determinamos de início, a persona primária, as secundárias e a anti-persona.
+&emsp; Uma persona é uma personagem fictícia, um arquétipo, baseado em dados reais de usuários, criada para descrever um usuário médio. As personas são definidas principalmente por suas vontades, objetivos e interesses que são captados devido a um processo de investigação inicial de atividades de usuários. Essa abordagem é útil para conduzir as decisões de projeto, para que os designers do produto mantenham o foco nos usuários, um dos pontos mais importante em um sistema de interação humano-computador. (Cooper et al. 2007; Pruitt e Adlin, 2006)
 </p>
 
-## Metologia
+
+## Metodologia
 
 <p style=" text-align: justify">
-&emsp;  A partir do Brainstorm realizado em uma reunião com todos os membros do grupo, conseguimos levantar alguns requisitos básicos. A partir desses requisitos, buscamos as personas básicas que mais utilizariam esses requisitos. As personas foram detalhadas, com suas histórias, necessidades e objetivos. Pode parecer algo inútil em um primeiro momento, mas é muito importante para criar uma imagem vívida da persona para os designers e estabelcer requistos de forma precisa.
+&emsp; Este é um método de elicitação muito utilizado, inclusive existem metodologias de projeto guiadas por personas. É também, uma importante ferramenta de síntese de ideias, de forma que o nome de uma persona já evoca, na mente dos desenvolvedores, todas as necessidades e objetivos ligados àquela persona. Determinamos de início, a persona primária, as secundárias e a anti-persona.
+</p>
+<p style=" text-align: justify">
+&emsp;  Este é um método de elicitação muito utilizado, inclusive existem metodologias de projeto guiadas por personas. É também uma importante ferramenta de síntese de ideias, de forma que o nome de uma persona já evoca, na mente dos desenvolvedores, todas as necessidades e objetivos ligados àquela persona. Determinamos de início, a persona primária, as secundárias e a anti-persona. A partir do Brainstorm realizado em uma reunião com todos os membros do grupo, conseguimos levantar alguns requisitos básicos. A partir desses requisitos, buscamos as personas básicas que mais utilizariam esses requisitos. As personas foram detalhadas, com suas histórias, necessidades e objetivos. É importante criar essa imagem vívida da persona para os designers estabelecerem os requisitos de forma precisa.
 </p>
 
 ## Personas
@@ -72,11 +76,10 @@
 |**Nome**| João |
 |  **Foto**   | <img width="200px" src="https://github.com/Interacao-Humano-Computador/2022.1-AgenciaVirtualNeoenergia/blob/%2314-Personas/ghpages08/docs/assets/Persona4.jpg?raw=true"><p>Imagem 4:  Antipersona</p> 
 |**Descrição** | João, 48 anos, morador de Brasilia.<br> Vendedor.<br>Homem <br>Casado  <br>Mora no Gama, Brasilia.|
-|**Status** | Antipersona.|
 |**Contexto**| Queria ter tirado a segunda via da conta de energia, mas entrou no website da Neoenergia sem saber que não se aplica à sua residência. João não precisará usar o sitema. |
 
 <div style="text-align: center">
-<p>Tabela 4: Antipersona</p>
+<p>Tabela 4: Anti-persona</p>
 </div>
 
 
@@ -87,4 +90,5 @@
 | 20/07/2022 | `0.2`  | Introdução ao documento | [Matheus Perillo](https://github.com/MatheusPerillo) | [Clara Ribeiro](https://github.com/clara-ribeiro)
 | 20/07/2022 | `0.3`  | Metodologia utilizada | [Matheus Perillo](https://github.com/MatheusPerillo) | [Clara Ribeiro](https://github.com/clara-ribeiro)
 | 20/07/2022 | `0.4`  | Adição das Personas | [Matheus Perillo](https://github.com/MatheusPerillo) | [Clara Ribeiro](https://github.com/clara-ribeiro)
-| 20/07/2022 | `0.5`  | Adição de Personas e Antipersona | [Daniel Coimbra](https://github.com/DanielCoimbra) | [Matheus Perillo](https://github.com/MatheusPerillo)
+| 20/07/2022 | `0.5`  | Adição de Personas e Anti-persona | [Daniel Coimbra](https://github.com/DanielCoimbra) | [Matheus Perillo](https://github.com/MatheusPerillo)
+| 20/07/2022 | `0.6`  | Mudanças na introdução e metodologia| [Daniel Coimbra](https://github.com/DanielCoimbra) | [Matheus Perillo](https://github.com/MatheusPerillo)
