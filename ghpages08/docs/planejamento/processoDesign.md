@@ -70,4 +70,4 @@ Morgan Kaufmann Publishers Inc., San Francisco, CA, USA.
 | 04/07/2022 | `0.2`  | Adição da legenda na imagem | [Clara Ribeiro](https://github.com/clara-ribeiro) | [Matheus Perillo](https://github.com/MatheusPerillo)
 | 07/07/2022 | `0.3`  | Correção de bugs na documentação | [Matheus Perillo](https://github.com/MatheusPerillo) | [Clara Ribeiro](https://github.com/clara-ribeiro)
 | 07/07/2022 | `0.4`  | Adição de justificativa para processo escolhido | [Rafael Xavier](https://github.com/rafaelxavierr) | [Natan Santana](https://github.com/Neitan2001)
-| 19/07/2022 | `0.5`  | Adição de justificativa para processo escolhido | [Clara Ribeiro](https://github.com/clara-ribeiro) |
+| 19/07/2022 | `0.5`  | Adição do resumo de outros processos de Design | [Clara Ribeiro](https://github.com/clara-ribeiro) | [Natan Santana](https://github.com/Neitan2001)
