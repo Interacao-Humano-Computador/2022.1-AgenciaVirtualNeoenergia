@@ -1,5 +1,8 @@
 site_name: Agência Virtual Neoenergia Brasília
 markdown_extensions:
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
   - pymdownx.highlight:
       anchor_linenums: true
   - toc:
