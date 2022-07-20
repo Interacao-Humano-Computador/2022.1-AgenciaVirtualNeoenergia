@@ -1,11 +1,12 @@
 # Agência Virtual NeoEnergia
 
-## introdução
+## Introdução
 
 <div style="text-align: justify">
 Para a avaliação do site da Agência Virtual foi escolhido o método da avaliação
 heurística, justamente por ser um método que orienta o avaliador a inspecionar
 sistematicamente a interface em busca de problemas que prejudiquem a usabilidade.
+<br/>
 <br/>
 A seguir será apresentado todos os dados coletados por meio da inspeção realizada pela avaliadora Clara Marcelino Ribeiro de Sousa.
 </div>
@@ -90,14 +91,14 @@ Sim, o site deixa os seus serviços bem visíveis em diversos espaços como pode
 </div>
 
 ### 8. Flexibilidade e eficiência de uso
+<b>Verificação:</b> fornece aceleradores invisíveis aos usuários inexperientes, os quais, no entanto, permitem aos mais experientes realizar tarefas com mais rapidez?
+
 A seguir pode ser verificado o problema 1 desta heurística encontrado na tela apresentada na Figura 6. A análise detalhada do problema está documentada na Tabela 3:
 
 ![Tela 6](../../assets/avaliacao/agencia_virtual/tela6.png){ width="900"}
 <div style="text-align: center">
 <p>Figura 6</p>
 </div>
-
-<b>Verificação:</b> fornece aceleradores invisíveis aos usuários inexperientes, os quais, no entanto, permitem aos mais experientes realizar tarefas com mais rapidez?
 
 ![Problema 3](../../assets/avaliacao/agencia_virtual/problema3.png){ width="900"}
 <div style="text-align: center">
@@ -149,4 +150,4 @@ Sim, há diversos conteúdos sobre o uso do sistema como pode notado na Figura 9
 
 | Data | Versão | Descrição | Autor | Revisor |
 | ---- | ------ | --------- | ----- | ------- |
-| 16/07/2022 | `0.1`  | Criação da página de Avaliação da Agência Virtual| [Natan Santana](https://github.com/Neitan2001) | 
+| 16/07/2022 | `0.1`  | Criação da página de Avaliação da Agência Virtual| [Natan Santana](https://github.com/Neitan2001) | [Clara Ribeiro](https://github.com/clara-ribeiro)

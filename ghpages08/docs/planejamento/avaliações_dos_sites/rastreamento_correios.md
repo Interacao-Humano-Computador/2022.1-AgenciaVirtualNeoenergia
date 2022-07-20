@@ -6,7 +6,7 @@
 Para a avaliação do site do Rastreamento Correios foi escolhido o método da avaliação
 heurística, justamente por ser um método que orienta o avaliador a inspecionar
 sistematicamente a interface em busca de problemas que prejudiquem a usabilidade.
-<br/>
+<br/> <br/>
 A seguir será apresentado todos os dados coletados por meio da inspeção realizada pelo avaliador Daniel Coimbra dos Santos.
 </div>
 
@@ -66,7 +66,7 @@ para preencher os campos de input.
 
 <div style="text-align: justify">
 O site é bem enxuto, conta com o conteúdo do serviço no
-corpo, um hamburguer menu na barra do topo e um diversos links para outros serviços no
+corpo, um menu na barra do topo e diversos links para outros serviços no
 rodapé.
 </div>
 
@@ -86,7 +86,7 @@ situação. No caso de um usuário com um número X de encomendas, suficiente pa
 de input sair do campo de visão do usuário, ao clicar em um objeto, solicitando mais dados de
 um determinado rastreio, se o captcha estiver errado, a mensagem somente irá aparecer lá em
 cima no input, ou seja, fora do campo de visão de quem opera o sistema, fazendo assim com
-que um desavisado pense que o site está quebrado. Vale salientar que o captcha reseta a cada
+que o usuário pense que o site está quebrado. Vale salientar que o captcha reseta a cada
 clique em um objeto, então ao requisitar dados a partir de um segundo rastreio na mesma
 sessão, é necessário sobrescrever o campo de escrita para combinar com o novo captcha
 gerado, e isso não é informado ao usuário.
@@ -109,4 +109,4 @@ inputs.
 
 | Data | Versão | Descrição | Autor | Revisor |
 | ---- | ------ | --------- | ----- | ------- |
-| 16/07/2022 | `0.1`  | Criação da página de Avaliação do Rastreamento Correios | [Natan Santana](https://github.com/Neitan2001) | 
+| 16/07/2022 | `0.1`  | Criação da página de Avaliação do Rastreamento Correios | [Natan Santana](https://github.com/Neitan2001) | [Clara Ribeiro](https://github.com/clara-ribeiro)

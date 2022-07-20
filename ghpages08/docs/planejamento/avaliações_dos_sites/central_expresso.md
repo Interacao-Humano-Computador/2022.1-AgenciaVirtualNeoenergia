@@ -7,7 +7,7 @@ O site da CT Expresso tem o propósito de informar a população que faz o uso d
 transporte público sobre as linhas de ônibus e seus respectivos horários, é possível também
 visualizar as redes sociais da empresa e seu número de contato, além de informações sobre
 vale transporte.
-<br/>
+<br/><br/>
 A seguir será explicado brevemente o método de avaliação escolhido e apresentado todos os dados
 coletados por meio da inspeção realizada pelo avaliador Rafael Xavier Canabrava.
 </div>
@@ -60,4 +60,4 @@ A seguir pode ser verificado o problema 2 encontrado na tela apresentada na Figu
 
 | Data | Versão | Descrição | Autor | Revisor |
 | ---- | ------ | --------- | ----- | ------- |
-| 16/07/2022 | `0.1`  | Criação da página de Avaliação da Central Expresso | [Natan Santana](https://github.com/Neitan2001) | 
+| 16/07/2022 | `0.1`  | Criação da página de Avaliação da Central Expresso | [Natan Santana](https://github.com/Neitan2001) | [Clara Ribeiro](https://github.com/clara-ribeiro)

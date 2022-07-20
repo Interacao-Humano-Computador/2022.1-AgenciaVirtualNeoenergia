@@ -8,7 +8,7 @@ de identificar problemas na interação e interface, detalhando onde ocorrem e u
 melhorar a interação do usuário com a plataforma. O escopo desta análise será as telas do site principal
 que podem ser acessadas sem ter uma conta criada. A seguinte avaliação foi feita analisando as
 heurísticas propostas por Nielsen e identificando quais elementos estariam em violação.
-<br/>
+<br/><br/>
 A seguir será explicado brevemente o método de avaliação escolhido e apresentado todos os dados
 coletados por meio da inspeção realizada pelo avaliador Natan Tavares Santana.
 </div>
@@ -157,4 +157,4 @@ A seguir pode ser verificado o problema 9 encontrado na tela apresentada na Figu
 
 | Data | Versão | Descrição | Autor | Revisor |
 | ---- | ------ | --------- | ----- | ------- |
-| 15/07/2022 | `0.1`  | Criação da página de Avaliação da Caixa | [Natan Santana](https://github.com/Neitan2001) | 
+| 15/07/2022 | `0.1`  | Criação da página de Avaliação da Caixa | [Natan Santana](https://github.com/Neitan2001) | [Clara Ribeiro](https://github.com/clara-ribeiro)

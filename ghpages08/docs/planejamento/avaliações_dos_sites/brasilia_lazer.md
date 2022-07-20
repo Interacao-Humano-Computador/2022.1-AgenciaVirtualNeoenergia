@@ -8,7 +8,7 @@ em iluminação a laser para eventos especiais. O site da empresa mostra os even
 que já cobriu em fotos e vídeos, e também, diversas redes para entrar em contato
 com a mesma.
 <br/>
-A seguir será apresentado todos os dados coletados por meio da inspeção realizada pela avaliadora Matheus Moreira Lopes Perillo.
+A seguir será apresentado todos os dados coletados por meio da inspeção realizada pelo avaliador Matheus Moreira Lopes Perillo.
 </div>
 
 ## Problemas Identificados
@@ -49,4 +49,4 @@ A seguir pode ser verificado o problema 5. A análise detalhada do problema est�
 
 | Data | Versão | Descrição | Autor | Revisor |
 | ---- | ------ | --------- | ----- | ------- |
-| 18/07/2022 | `0.1`  | Criação da página de Avaliação do Brasilia Laser Show | [Natan Santana](https://github.com/Neitan2001) | 
+| 18/07/2022 | `0.1`  | Criação da página de Avaliação do Brasilia Laser Show | [Natan Santana](https://github.com/Neitan2001) | [Clara Ribeiro](https://github.com/clara-ribeiro)

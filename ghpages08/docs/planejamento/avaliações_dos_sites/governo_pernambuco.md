@@ -8,9 +8,9 @@ desenvolvimento já foi feito, o melhor método encontrado para fazer uma
 avaliação inicial neste relatório será por meio de uma Avaliação Heurística,
 uma vez que ela se baseia em identificar problemas na interface que possam
 atrapalhar a usabilidade do sistema.
-<br/>
+<br/><br/>
 A seguir será explicado brevemente o método de avaliação escolhido e apresentado todos os dados
-coletados por meio da inspeção realizada pelo avaliador Luíza Esteves.
+coletados por meio da inspeção realizada pela avaliadora Luíza Esteves.
 </div>
 
 ## Heurísticas de Nielsen
@@ -142,4 +142,4 @@ site.
 
 | Data | Versão | Descrição | Autor | Revisor |
 | ---- | ------ | --------- | ----- | ------- |
-| 15/07/2022 | `0.1`  | Criação da página de Avaliação do Governo de Pernambuco | [Natan Santana](https://github.com/Neitan2001) | 
+| 15/07/2022 | `0.1`  | Criação da página de Avaliação do Governo de Pernambuco | [Natan Santana](https://github.com/Neitan2001) | [Clara Ribeiro](https://github.com/clara-ribeiro)
