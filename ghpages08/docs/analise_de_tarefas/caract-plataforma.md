@@ -86,9 +86,6 @@
 </p>
 
 
-
-
-
 ## Tabela de versionamento
 
 | Data | Versão | Descrição | Autor | Revisor |
@@ -96,4 +93,4 @@
 | 19/07/2022 | `0.1`  | Abertura do documento | [Matheus Perillo](https://github.com/MatheusPerillo) | [Clara Ribeiro](https://github.com/clara-ribeiro)
 | 19/07/2022 | `0.2`  | Introdução ao documento | [Matheus Perillo](https://github.com/MatheusPerillo) | [Clara Ribeiro](https://github.com/clara-ribeiro)
 | 19/07/2022 | `0.3`  | Explicação dos objetivos | [Matheus Perillo](https://github.com/MatheusPerillo) | [Clara Ribeiro](https://github.com/clara-ribeiro)
-| 19/07/2022 | `0.3`  | Explicação das metas de usabilidade | [Matheus Perillo](https://github.com/MatheusPerillo) | [Clara Ribeiro](https://github.com/clara-ribeiro)
+| 19/07/2022 | `0.4`  | Explicação das metas de usabilidade | [Matheus Perillo](https://github.com/MatheusPerillo) | [Clara Ribeiro](https://github.com/clara-ribeiro)
