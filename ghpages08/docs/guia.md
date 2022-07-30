@@ -106,7 +106,7 @@ A definição de uma tipografia é uma parte essencial do design de um produto p
 </div>
 
 <div style="text-align: justify">
-Sendo assim, a tipografia Trebuchet Regular (figura 7) será utilizada em todos os textos do site e a fonte Trebuchet Bold (figura 8) será utilizada em títulos.
+Sendo assim, a tipografia Trebuchet Regular (figura 7) será utilizada em todos os textos do site e a fonte Trebuchet Bold (figura 8) será utilizada em títulos. Essas fontes foram escolhidas pois são as recomendadas para utilização em sites na web de acordo com o documento de <a href="https://www.neoenergiaelektro.com.br/Media/Default/DocGalleries/Manual%20de%20Identidade/Novo_manual_Elektro_completo_V2.pdf" target="_blank">Elementos Básicos </a> (Página 66).
 </div>
 
 ![Fonte Trebuchet Regular](./assets/guia_de_estilo/trebuchet.png)
