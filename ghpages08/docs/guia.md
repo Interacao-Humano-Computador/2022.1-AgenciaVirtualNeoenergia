@@ -121,72 +121,193 @@ Sendo assim, a tipografia Trebuchet Regular (figura 7) será utilizada em todos 
 <p>Fonte: <a href="https://fontsgeek.com/fonts/Trebuchet-MS-Bold" target="_blank">Fontsgeek</a></p>
 </div>
 
-### Botões
+### Botões e ícones
 
-### Ícones
+<div style="text-align: justify">
+Ao criar botões ou inserir ícones durante o processo de design, é importante que o usuário saiba exatamente o que irá acontecer caso interaja com os mesmos. Se o contexto em que esses elementos estão inseridos não é consistente, é possível que isso cause confusão no usuário e leve o usuário ao erro. 
+</div>
+
+<div style="text-align: justify">
+Analisando o site da NeoEnergia Brasília, podemos observar três formas de interação nas páginas, a primeira são botões com linhas retas (figuras 13 e 14), a segunda são botões mais arredondados com texto ou ícones em sua composição (figuras 9, 10, 11 e 12), e a terceira são textos com links acompanhados de ícones, indicando redirecionamento para uma outra página (figuras 15 e 16).
+</div>
+<br/>
+
+<center>![Print do botão Agência Virtual](./assets/guia_de_estilo/botao0.png)</center>
+<div style="text-align: center">
+<p>Figura 9: botão de acesso à Agência Virtual</p>
+<p>Fonte: <a href="https://www.neoenergiabrasilia.com.br/Paginas/default.aspx" target="_blank">NeoEnegergia Brasília</a></p>
+</div>
+
+<br/><br/>
+
+<center>![Print do botão saiba mais](./assets/guia_de_estilo/botao1.png)</center>
+<div style="text-align: center">
+<p>Figura 10: botão "Saiba mais"</p>
+<p>Fonte: <a href="https://www.neoenergiabrasilia.com.br/Paginas/default.aspx" target="_blank">NeoEnegergia Brasília</a></p>
+</div>
+
+<br/><br/>
+
+<center>![Print do botão canais](./assets/guia_de_estilo/botao2.png)</center>
+<div style="text-align: center">
+<p>Figura 11: botão "Conheça outros canais"</p>
+<p>Fonte: <a href="https://www.neoenergiabrasilia.com.br/Paginas/default.aspx" target="_blank">NeoEnegergia Brasília</a></p>
+</div>
+
+<br/><br/>
+
+<center>![Print dos botões de redes sociais](./assets/guia_de_estilo/botao3.png)</center>
+<div style="text-align: center">
+<p>Figura 12: botões de acesso às redes sociais</p>
+<p>Fonte: <a href="https://www.neoenergiabrasilia.com.br/Paginas/default.aspx" target="_blank">NeoEnegergia Brasília</a></p>
+</div>
+
+<br/><br/>
+
+<center>![Print do botão atualizar cadastro](./assets/guia_de_estilo/botao6.png)</center>
+<div style="text-align: center">
+<p>Figura 13: botão de atualização de cadastro</p>
+<p>Fonte: <a href="https://www.neoenergiabrasilia.com.br/Paginas/default.aspx" target="_blank">NeoEnegergia Brasília</a></p>
+</div>
+
+<br/><br/>
+
+<center>![Print do botão Agência](./assets/guia_de_estilo/botao8.png)</center>
+<div style="text-align: center">
+<p>Figura 14: botão retangular de acesso à Agência Virtual</p>
+<p>Fonte: <a href="https://www.neoenergiabrasilia.com.br/Paginas/default.aspx" target="_blank">NeoEnegergia Brasília</a></p>
+</div>
+
+<br/><br/>
+
+<center>![Print link cnpj](./assets/guia_de_estilo/botao9.png)</center>
+<div style="text-align: center">
+<p>Figura 15: link de acesso ao cartão CNPJ</p>
+<p>Fonte: <a href="https://www.neoenergiabrasilia.com.br/Paginas/default.aspx" target="_blank">NeoEnegergia Brasília</a></p>
+</div>
+
+<br/><br/>
+
+<center>![Print links tarifas](./assets/guia_de_estilo/botao10.png)</center>
+<div style="text-align: center">
+<p>Figura 16: links de acesso às tarifas de energia</p>
+<p>Fonte: <a href="https://www.neoenergiabrasilia.com.br/Paginas/default.aspx" target="_blank">NeoEnegergia Brasília</a></p>
+</div>
+
+<br/><br/>
 
 ## Análise de estilo
 
 ### Logo
-Ao analisar o site da Agência Virtual da NeoEnergia, considerando as boas práticas de aplicação do logotipo conforme o Manual da Marca citado anteriormente, pode-se perceber uma violação na área de proteção mínima. Isso acontece na página inicial, conforme a figura 9, em que pode-se observar que o logotipo ultrapassa a área do menu.
+Ao analisar o site da Agência Virtual da NeoEnergia, considerando as boas práticas de aplicação do logotipo conforme o Manual da Marca citado anteriormente, pode-se perceber uma violação na área de proteção mínima. Isso acontece na página inicial, conforme a figura 17, em que pode-se observar que o logotipo ultrapassa a área do menu.
 
 ![Análise Logo](./assets/guia_de_estilo/analiseLogo1.png)
 <div style="text-align: center">
-<p>Figura 9: Página Inicial da Agência Virtual Neoenergia</p>
+<p>Figura 17: Página Inicial da Agência Virtual Neoenergia</p>
 <p>Fonte: https://agenciavirtual.neoenergiabrasilia.com.br</p>
 </div>
 <br/><br/>
 
-Também podemos observar o mesmo comportamento nas páginas de serviço: o logotipo ultrapassa o menu, se sobrepondo a outros elementos da página, conforme mostra a figura 10.
+Também podemos observar o mesmo comportamento nas páginas de serviço: o logotipo ultrapassa o menu, se sobrepondo a outros elementos da página, conforme mostra a figura 18.
 
 ![Análise Logo](./assets/guia_de_estilo/analiseLogo2.png)
 <div style="text-align: center">
-<p>Figura 10: Página de Serviços da Agência Virtual Neoenergia</p>
+<p>Figura 18: Página de Serviços da Agência Virtual Neoenergia</p>
 <p>Fonte: https://agenciavirtual.neoenergiabrasilia.com.br/Servicos</p>
 </div>
 <br/><br/>
 
 ### Cores
 
-Ao analisar as cores, pode-se perceber várias violações ao manual de cores descrito anteriormente. Na página inicial as cores predominantes são Azul e Laranja. O azul utilizado não é o que foi especificado na paleta de cores da marca. Apesar do laranja estar no tom correto, ele deveria aparecer na tela apenas quando não fosse possível utilizar o verde, regra a qual não é seguida, pois o verde não aparece em nenhum momento na página inicial, a não ser na logo. Pode-se perceber isso nas figuras 11, 12 e 13. Também podemos observar nas imagens 12 e 13 que foi utilizado a cor cinza, porém ela não foi especificada nas paletas de cores da marca.
+Ao analisar as cores, pode-se perceber várias violações ao manual de cores descrito anteriormente. Na página inicial as cores predominantes são Azul e Laranja. O azul utilizado não é o que foi especificado na paleta de cores da marca. Apesar do laranja estar no tom correto, ele deveria aparecer na tela apenas quando não fosse possível utilizar o verde, regra a qual não é seguida, pois o verde não aparece em nenhum momento na página inicial, a não ser na logo. Pode-se perceber isso nas figuras 19, 20 e 21. Também podemos observar nas imagens 20 e 21 que foi utilizado a cor cinza, porém ela não foi especificada nas paletas de cores da marca.
 
 ![Print da home](./assets/guia_de_estilo/home1.png)
 <div style="text-align: center">
-<p>Figura 11: print da home do site Agência Virtual da Neoenergia</p>
+<p>Figura 19: print da home do site Agência Virtual da Neoenergia</p>
 </div>
 
 ![Print da home](./assets/guia_de_estilo/home2.png)
 <div style="text-align: center">
-<p>Figura 12: print da home do site Agência Virtual da Neoenergia</p>
+<p>Figura 20: print da home do site Agência Virtual da Neoenergia</p>
 </div>
 
 ![Print da home](./assets/guia_de_estilo/home3.png)
 <div style="text-align: center">
-<p>Figura 13: print da home do site Agência Virtual da Neoenergia</p>
+<p>Figura 21: print da home do site Agência Virtual da Neoenergia</p>
 </div>
 <br/><br/>
 
-Nas páginas de serviços pode-se perceber os mesmos problemas de predominância da cor azul e ausência do verde principal, conforme ilustra a figura 14.
+Nas páginas de serviços pode-se perceber os mesmos problemas de predominância da cor azul e ausência do verde principal, conforme ilustra a figura 22.
 
 ![Print da página de serviços](./assets/guia_de_estilo/servicos.png)
 <div style="text-align: center">
-<p>Figura 14: print da página de serviços do site Agência Virtual da Neoenergia</p>
+<p>Figura 22: print da página de serviços do site Agência Virtual da Neoenergia</p>
 </div>
 <br/><br/>
 ### Tipografia
 
 <div style="text-align: justify">
-Como pode ser verificado na figura 15, a tipografia que está sendo utilizada no site da Agência Virtual da NeoEnergia Brasília é a Roboto, tanto nos textos do site quanto nos títulos. Dessa forma, será necessário mudar a fonte dos textos para Trebuchet Regular e a dos títulos para Trebuchet Bold a fim de seguir o guia de estilo definido anteriormente.
+Como pode ser verificado na figura 23, a tipografia que está sendo utilizada no site da Agência Virtual da NeoEnergia Brasília é a Roboto, tanto nos textos do site quanto nos títulos. Dessa forma, será necessário mudar a fonte dos textos para Trebuchet Regular e a dos títulos para Trebuchet Bold a fim de seguir o guia de estilo definido anteriormente.
 </div>
 
 ![Print do site](./assets/guia_de_estilo/analiseTipo.png)
 <div style="text-align: center">
-<p>Figura 15: print do site Agência Virtual da Neoenergia</p>
+<p>Figura 23: print do site Agência Virtual da Neoenergia</p>
 </div>
 
-### Botões
+<br/><br/>
 
-### Ícones
+### Botões e ícones
+
+<div style="text-align: justify">
+Podemos obervar algumas diferenças entre os botões do site da NeoEnergia Brasilia com o site Agencia Virtual NeoEnergia. Além das cores, como foi citado anteriormente, percebe-se que os botões da Agência Virtual (figuras 24, 25 e 26) são quase todos retangulares, retos e sem ícones em sua composição. 
+</div>
+<br/>
+
+<center>![Print dos botões de login](./assets/guia_de_estilo/abotao5.png)</center>
+<div style="text-align: center">
+<p>Figura 24: botões de acesso à conta da agência </p>
+<p>Fonte: <a href="https://agenciavirtual.neoenergiabrasilia.com.br/" target="_blank">Agência Virtual NeoEnegergia Brasília</a></p>
+</div>
+<br/><br/>
+
+<center>![Print do botão de serviços expressos](./assets/guia_de_estilo/abotao11.png)</center>
+<div style="text-align: center">
+<p>Figura 25: botão "Serviços expressos" </p>
+<p>Fonte: <a href="https://agenciavirtual.neoenergiabrasilia.com.br/" target="_blank">Agência Virtual NeoEnegergia Brasília</a></p>
+</div>
+<br/><br/>
+
+<center>![Print do botão de fechar janela](./assets/guia_de_estilo/abotao12.png)</center>
+<div style="text-align: center">
+<p>Figura 26: botão "fechar" </p>
+<p>Fonte: <a href="https://agenciavirtual.neoenergiabrasilia.com.br/" target="_blank">Agência Virtual NeoEnegergia Brasília</a></p>
+</div>
+<br/><br/>
+
+<div style="text-align: justify">
+Já nos ícones a diferença é maior, como vemos na figura 27, os ícones são bem maiores e são acompanhados de um texto com um link para o serviço desejado. No site da Agência o acesso às redes sociais da empresa se apresenta por ícones interativos (figura 28), já no site da NeoEnergia esse mesmo acesso se dá por botões circulares com ícones dentro.
+</div>
+
+<center>![Print da página de serviços](./assets/guia_de_estilo/home3.png)</center>
+<div style="text-align: center">
+<p>Figura 27: ícones e links de serviços </p>
+<p>Fonte: <a href="https://agenciavirtual.neoenergiabrasilia.com.br/" target="_blank">Agência Virtual NeoEnegergia Brasília</a></p>
+</div>
+<br/><br/>
+
+<center>![Print da página de serviços](./assets/guia_de_estilo/abotao7.png)</center>
+<div style="text-align: center">
+<p>Figura 28: ícones/botões de acesso às redes sociais da Agência Virtual </p>
+<p>Fonte: <a href="https://agenciavirtual.neoenergiabrasilia.com.br/" target="_blank">Agência Virtual NeoEnegergia Brasília</a></p>
+</div>
+<br/><br/>
+
+<div style="text-align: justify">
+Apesar de claramente não haver um padrão entre os sites, os botões e ícones conseguem prover uma interpretação clara ao usuário devido ao apoio textual que esses elementos têm. 
+</div>
+
+<br/><br/>
 
 ## Bibliografia
 >ELEMENTOS BÁSICOS. Disponível em: <https://www.neoenergiaelektro.com.br/Media/Default/DocGalleries/Manual%20de%20Identidade/Novo_manual_Elektro_completo_V2.pdf> - Acesso em 26/07/2022
@@ -197,6 +318,8 @@ Como pode ser verificado na figura 15, a tipografia que está sendo utilizada no
 
 >A importância da tipografia no universo do design gráfico. Disponível em: <https://www.escola-panamericana.com.br/acontece/a-importancia-da-tipografia-no-universo-do-design-grafico#:~:text=O%20tipo%20da%20fonte%20pode,marca%20e%20engajar%20o%20p%C3%BAblico.> - Acesso em 28/07/2022
 
+>A Importância das Decisões de Design em Uma Interface. Disponível em: <https://catarinag.medium.com/a-import%C3%A2ncia-das-decis%C3%B5es-de-design-em-uma-interface-7a2171ddff7a> - Acesso em 29/07/2022
+
 
 ## Tabela de Versionamento
 
@@ -206,3 +329,4 @@ Como pode ser verificado na figura 15, a tipografia que está sendo utilizada no
 | 26/07/2022 | `0.2`  | Tópico de introdução | [Natan Santana](https://github.com/Neitan2001) |
 | 28/07/2022 | `0.3`  | Tópico de tipografia e análise da tipografia | [Natan Santana](https://github.com/Neitan2001) | 
 | 28/07/2022 | `0.4`  | Tópico de logo e cores | [Clara Ribeiro](https://github.com/clara-ribeiro) | 
+| 28/07/2022 | `0.5`  | Tópico de botões e ícones | [Rafael Xavier](https://github.com/rafaelxavierr) |
