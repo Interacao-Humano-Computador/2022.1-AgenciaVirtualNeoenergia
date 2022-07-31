@@ -46,16 +46,16 @@ Data limite para entrega | Atividade/entrega | Autor(es) | Revisor | Data limite
 
 Data limite para entrega | Atividade/entrega | Autor(es) | Revisor | Data limite para revisão
 --------- | ----------------- | -------------- | ---------- | ----------
-29/07/2022 | Ajustes no cronograma | [Rafael Xavier](https://github.com/rafaelxavierr) |  | 30/07/2022
-29/07/2022 | Cenários | [Daniel Coimbra](https://github.com/DanielCoimbra) |  | 30/07/2022
-29/07/2022 | Ajustes nas personas | [Daniel Coimbra](https://github.com/DanielCoimbra) |  | 30/07/2022
-29/07/2022 | Ajustes no perfil do usuário | [Matheus Perillo](https://github.com/MatheusPerillo) |  | 30/07/2022
-29/07/2022 | Ajustes nas ferramentas | [Natan Santana](https://github.com/Neitan2001) |  | 30/07/2022
-29/07/2022 | Princípios Gerais de Projeto | [Luíza Esteves](https://github.com/luiza-esteves) |  | 30/07/2022
-29/07/2022 | Metas de usabilidade | [Matheus Perillo](https://github.com/MatheusPerillo) |  | 30/07/2022
-29/07/2022 | Guia de Estilo | [Clara Ribeiro](https://github.com/clara-ribeiro), [Natan Santana](https://github.com/Neitan2001) e [Rafael Xavier](https://github.com/rafaelxavierr) |  | 30/07/2022
-30/07/2022 | Slides e gravação do vídeo de apresentação | Todos |  | 31/07/2022
-31/07/2022 | Edição do  vídeo de apresentação | [Clara Ribeiro](https://github.com/clara-ribeiro) |  | 01/08/2022
+29/07/2022 | Ajustes no cronograma | [Rafael Xavier](https://github.com/rafaelxavierr) | [Natan Santana](https://github.com/Neitan2001) | 30/07/2022
+29/07/2022 | Cenários | [Daniel Coimbra](https://github.com/DanielCoimbra) | [Clara Ribeiro](https://github.com/clara-ribeiro) | 30/07/2022
+29/07/2022 | Ajustes nas personas | [Daniel Coimbra](https://github.com/DanielCoimbra) | [Natan Santana](https://github.com/Neitan2001) | 30/07/2022
+29/07/2022 | Ajustes no perfil do usuário | [Matheus Perillo](https://github.com/MatheusPerillo) | [Rafael Xavier](https://github.com/rafaelxavierr) | 30/07/2022
+29/07/2022 | Ajustes nas ferramentas | [Natan Santana](https://github.com/Neitan2001) | [Clara Ribeiro](https://github.com/clara-ribeiro) | 30/07/2022
+29/07/2022 | Princípios Gerais de Projeto | [Luíza Esteves](https://github.com/luiza-esteves) | [Clara Ribeiro](https://github.com/clara-ribeiro) | 30/07/2022
+29/07/2022 | Metas de usabilidade | [Matheus Perillo](https://github.com/MatheusPerillo) | [Natan Santana](https://github.com/Neitan2001) | 30/07/2022
+29/07/2022 | Guia de Estilo | [Clara Ribeiro](https://github.com/clara-ribeiro), [Natan Santana](https://github.com/Neitan2001) e [Rafael Xavier](https://github.com/rafaelxavierr) | [Luíza Esteves](https://github.com/luiza-esteves) | 30/07/2022
+30/07/2022 | Slides e gravação do vídeo de apresentação | Todos | [Clara Ribeiro](https://github.com/clara-ribeiro) | 31/07/2022
+31/07/2022 | Edição do  vídeo de apresentação | [Clara Ribeiro](https://github.com/clara-ribeiro) | [Natan Santana](https://github.com/Neitan2001) | 01/08/2022
 
 <div style="text-align: center">
 <p>Tabela 3: Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo</p>
@@ -127,4 +127,4 @@ Data limite para entrega | Atividade/entrega | Autor(es) | Revisor | Data limite
 | 04/07/2022 | `0.1`  | Cronograma de atividades | [Rafael Xavier](https://github.com/rafaelxavierr) | [Natan Santana](https://github.com/Neitan2001)
 | 06/07/2022 | `0.2`  | Adição de legendas nas tabelas | [Rafael Xavier](https://github.com/rafaelxavierr) | [Natan Santana](https://github.com/Neitan2001)
 17/07/2022 | `0.3` | Detalhando etapas do projeto | [Rafael Xavier](https://github.com/rafaelxavierr) | [Natan Santana](https://github.com/Neitan2001)
-29/07/2022 | `0.4` | Alterações na etapa 3 e adição de data para revisão | [Rafael Xavier](https://github.com/rafaelxavierr) | 
+29/07/2022 | `0.4` | Alterações na etapa 3 e adição de data para revisão | [Rafael Xavier](https://github.com/rafaelxavierr) | [Natan Santana](https://github.com/Neitan2001)
