@@ -38,7 +38,7 @@
 
 <div style="font-size: 20px; text-align: center"> <i>Aplicação</i> </div>
 <p style=" text-align: justify">
-&emsp; Apesar do site oferecer diversos conteúdos sobre o uso do sistema, ele apresenta problemas ferindo uma das heurísticas (Flexibilidade e eficiência de uso) causando efeitos negativos sobre o usuário ao utilizar o site. Esses problemas estão melhores descritos <a href="https://interacao-humano-computador.github.io/2022.1-AgenciaVirtualNeoenergia/planejamento/avalia%C3%A7%C3%B5es_dos_sites/agencia_virtual/#8-flexibilidade-e-eficiencia-de-uso">aqui</a>.
+&emsp; Apesar do site oferecer diversos conteúdos sobre o uso do sistema, ele apresenta problemas ferindo uma das heurísticas (Flexibilidade e eficiência de uso) causando efeitos negativos sobre o usuário ao utilizar o site. Esses problemas estão melhores descritos <a href="https://interacao-humano-computador.github.io/2022.1-AgenciaVirtualNeoenergia/planejamento/avalia%C3%A7%C3%B5es_dos_sites/agencia_virtual/#8-flexibilidade-e-eficiencia-de-uso" target="_blank">aqui</a>.
 </p>
 
 
@@ -71,7 +71,7 @@
 
 <div style="font-size: 20px; text-align: center"> <i>Aplicação</i> </div>
 <p style=" text-align: justify">
-&emsp; Em relação a essa meta foi <a href="https://interacao-humano-computador.github.io/2022.1-AgenciaVirtualNeoenergia/perfil_do_usu%C3%A1rio/#observacoes"> observado </a> que muitas pessoas pediram ajuda para realizar alguma tarefa dentro do site, o que indica dificuldade no acesso aos serviços, apesar da maioria dos usuários serem jovens adultos.        
+&emsp; Em relação a essa meta foi <a href="https://interacao-humano-computador.github.io/2022.1-AgenciaVirtualNeoenergia/perfil_do_usu%C3%A1rio/#observacoes" target="_blank"> observado </a> que muitas pessoas pediram ajuda para realizar alguma tarefa dentro do site, o que indica dificuldade no acesso aos serviços, apesar da maioria dos usuários serem jovens adultos.        
 </p>
 
 
@@ -82,7 +82,7 @@
 
 <div style="font-size: 20px; text-align: center"> <i>Aplicação</i> </div>
 <p style=" text-align: justify">
-&emsp; O site por ter funcionalidades muito objetivas deixa os seus serviços bem visíveis em diversos espaços.
+&emsp; O site por ter funcionalidades muito objetivas deixa os seus serviços bem visíveis em diversos espaços. O que permite aos usuários lembrarem com facilidade onde precisam clicar para realizar as tarefas.
 </p>
 
 ## Bibliografia
@@ -100,8 +100,8 @@
 
 | Data | Versão | Descrição | Autor | Revisor |
 | :----: | :------: | :---------: | :-----: | :-------: |
-| 19/07/2022 | `0.1`  | Abertura do documento | [Matheus Perillo](https://github.com/MatheusPerillo) | [Clara Ribeiro](https://github.com/clara-ribeiro)
-| 19/07/2022 | `0.2`  | Introdução ao documento | [Matheus Perillo](https://github.com/MatheusPerillo) | [Clara Ribeiro](https://github.com/clara-ribeiro)
-| 19/07/2022 | `0.3`  | Explicação dos objetivos | [Matheus Perillo](https://github.com/MatheusPerillo) | [Clara Ribeiro](https://github.com/clara-ribeiro)
-| 19/07/2022 | `0.4`  | Explicação das metas de usabilidade | [Matheus Perillo](https://github.com/MatheusPerillo) | [Clara Ribeiro](https://github.com/clara-ribeiro)
-| 29/07/2022 | `0.5`  | Aplicação das metas de usabilidade | [Matheus Perillo](https://github.com/MatheusPerillo) | [Clara Ribeiro](https://github.com/clara-ribeiro)
+| 19/07/2022 | `0.1`  | Abertura do documento | [Matheus Perillo](https://github.com/MatheusPerillo) | [Natan Santana](https://github.com/Neitan2001)
+| 19/07/2022 | `0.2`  | Introdução ao documento | [Matheus Perillo](https://github.com/MatheusPerillo) | [Natan Santana](https://github.com/Neitan2001)
+| 19/07/2022 | `0.3`  | Explicação dos objetivos | [Matheus Perillo](https://github.com/MatheusPerillo) | [Natan Santana](https://github.com/Neitan2001)
+| 19/07/2022 | `0.4`  | Explicação das metas de usabilidade | [Matheus Perillo](https://github.com/MatheusPerillo) | [Natan Santana](https://github.com/Neitan2001)
+| 29/07/2022 | `0.5`  | Aplicação das metas de usabilidade | [Matheus Perillo](https://github.com/MatheusPerillo) | [Natan Santana](https://github.com/Neitan2001)
