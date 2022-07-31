@@ -18,7 +18,7 @@ No final deste documento, é comparado o site Agência Virtual da NeoEnergia Bra
 
 O logotipo é composto pelo símbolo e pela tipografia, havendo apenas duas variações: horizontal e vertical, como pode-se observar na figura 1. Segundo o documento da marca, a prioridade deve ser sempre para o logotipo vertical, enquanto a versão horizontal deve ser utilizada em último caso.
 
-![Logotipos](./assets/guia_de_estilo/logos.png)
+![Logotipos](../assets/guia_de_estilo/logos.png)
 <div style="text-align: center">
 <p>Figura 1: logotipos da Neoenergia</p>
 <p>Fonte: https://www.neoenergia.com</p>
@@ -27,7 +27,7 @@ O logotipo é composto pelo símbolo e pela tipografia, havendo apenas duas vari
 
 Também há variações dos logotipos em negativo, caso seja necessário posiciona-los sobre um fundo mais escuro, conforme pode-se ver na figura 2.
 
-![Logotipo Negativo](./assets/guia_de_estilo/logoNegativo.jpeg)
+![Logotipo Negativo](../assets/guia_de_estilo/logoNegativo.jpeg)
 <div style="text-align: center">
 <p>Figura 2: logotipo negativo da Neoenergia</p>
 <p>Fonte: https://www.neoenergia.com</p>
@@ -36,7 +36,7 @@ Também há variações dos logotipos em negativo, caso seja necessário posicio
 
 Há uma regra de aplicação do logotipo a respeito da área de proteção em torno do mesmo. A marca deve estar rodeada por uma área de proteção mínima. Isso é necessário para que a presença do logo não seja diminuída por outros elementos. Essa área de proteção mínima pode ser observada na figura 3.
 
-![Logotipo com área de proteção](./assets/guia_de_estilo/logoEspaco.png)
+![Logotipo com área de proteção](../assets/guia_de_estilo/logoEspaco.png)
 <div style="text-align: center">
 <p>Figura 3: logotipos da Neoenergia</p>
 <p>Fonte: https://www.neoenergiaelektro.com.br</p>
@@ -49,7 +49,7 @@ Há 3 paletas de cores na identidade visual da marca: as cores corporativas prim
 
 As cores corporativas primárias são: verde, azul, amarelo e laranja, conforme mostrado na figura 4. É de extrema importância que os tons usados sejam iguais ao equivalente no sistema Pantone.
 
-![Cores Primárias](./assets/guia_de_estilo/coresPrimarias.png)
+![Cores Primárias](../assets/guia_de_estilo/coresPrimarias.png)
 <div style="text-align: center">
 <p>Figura 4: Cores Primárias</p>
 <p>Fonte: <a href="https://www.neoenergiaelektro.com.br/Media/Default/DocGalleries/Manual%20de%20Identidade/Novo_manual_Elektro_completo_V2.pdf" target="_blank">Manual de Identidade - Elementos Básicos</a></p>
@@ -58,7 +58,7 @@ As cores corporativas primárias são: verde, azul, amarelo e laranja, conforme 
 
 Ao utilizar as cores, deve-se primeiro dar preferência ao verde, mas caso não seja possível, pode-se recorrer ao laranja, amarelo e azul, nessa ordem, conforme descrito no gráfico 1.
 
-![Grafico Cores Primárias](./assets/guia_de_estilo/graficoPrimario.png)
+![Grafico Cores Primárias](../assets/guia_de_estilo/graficoPrimario.png)
 <div style="text-align: center">
 <p>Gráfico 1: Proporção de importância das cores primárias</p>
 <p>Fonte: <a href="https://www.neoenergiaelektro.com.br/Media/Default/DocGalleries/Manual%20de%20Identidade/Novo_manual_Elektro_completo_V2.pdf" target="_blank">Manual de Identidade - Elementos Básicos</a></p>
@@ -67,7 +67,7 @@ Ao utilizar as cores, deve-se primeiro dar preferência ao verde, mas caso não 
 
 As cores corporativas primárias também são: verde, azul, amarelo e laranja, porém em um diferente tom, conforme mostrado na figura 5. As cores secundárias podem ser usadas para complementar as cores primárias.
 
-![Cores Secundárias](./assets/guia_de_estilo/coresSecundarias.png)
+![Cores Secundárias](../assets/guia_de_estilo/coresSecundarias.png)
 <div style="text-align: center">
 <p>Figura 5: Cores Secundárias</p>
 <p>Fonte: <a href="https://www.neoenergiaelektro.com.br/Media/Default/DocGalleries/Manual%20de%20Identidade/Novo_manual_Elektro_completo_V2.pdf" target="_blank">Manual de Identidade - Elementos Básicos</a></p>
@@ -76,7 +76,7 @@ As cores corporativas primárias também são: verde, azul, amarelo e laranja, p
 
 Ao utilizar as cores, deve-se seguir a mesma ordem de prioridade que as cores primárias: verde, laranja, amarelo e azul, nessa ordem. Podemos observar isso no gráfico 2.
 
-![Grafico Cores Secundarias](./assets/guia_de_estilo/graficoSecundario.png)
+![Grafico Cores Secundarias](../assets/guia_de_estilo/graficoSecundario.png)
 <div style="text-align: center">
 <p>Gráfico 2: Proporção de importância das cores secundárias</p>
 <p>Fonte: <a href="https://www.neoenergiaelektro.com.br/Media/Default/DocGalleries/Manual%20de%20Identidade/Novo_manual_Elektro_completo_V2.pdf" target="_blank">Manual de Identidade - Elementos Básicos</a></p>
@@ -85,13 +85,13 @@ Ao utilizar as cores, deve-se seguir a mesma ordem de prioridade que as cores pr
 
 Pode-se observar na figura 6 as seis cores verdes coorporativas, que podem ser utilizadas para complementar as cores primárias e secundárias. A ordem de prioridade deve ser obedecida conforme descrito no gráfico 3.
 
-![Paleta de Verdes](./assets/guia_de_estilo/coresVerde.png)
+![Paleta de Verdes](../assets/guia_de_estilo/coresVerde.png)
 <div style="text-align: center">
 <p>Figura 6: Paleta de Verdes</p>
 <p>Fonte: <a href="https://www.neoenergiaelektro.com.br/Media/Default/DocGalleries/Manual%20de%20Identidade/Novo_manual_Elektro_completo_V2.pdf" target="_blank">Manual de Identidade - Elementos Básicos</a></p>
 </div>
 
-![Grafico Verdes](./assets/guia_de_estilo/graficoVerdes.png)
+![Grafico Verdes](../assets/guia_de_estilo/graficoVerdes.png)
 <div style="text-align: center">
 <p>Gráfico 3: Proporção de importância das cores verde</p>
 <p>Fonte: <a href="https://www.neoenergiaelektro.com.br/Media/Default/DocGalleries/Manual%20de%20Identidade/Novo_manual_Elektro_completo_V2.pdf" target="_blank">Manual de Identidade - Elementos Básicos</a></p>
@@ -109,13 +109,13 @@ A definição de uma tipografia é uma parte essencial do design de um produto p
 Sendo assim, a tipografia Trebuchet Regular (figura 7) será utilizada em todos os textos do site e a fonte Trebuchet Bold (figura 8) será utilizada em títulos. Essas fontes foram escolhidas pois são as recomendadas para utilização em sites na web de acordo com o documento de <a href="https://www.neoenergiaelektro.com.br/Media/Default/DocGalleries/Manual%20de%20Identidade/Novo_manual_Elektro_completo_V2.pdf" target="_blank">Elementos Básicos </a> (Página 66).
 </div>
 
-![Fonte Trebuchet Regular](./assets/guia_de_estilo/trebuchet.png)
+![Fonte Trebuchet Regular](../assets/guia_de_estilo/trebuchet.png)
 <div style="text-align: center">
 <p>Figura 7: fonte Trebuchet Regular</p>
 <p>Fonte: <a href="https://fontsgeek.com/trebuchet-ms-digiscream-font" target="_blank">Fontsgeek</a></p>
 </div>
 
-![Fonte Trebuchet Bold](./assets/guia_de_estilo/trebuchetBold.png)
+![Fonte Trebuchet Bold](../assets/guia_de_estilo/trebuchetBold.png)
 <div style="text-align: center">
 <p>Figura 8: fonte Trebuchet Bold</p>
 <p>Fonte: <a href="https://fontsgeek.com/fonts/Trebuchet-MS-Bold" target="_blank">Fontsgeek</a></p>
@@ -132,7 +132,7 @@ Analisando o site da NeoEnergia Brasília, podemos observar três formas de inte
 </div>
 <br/>
 
-<center>![Print do botão Agência Virtual](./assets/guia_de_estilo/botao0.png)</center>
+<center>![Print do botão Agência Virtual](../assets/guia_de_estilo/botao0.png)</center>
 <div style="text-align: center">
 <p>Figura 9: botão de acesso à Agência Virtual</p>
 <p>Fonte: <a href="https://www.neoenergiabrasilia.com.br/Paginas/default.aspx" target="_blank">NeoEnegergia Brasília</a></p>
@@ -140,7 +140,7 @@ Analisando o site da NeoEnergia Brasília, podemos observar três formas de inte
 
 <br/><br/>
 
-<center>![Print do botão saiba mais](./assets/guia_de_estilo/botao1.png)</center>
+<center>![Print do botão saiba mais](../assets/guia_de_estilo/botao1.png)</center>
 <div style="text-align: center">
 <p>Figura 10: botão "Saiba mais"</p>
 <p>Fonte: <a href="https://www.neoenergiabrasilia.com.br/Paginas/default.aspx" target="_blank">NeoEnegergia Brasília</a></p>
@@ -148,7 +148,7 @@ Analisando o site da NeoEnergia Brasília, podemos observar três formas de inte
 
 <br/><br/>
 
-<center>![Print do botão canais](./assets/guia_de_estilo/botao2.png)</center>
+<center>![Print do botão canais](../assets/guia_de_estilo/botao2.png)</center>
 <div style="text-align: center">
 <p>Figura 11: botão "Conheça outros canais"</p>
 <p>Fonte: <a href="https://www.neoenergiabrasilia.com.br/Paginas/default.aspx" target="_blank">NeoEnegergia Brasília</a></p>
@@ -156,7 +156,7 @@ Analisando o site da NeoEnergia Brasília, podemos observar três formas de inte
 
 <br/><br/>
 
-<center>![Print dos botões de redes sociais](./assets/guia_de_estilo/botao3.png)</center>
+<center>![Print dos botões de redes sociais](../assets/guia_de_estilo/botao3.png)</center>
 <div style="text-align: center">
 <p>Figura 12: botões de acesso às redes sociais</p>
 <p>Fonte: <a href="https://www.neoenergiabrasilia.com.br/Paginas/default.aspx" target="_blank">NeoEnegergia Brasília</a></p>
@@ -164,7 +164,7 @@ Analisando o site da NeoEnergia Brasília, podemos observar três formas de inte
 
 <br/><br/>
 
-<center>![Print do botão atualizar cadastro](./assets/guia_de_estilo/botao6.png)</center>
+<center>![Print do botão atualizar cadastro](../assets/guia_de_estilo/botao6.png)</center>
 <div style="text-align: center">
 <p>Figura 13: botão de atualização de cadastro</p>
 <p>Fonte: <a href="https://www.neoenergiabrasilia.com.br/Paginas/default.aspx" target="_blank">NeoEnegergia Brasília</a></p>
@@ -172,7 +172,7 @@ Analisando o site da NeoEnergia Brasília, podemos observar três formas de inte
 
 <br/><br/>
 
-<center>![Print do botão Agência](./assets/guia_de_estilo/botao8.png)</center>
+<center>![Print do botão Agência](../assets/guia_de_estilo/botao8.png)</center>
 <div style="text-align: center">
 <p>Figura 14: botão retangular de acesso à Agência Virtual</p>
 <p>Fonte: <a href="https://www.neoenergiabrasilia.com.br/Paginas/default.aspx" target="_blank">NeoEnegergia Brasília</a></p>
@@ -180,7 +180,7 @@ Analisando o site da NeoEnergia Brasília, podemos observar três formas de inte
 
 <br/><br/>
 
-<center>![Print link cnpj](./assets/guia_de_estilo/botao9.png)</center>
+<center>![Print link cnpj](../assets/guia_de_estilo/botao9.png)</center>
 <div style="text-align: center">
 <p>Figura 15: link de acesso ao cartão CNPJ</p>
 <p>Fonte: <a href="https://www.neoenergiabrasilia.com.br/Paginas/default.aspx" target="_blank">NeoEnegergia Brasília</a></p>
@@ -188,7 +188,7 @@ Analisando o site da NeoEnergia Brasília, podemos observar três formas de inte
 
 <br/><br/>
 
-<center>![Print links tarifas](./assets/guia_de_estilo/botao10.png)</center>
+<center>![Print links tarifas](../assets/guia_de_estilo/botao10.png)</center>
 <div style="text-align: center">
 <p>Figura 16: links de acesso às tarifas de energia</p>
 <p>Fonte: <a href="https://www.neoenergiabrasilia.com.br/Paginas/default.aspx" target="_blank">NeoEnegergia Brasília</a></p>
@@ -201,7 +201,7 @@ Analisando o site da NeoEnergia Brasília, podemos observar três formas de inte
 ### Logo
 Ao analisar o site da Agência Virtual da NeoEnergia, considerando as boas práticas de aplicação do logotipo conforme o Manual da Marca citado anteriormente, pode-se perceber uma violação na área de proteção mínima. Isso acontece na página inicial, conforme a figura 17, em que pode-se observar que o logotipo ultrapassa a área do menu.
 
-![Análise Logo](./assets/guia_de_estilo/analiseLogo1.png)
+![Análise Logo](../assets/guia_de_estilo/analiseLogo1.png)
 <div style="text-align: center">
 <p>Figura 17: Página Inicial da Agência Virtual Neoenergia</p>
 <p>Fonte: https://agenciavirtual.neoenergiabrasilia.com.br</p>
@@ -210,7 +210,7 @@ Ao analisar o site da Agência Virtual da NeoEnergia, considerando as boas prát
 
 Também podemos observar o mesmo comportamento nas páginas de serviço: o logotipo ultrapassa o menu, se sobrepondo a outros elementos da página, conforme mostra a figura 18.
 
-![Análise Logo](./assets/guia_de_estilo/analiseLogo2.png)
+![Análise Logo](../assets/guia_de_estilo/analiseLogo2.png)
 <div style="text-align: center">
 <p>Figura 18: Página de Serviços da Agência Virtual Neoenergia</p>
 <p>Fonte: https://agenciavirtual.neoenergiabrasilia.com.br/Servicos</p>
@@ -221,17 +221,17 @@ Também podemos observar o mesmo comportamento nas páginas de serviço: o logot
 
 Ao analisar as cores, pode-se perceber várias violações ao manual de cores descrito anteriormente. Na página inicial as cores predominantes são Azul e Laranja. O azul utilizado não é o que foi especificado na paleta de cores da marca. Apesar do laranja estar no tom correto, ele deveria aparecer na tela apenas quando não fosse possível utilizar o verde, regra a qual não é seguida, pois o verde não aparece em nenhum momento na página inicial, a não ser na logo. Pode-se perceber isso nas figuras 19, 20 e 21. Também podemos observar nas imagens 20 e 21 que foi utilizado a cor cinza, porém ela não foi especificada nas paletas de cores da marca.
 
-![Print da home](./assets/guia_de_estilo/home1.png)
+![Print da home](../assets/guia_de_estilo/home1.png)
 <div style="text-align: center">
 <p>Figura 19: print da home do site Agência Virtual da Neoenergia</p>
 </div>
 
-![Print da home](./assets/guia_de_estilo/home2.png)
+![Print da home](../assets/guia_de_estilo/home2.png)
 <div style="text-align: center">
 <p>Figura 20: print da home do site Agência Virtual da Neoenergia</p>
 </div>
 
-![Print da home](./assets/guia_de_estilo/home3.png)
+![Print da home](../assets/guia_de_estilo/home3.png)
 <div style="text-align: center">
 <p>Figura 21: print da home do site Agência Virtual da Neoenergia</p>
 </div>
@@ -239,7 +239,7 @@ Ao analisar as cores, pode-se perceber várias violações ao manual de cores de
 
 Nas páginas de serviços pode-se perceber os mesmos problemas de predominância da cor azul e ausência do verde principal, conforme ilustra a figura 22.
 
-![Print da página de serviços](./assets/guia_de_estilo/servicos.png)
+![Print da página de serviços](../assets/guia_de_estilo/servicos.png)
 <div style="text-align: center">
 <p>Figura 22: print da página de serviços do site Agência Virtual da Neoenergia</p>
 </div>
@@ -250,7 +250,7 @@ Nas páginas de serviços pode-se perceber os mesmos problemas de predominância
 Como pode ser verificado na figura 23, a tipografia que está sendo utilizada no site da Agência Virtual da NeoEnergia Brasília é a Roboto, tanto nos textos do site quanto nos títulos. Dessa forma, será necessário mudar a fonte dos textos para Trebuchet Regular e a dos títulos para Trebuchet Bold a fim de seguir o guia de estilo definido anteriormente.
 </div>
 
-![Print do site](./assets/guia_de_estilo/analiseTipo.png)
+![Print do site](../assets/guia_de_estilo/analiseTipo.png)
 <div style="text-align: center">
 <p>Figura 23: print do site Agência Virtual da Neoenergia</p>
 </div>
@@ -264,21 +264,21 @@ Podemos obervar algumas diferenças entre os botões do site da NeoEnergia Brasi
 </div>
 <br/>
 
-<center>![Print dos botões de login](./assets/guia_de_estilo/abotao5.png)</center>
+<center>![Print dos botões de login](../assets/guia_de_estilo/abotao5.png)</center>
 <div style="text-align: center">
 <p>Figura 24: botões de acesso à conta da agência </p>
 <p>Fonte: <a href="https://agenciavirtual.neoenergiabrasilia.com.br/" target="_blank">Agência Virtual NeoEnegergia Brasília</a></p>
 </div>
 <br/><br/>
 
-<center>![Print do botão de serviços expressos](./assets/guia_de_estilo/abotao11.png)</center>
+<center>![Print do botão de serviços expressos](../assets/guia_de_estilo/abotao11.png)</center>
 <div style="text-align: center">
 <p>Figura 25: botão "Serviços expressos" </p>
 <p>Fonte: <a href="https://agenciavirtual.neoenergiabrasilia.com.br/" target="_blank">Agência Virtual NeoEnegergia Brasília</a></p>
 </div>
 <br/><br/>
 
-<center>![Print do botão de fechar janela](./assets/guia_de_estilo/abotao12.png)</center>
+<center>![Print do botão de fechar janela](../assets/guia_de_estilo/abotao12.png)</center>
 <div style="text-align: center">
 <p>Figura 26: botão "fechar" </p>
 <p>Fonte: <a href="https://agenciavirtual.neoenergiabrasilia.com.br/" target="_blank">Agência Virtual NeoEnegergia Brasília</a></p>
@@ -289,14 +289,14 @@ Podemos obervar algumas diferenças entre os botões do site da NeoEnergia Brasi
 Já nos ícones a diferença é maior, como vemos na figura 27, os ícones são bem maiores e são acompanhados de um texto com um link para o serviço desejado. No site da Agência o acesso às redes sociais da empresa se apresenta por ícones interativos (figura 28), já no site da NeoEnergia esse mesmo acesso se dá por botões circulares com ícones dentro.
 </div>
 
-<center>![Print da página de serviços](./assets/guia_de_estilo/home3.png)</center>
+<center>![Print da página de serviços](../assets/guia_de_estilo/home3.png)</center>
 <div style="text-align: center">
 <p>Figura 27: ícones e links de serviços </p>
 <p>Fonte: <a href="https://agenciavirtual.neoenergiabrasilia.com.br/" target="_blank">Agência Virtual NeoEnegergia Brasília</a></p>
 </div>
 <br/><br/>
 
-<center>![Print da página de serviços](./assets/guia_de_estilo/abotao7.png)</center>
+<center>![Print da página de serviços](../assets/guia_de_estilo/abotao7.png)</center>
 <div style="text-align: center">
 <p>Figura 28: ícones/botões de acesso às redes sociais da Agência Virtual </p>
 <p>Fonte: <a href="https://agenciavirtual.neoenergiabrasilia.com.br/" target="_blank">Agência Virtual NeoEnegergia Brasília</a></p>

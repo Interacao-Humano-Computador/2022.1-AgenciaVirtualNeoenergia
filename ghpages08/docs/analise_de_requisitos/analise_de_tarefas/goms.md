@@ -192,7 +192,7 @@ Método: Gerar relatório mensal > Selecionar o mês > Geração concluída
 | W - Espera do sistema |
 | <b>Tempo total</b> | <b>13s</b>
 
-![Mensagem de Erro](../assets/MensagemErro.png)
+![Mensagem de Erro](../../assets/MensagemErro.png)
 <b>Figura 1 - Mensagem de erro</b>
 
 ### Objetivo: Gerar o relatório de nada consta anual
