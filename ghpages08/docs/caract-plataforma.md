@@ -27,7 +27,7 @@
 
 <div style="font-size: 20px; text-align: center"> <i>Aplicação</i> </div>
 <p style=" text-align: justify">
-&emsp; O site tem uma premissa de ser algo mais objetivo, porém os usuários conseguem, na maioria das vezes com ajuda de terceiros, encontrar o que estavam procurando.
+&emsp; O site tem uma premissa de ser algo mais objetivo. Dessa forma, os usuários conseguem, na maioria das vezes com ajuda de terceiros, encontrar o que estavam procurando.
 </p>
 
 
@@ -64,7 +64,7 @@
 </p>
 
 
-### 5. Learnability
+### 5. Aprendizagem
 <p style=" text-align: justify">
 &emsp;  É descrita como "ser fácil de aprender", e no geral se refere à facilidade de aprender a usar um sistema, permitindo que o usuário consiga utilizá-lo rapidamente e se tornarem competentes realizando tarefas sem muito esforço, correspondendo ao tempo a que os usuários estão dispostos a gastar para aprenderem a usar o produto.
 </p>
@@ -75,7 +75,7 @@
 </p>
 
 
-### 6. Memorability
+### 6. Memorização
 <p style=" text-align: justify">
 &emsp;  Esta meta é descrita como "ser fácil de lembrar como usar", e no geral se refere e à facilidade de o usuário lembrar como utilizar um sistema depois de já tê-lo aprendido, em que os usuários não devam ter de reaprender a realizar as tarefas, ou que ao menos sejam lembrados de como realizá-las. Assim, esta meta busca combater tarefas que para serem aprendidas são obscuras, ilógicas ou mal sequenciadas.
 </p>
