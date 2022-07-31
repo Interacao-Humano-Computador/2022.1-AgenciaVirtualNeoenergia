@@ -16,6 +16,8 @@ As ferramentas utilizadas pela equipe serão softwares que facilitarão o gerenc
 | MkDocs | Gerador de sites estáticos | ![MkDocs](../assets/tool_logos/mkdocs_logo.png)|
 | MkDocs-Material | Temas/Templates para o MkDocs | ![MkDocs-Material](../assets/tool_logos/mkdocs-material_logo.png)|
 | LucidChart | Elaboração de modelo de Árvore de Tarefas Concorrentes | ![LucidChart](../assets/tool_logos/lucidchart.svg)|
+| Google Forms | Criador de questionários e análise de respostas com gráficos | ![Google FOrms](../assets/tool_logos/forms.png){width="30"}
+| Visual Studio Code | IDE utilizada para a construção do código da documentação | ![VsCode](../assets/tool_logos/vscode.jpeg){width="30"}
 <div style="text-align: center">
     <p>
         Tabela 1: Tabela contendo as ferramentas utilizadas no projeto
@@ -41,3 +43,4 @@ As ferramentas utilizadas pela equipe serão softwares que facilitarão o gerenc
 | 04/07/2022 | `0.2`  | Mudança de lista para tabela. Adição de uma descrição e um ícone para cada ferramenta | [Daniel Coimbra](https://github.com/DanielCoimbra) | [Natan Santana](https://github.com/Neitan2001)
 | 09/07/2022 | `0.3`  | Adição da introdução e legenda da tabela | [Daniel Coimbra](https://github.com/DanielCoimbra) | [Natan Santana](https://github.com/Neitan2001)
 | 18/07/2022 | `0.4`  | Adição de nova feramenta | [Luíza Esteves](https://github.com/luiza-esteves) | [Rafael Xavier](https://github.com/rafaelxavierr)
+| 18/07/2022 | `0.5`  | Adição da ferramenta google forms e vsCode | [Natan Santana](https://github.com/Neitan2001) | [Luíza Esteves](https://github.com/luiza-esteves)
