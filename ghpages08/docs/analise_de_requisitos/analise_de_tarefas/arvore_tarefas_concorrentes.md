@@ -19,7 +19,7 @@
 
 
 </div>
-| ![legenda](../assets/legenda_arvore.png) | 
+| ![legenda](../../assets/legenda_arvore.png) | 
 |:--:| 
 | *Figura 1: Legenda das tarefas inseridas no CTT* |
 
@@ -29,12 +29,12 @@
 
 </p>
 
-| ![arvore Login](../assets/arvore1.png) | 
+| ![arvore Login](../../assets/arvore1.png) | 
 |:--:| 
 | *Figura 2: Árvore de tarefas concorrentes referente ao acesso da conta no site* |
 
 
-| ![relatório nada consta](../assets/relNadaConsta.png) | 
+| ![relatório nada consta](../../assets/relNadaConsta.png) | 
 |:--:| 
 | *Figura 3: Árvore de tarefas concorrentes referente à geração do relatório de nada consta* |
 ## Bibliografia

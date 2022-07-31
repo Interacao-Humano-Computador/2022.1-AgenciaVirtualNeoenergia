@@ -18,17 +18,17 @@ A tarefa "Acessar a conta no site" é uma das principais tarefas do sistema, já
 
 A Figura 1 apresenta o diagrama da análise da tarefa "Acessar a conta no site" e na Figura 2 e 3 é apresentado a representação da HTA em tabela desta mesma tarefa.
 
-![Figura 1](../assets/analise_hierarquica/figura1.png)
+![Figura 1](../../assets/analise_hierarquica/figura1.png)
 <div style="text-align: center">
     Figura 1: Diagrama HTA da primeira tarefa
 </div>
 
-![Figura 2](../assets/analise_hierarquica/figura2.png){width="900"}
+![Figura 2](../../assets/analise_hierarquica/figura2.png){width="900"}
 <div style="text-align: center">
     Figura 2: Parte 1 da Tabela HTA
 </div>
 
-![Figura 3](../assets/analise_hierarquica/figura3.png){width="900"}
+![Figura 3](../../assets/analise_hierarquica/figura3.png){width="900"}
 <div style="text-align: center">
     Figura 3: Parte 2 da Tabela HTA
 </div>
@@ -39,17 +39,17 @@ A tarefa de "Relatório Nada Consta" consiste em gerar um documento que informa 
 
 A Figura 4 apresenta o diagrama da análise da tarefa "Relatório Nada Consta" e na Figura 5 e 6 é apresentado a representação da HTA em tabela desta mesma tarefa.
 
-![Figura 4](../assets/analise_hierarquica/figura4.png)
+![Figura 4](../../assets/analise_hierarquica/figura4.png)
 <div style="text-align: center">
     Figura 4: Diagrama HTA da segunda tarefa
 </div>
 
-![Figura 5](../assets/analise_hierarquica/figura5.png){width="900"}
+![Figura 5](../../assets/analise_hierarquica/figura5.png){width="900"}
 <div style="text-align: center">
     Figura 5: Parte 1 da Tabela HTA
 </div>
 
-![Figura 6](../assets/analise_hierarquica/figura6.png){width="900"}
+![Figura 6](../../assets/analise_hierarquica/figura6.png){width="900"}
 <div style="text-align: center">
     Figura 6: Parte 2 da Tabela HTA
 </div>
