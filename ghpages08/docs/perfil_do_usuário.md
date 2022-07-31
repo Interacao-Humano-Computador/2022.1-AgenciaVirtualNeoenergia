@@ -12,8 +12,8 @@ O perfil de usuário é uma forma de entendermos quem são as pessoas que fazem 
 Para entender quem são os usuários, nossa equipe elaborou um questionário através do Google Forms com perguntas que possibilitassem o agrupamento de pessoas com características semelhantes para assim montarmos seus perfis e personas. Vale ressaltar que antes que o questionário iniciasse de fato, era necessário aceitar o seguinte termo de consentimento:
 </div>
 
-![MkDocs](../perfil/termo_de_consentimento.png)
-![MkDocs](../perfil/resposta_termo.png)
+![MkDocs](./perfil/termo_de_consentimento.png)
+![MkDocs](./perfil/resposta_termo.png)
 
 <div style="text-align: center">
 <b>Figura 1: Questão 1 (Termo de consentimento)</b>
@@ -25,7 +25,7 @@ Para entender quem são os usuários, nossa equipe elaborou um questionário atr
 Perguntas e percentuais de respostas
 </div>
 
-![MkDocs](../perfil/pergunta2.png)
+![MkDocs](./perfil/pergunta2.png)
 
 <div style="text-align: center">
 <b>Figura 2: Questão 2</b>
@@ -33,7 +33,7 @@ Perguntas e percentuais de respostas
 
 <br/>
 
-![MkDocs](../perfil/pergunta3.png)
+![MkDocs](./perfil/pergunta3.png)
 
 <div style="text-align: center">
 <b>Figura 3: Questão 3</b>
@@ -41,7 +41,7 @@ Perguntas e percentuais de respostas
 
 <br/>
 
-![MkDocs](../perfil/pergunta4.png)
+![MkDocs](./perfil/pergunta4.png)
 
 <div style="text-align: center">
 <b>Figura 4: Questão 4</b>
@@ -49,7 +49,7 @@ Perguntas e percentuais de respostas
 
 <br/>
 
-![MkDocs](../perfil/pergunta5.png)
+![MkDocs](./perfil/pergunta5.png)
 
 <div style="text-align: center">
 <b>Figura 5: Questão 5</b>
@@ -57,7 +57,7 @@ Perguntas e percentuais de respostas
 
 <br/>
 
-![MkDocs](../perfil/pergunta6.png)
+![MkDocs](./perfil/pergunta6.png)
 
 <div style="text-align: center">
 <b>Figura 6: Questão 6</b>
@@ -65,7 +65,7 @@ Perguntas e percentuais de respostas
 
 <br/>
 
-![MkDocs](../perfil/pergunta7.png)
+![MkDocs](./perfil/pergunta7.png)
 
 <div style="text-align: center">
 <b>Figura 7: Questão 7</b>
@@ -73,7 +73,7 @@ Perguntas e percentuais de respostas
 
 <br/>
 
-![MkDocs](../perfil/pergunta8.png)
+![MkDocs](./perfil/pergunta8.png)
 
 <div style="text-align: center">
 <b>Figura 8: Questão 8</b>
@@ -81,7 +81,7 @@ Perguntas e percentuais de respostas
 
 <br/>
 
-![MkDocs](../perfil/pergunta9.png)
+![MkDocs](./perfil/pergunta9.png)
 
 <div style="text-align: center">
 <b>Figura 9: Questão 9</b>
@@ -89,7 +89,7 @@ Perguntas e percentuais de respostas
 
 <br/>
 
-![MkDocs](../perfil/pergunta10.png)
+![MkDocs](./perfil/pergunta10.png)
 
 <div style="text-align: center">
 <b>Figura 10: Questão 10</b>
@@ -103,11 +103,11 @@ As questões a seguir são definidas pelos níveis de satisfação abaixo:
 
 <br/>
 
-![MkDocs](../perfil/niveis.png)
+![MkDocs](./perfil/niveis.png)
 
 <br/>
 
-![MkDocs](../perfil/pergunta11.png)
+![MkDocs](./perfil/pergunta11.png)
 
 <div style="text-align: center">
 <b>Figura 11: Questão 11</b>
@@ -115,7 +115,7 @@ As questões a seguir são definidas pelos níveis de satisfação abaixo:
 
 <br/>
 
-![MkDocs](../perfil/pergunta12.png)
+![MkDocs](./perfil/pergunta12.png)
 
 <div style="text-align: center">
 <b>Figura 12: Questão 12</b>
@@ -123,7 +123,7 @@ As questões a seguir são definidas pelos níveis de satisfação abaixo:
 
 <br/>
 
-![MkDocs](../perfil/pergunta13.png)
+![MkDocs](./perfil/pergunta13.png)
 
 <div style="text-align: center">
 <b>Figura 13: Questão 13</b>
@@ -131,7 +131,7 @@ As questões a seguir são definidas pelos níveis de satisfação abaixo:
 
 <br/>
 
-![MkDocs](../perfil/pergunta14.png)
+![MkDocs](./perfil/pergunta14.png)
 
 <div style="text-align: center">
 <b>Figura 14: Questão 14</b>
@@ -139,7 +139,7 @@ As questões a seguir são definidas pelos níveis de satisfação abaixo:
 
 <br/>
 
-![MkDocs](../perfil/pergunta15.png)
+![MkDocs](./perfil/pergunta15.png)
 
 <div style="text-align: center">
 <b>Figura 15: Questão 15</b>
@@ -147,7 +147,7 @@ As questões a seguir são definidas pelos níveis de satisfação abaixo:
 
 <br/>
 
-![MkDocs](../perfil/pergunta16.png)
+![MkDocs](./perfil/pergunta16.png)
 
 <div style="text-align: center">
 <b>Figura 16: Questão 16</b>
@@ -155,7 +155,7 @@ As questões a seguir são definidas pelos níveis de satisfação abaixo:
 
 <br/>
 
-![MkDocs](../perfil/pergunta17.png)
+![MkDocs](./perfil/pergunta17.png)
 
 <div style="text-align: center">
 <b>Figura 17: Questão 17</b>
@@ -163,7 +163,7 @@ As questões a seguir são definidas pelos níveis de satisfação abaixo:
 
 <br/>
 
-![MkDocs](../perfil/pergunta18.png)
+![MkDocs](./perfil/pergunta18.png)
 
 <div style="text-align: center">
 <b>Figura 18: Questão 18</b>
