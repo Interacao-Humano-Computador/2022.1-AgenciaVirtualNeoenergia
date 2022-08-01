@@ -1,4 +1,4 @@
-# Metas de usuabilidade
+# Metas de usabilidade
 
 ## Introdução
 
