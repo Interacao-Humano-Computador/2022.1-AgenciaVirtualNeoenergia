@@ -18,7 +18,7 @@
 
 ## Etapa 3
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=ryxnEDJze2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ryxnEDJze2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <div style="margin-left: 160px">
 <p>Vídeo 3: Apresentação da etapa 3</p>
