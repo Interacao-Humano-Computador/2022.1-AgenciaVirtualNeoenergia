@@ -3,7 +3,7 @@
 ## Introdução
 
 <div style="text-align: justify">
-A definição de metodologias a serem seguidas durante a execução de um projeto é de extrema importância, pois isso que permite entregas rápidas, sistemáticas e de boa qualidade. Assim, nesta página será apresentada as metodologias utilizadas a fim de organizar o grupo e gerenciar o versionamento do código de documentação a ser desenvolvido ao longo do semestre.
+A definição de metodologias a serem seguidas durante a execução de um projeto é de extrema importância, pois isso que permite entregas rápidas, sistemáticas e de boa qualidade. Assim, nesta página serão apresentadas as metodologias utilizadas a fim de organizar o grupo e gerenciar o versionamento do código de documentação a ser desenvolvido ao longo do semestre.
 </div>
 
 ## Scrum
@@ -52,6 +52,6 @@ Onde 'X' é o número da issue e o 'Comentário' deve ser um resumo do que foi f
 
 | Data | Versão | Descrição | Autor | Revisor |
 | ---- | ------ | --------- | ----- | ------- |
-| 31/07/2022 | `0.1`  | Criação da página de metodologias | [Natan Santana](https://github.com/Neitan2001) |
-| 04/08/2022 | `0.2`  | Correção da página movendo para a pasta de planejamento | [Natan Santana](https://github.com/Neitan2001) |
+| 31/07/2022 | `0.1`  | Criação da página de metodologias | [Natan Santana](https://github.com/Neitan2001) |[Luíza Esteves](https://github.com/luiza-esteves)
+| 04/08/2022 | `0.2`  | Correção da página movendo para a pasta de planejamento | [Natan Santana](https://github.com/Neitan2001) |[Luíza Esteves](https://github.com/luiza-esteves)
 
