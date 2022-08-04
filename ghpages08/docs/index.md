@@ -19,27 +19,6 @@ e todos os problemas encontrados serão documentados nessa wiki com sugestões d
 usuário consiga atingir o seu objetivo com o máximo de eficiência.
 </div>
 
-## Políticas
-
-### Políticas de Branchs
-
-<div style="text-align: justify">
-As branchs devem ser nomeadas de acordo com a issue correspondente de acordo com o seguinte exemplo:
-
-```
-git checkout -b "#X - Nome"
-```
-Onde 'X' é o número da issue e o 'Nome' deve ser um breve título que resuma a issue.
-</div>
-
-### Políticas de Commits
-Os commits devem ser feitos de acordo com a issue correspondente de acordo com o seguinte exemplo:
-
-```
-git commit -m "#X - Comentário"
-```
-Onde 'X' é o número da issue e o 'Comentário' deve ser um resumo do que foi feito no commit.
-
 ## Desenvolvedores.🤝
 
 <div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
