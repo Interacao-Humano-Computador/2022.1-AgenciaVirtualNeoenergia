@@ -44,17 +44,6 @@ git commit -m "#X - Comentário"
 ```
 Onde 'X' é o número da issue e o 'Comentário' deve ser um resumo do que foi feito no commit.
 
-## Outras metodologias
-
-<div style="text-align: justify">
-Além das metodologias citadas nesta página, outras são utilizadas em diferentes etapas do projeto. Como por exemplo:
-</div>
-
-- [Avaliação Heurística nos Sites Avaliados](./planejamento/sitesAvaliados.md)
-- [Processo de Design](./planejamento/processoDesign.md)
-- [Perfil de Usuário](./analise_de_requisitos/perfil_do_usu%C3%A1rio.md)
-- [Personas](./analise_de_requisitos/personas.md)
-
 ## Bibliografia
 
 > COHN, Mike. Desenvolvimento de Software com Scrum: Aplicando Métodos Ágeis com Sucesso. 2021. Disponível em: https://books.google.com.br/books. Acesso em: 31 de jul. de 2022.
@@ -64,4 +53,5 @@ Além das metodologias citadas nesta página, outras são utilizadas em diferent
 | Data | Versão | Descrição | Autor | Revisor |
 | ---- | ------ | --------- | ----- | ------- |
 | 31/07/2022 | `0.1`  | Criação da página de metodologias | [Natan Santana](https://github.com/Neitan2001) |
+| 04/08/2022 | `0.2`  | Correção da página movendo para a pasta de planejamento | [Natan Santana](https://github.com/Neitan2001) |
 
