@@ -12,7 +12,7 @@ A definição de metodologias a serem seguidas durante a execução de um projet
 Com a finalidade de assegurar que o grupo faça entregas de forma rápida, consistente e sem arriscar a qualidade, foi escolhido a metodologia ágil Scrum seguindo os seguintes princípios:
 </div>
 
-- Estabelecimento de prazos: todas as entregas possuem um cronograma detalhado onde pode ser consultado o dia máximo para entrega e revisão, o autor da entrega e o revisor. Esse cronograma pode ser consultado [aqui](./planejamento/cronograma.md).
+- Estabelecimento de prazos: todas as entregas possuem um cronograma detalhado onde pode ser consultado o dia máximo para entrega e revisão, o autor da entrega e o revisor. Esse cronograma pode ser consultado [aqui](../planejamento/cronograma.md).
 - Desenvolvimento iterativo: esta wiki é a documentação do projeto realizado durante este semestre e ela é icrementada a cada etapa (sprint) que possue a duração de aproximadamente duas semanas.
 - Reuniões de planejamento: no começo de cada etapa é realizada um reunião de planejamento onde é dividido cada tarefa e criada as issues no github.
 
