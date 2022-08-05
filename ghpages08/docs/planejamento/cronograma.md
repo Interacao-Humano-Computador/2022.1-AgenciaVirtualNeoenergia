@@ -65,12 +65,12 @@ Data limite para entrega | Atividade/entrega | Autor(es) | Revisor | Data limite
 
 Data limite para entrega | Atividade/entrega | Autor(es) | Revisor | Data limite para revisão
 --------- | ----------------- | -------------- | ---------- | -------- 
-05/08/2022 | Planejamento da avaliação do Storyboard |  |  |  06/08/2022
-05/08/2022 | Planejamento da avaliação da Análise de tarefas |  |  | 06/08/2022
-05/08/2022 | Planejamento do relato dos resultados da valiação do Storyboard |  |  | 06/08/2022
-05/08/2022 | Planejamento do relato dos resultados da avaliação da Análise de tarefas |  |  | 06/08/2022
-06/08/2022 | Slides e gravação do vídeo de apresentação |  |  | 07/08/2022
-07/08/2022 | Edição do  vídeo de apresentação |  |  | 08/08/2022 
+05/08/2022 | Planejamento da avaliação do Storyboard | [Luíza Esteves](https://github.com/luiza-esteves) | [Natan Santana](https://github.com/Neitan2001) |  06/08/2022
+05/08/2022 | Planejamento da avaliação da Análise de tarefas | [Clara Ribeiro](https://github.com/clara-ribeiro) | [Luíza Esteves](https://github.com/luiza-esteves) | 06/08/2022
+05/08/2022 | Planejamento do relato dos resultados da valiação do Storyboard | [Natan Santana](https://github.com/Neitan2001) | [Matheus Perillo](https://github.com/MatheusPerillo) | 06/08/2022
+05/08/2022 | Planejamento do relato dos resultados da avaliação da Análise de tarefas | [Rafael Xavier](https://github.com/rafaelxavierr) | [Clara Ribeiro](https://github.com/clara-ribeiro) | 06/08/2022
+06/08/2022 | Slides e gravação do vídeo de apresentação | Todos | [Clara Ribeiro](https://github.com/clara-ribeiro) | 07/08/2022
+07/08/2022 | Edição do  vídeo de apresentação | [Clara Ribeiro](https://github.com/clara-ribeiro) | [Natan Santana](https://github.com/Neitan2001) | 08/08/2022 
 
 <div style="text-align: center">
 <p>Tabela 4: Planejamento da Avaliação do Storyboard e Análise de tarefas, planejamento do relato dos resultados da valiação do Storyboard e o planejamento do relato dos resultados da avaliação do Análise de tarefas</p>
