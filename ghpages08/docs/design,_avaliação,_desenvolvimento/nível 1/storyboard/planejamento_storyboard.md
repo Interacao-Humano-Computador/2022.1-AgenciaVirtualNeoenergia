@@ -43,6 +43,9 @@ De posse dessas informações, gostaríamos que você se pronunciasse acerca do 
 
 Para realizar a entrevista utilizaremos como ferramenta o Microsoft Teams, que permite tanto a comunicação quanto a gravação do encontro. Além disso, solicitaremos que o candidato esteja com lápis e papel caso deseje fazer algum esboço de seu raciocínio.
 
+## Perfis dos entrevistados
+
+Dentro da atividade de Perfil do Usuário e das Personas, conseguimos identificar características necessárias para realizar uma entrevista com um usuário. Sendo assim buscaremos dois perfis maiores de 18 anos, que residam no Distrito Federal e que faça utilização do site da Agência Virtual NeoEnergia.
 
 ## Roteiro de perguntas
 
@@ -56,12 +59,35 @@ Para realizar a entrevista utilizaremos como ferramenta o Microsoft Teams, que p
 | 4 | O que você pensa sobre a solução da tarefa do sistema da NeoEnergia no Storyboard? Ela está atendendo ou faltam elementos? | Pergunta discursiva |
 | 5 | Você imagina alguma outra forma de solução que poderia ser representado pelos Storyboards? | Pergunta discursiva |
 
+## Storyboards desenvolvidos
 
+Para a realização da avaliação de storyboard, os membros do grupo desenvolveram storyboards das seguintes atividades do sistema: recuperação de senha, recuperação de email e relatório nada consta. 
 
+Na Figura 1, é colocado a recuperação de senha no contexto em que o usuário entra no site do sistema para realizar uma atividade mas acaba se esquecendo sua senha e precisa iniciar o processo de recuperação.
+![Logotipos](../../../assets/storyboards/stLuiza.jpeg)
+<div style="text-align: center">
+<p>Figura 1- Storyboard de recuperação de senha (Luíza Esteves)</p>
+</div>
+<br>
 
-## Perfis dos entrevistados
+Na Figura 2, é contada uma história de uma pessoa emitindo um relatório nada consta para o aluguel de uma casa.
+![Logotipos](../../../assets/storyboards/stNatan.jpeg)
+<div style="text-align: center">
+<p>Figura 2- Storyboard de relatório nada consta (Natan Santana)</p>
+</div>
 
-Dentro da atividade de Perfil do Usuário e das Personas, conseguimos identificar características necessárias para realizar uma entrevista com um usuário. Sendo assim buscaremos dois perfis maiores de 18 anos, que residam no Distrito Federal e que faça utilização do site da Agência Virtual NeoEnergia.
+Na Figura 3, é colocado a recuperação de email para que o usuário consiga ter acesso a atividades do sistema
+![Logotipos](../../../assets/storyboards/stRafael.jpeg)
+<div style="text-align: center">
+<p>Figura 3- Storyboard de recuperação de email (Rafael Xavier)</p>
+</div>
+
+Na Figura 4, é colocado o relatório nada consta para verificar se as contas realmente estão pagas
+![Logotipos](../../../assets/storyboards/stClara.jpg)
+<div style="text-align: center">
+<p>Figura 3- Storyboard de relatório nada consta (Clara Ribeiro)</p>
+</div>
+
 
 ## Conclusão 
 
