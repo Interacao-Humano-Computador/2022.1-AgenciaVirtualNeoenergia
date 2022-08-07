@@ -54,4 +54,4 @@ Os dados coletados durante a entrevista serão registrados e utilizados como ins
 
 | Data | Versão | Descrição | Autor | Revisor |
 | ---- | ------ | --------- | ----- | ------- |
-| 04/08/2022 | `0.1`  | Criação da página de planejamento da análise de tarefas | [Clara Ribeiro](https://github.com/clara-ribeiro) |
+| 04/08/2022 | `0.1`  | Criação da página de planejamento da análise de tarefas | [Clara Ribeiro](https://github.com/clara-ribeiro) |[Luíza Esteves](https://github.com/luiza-esteves)
