@@ -55,4 +55,4 @@ Por fim, será feita sugestões de correções para cada um dos problemas identi
 
 | Data | Versão | Descrição | Autor | Revisor |
 | ---- | ------ | --------- | ----- | ------- |
-| 04/08/2022 | `0.1`  | Adição do planejamento do relato dos resultados da avaliação | [Natan Santana](https://github.com/Neitan2001) | 
+| 04/08/2022 | `0.1`  | Adição do planejamento do relato dos resultados da avaliação | [Natan Santana](https://github.com/Neitan2001) | [Matheus Perillo](https://github.com/MatheusPerillo) |
