@@ -15,29 +15,8 @@ Assim, começamos o processo de estruturação montando um termo de consentiment
 ## Termo de consentimento
 
 Dentro do termo, buscamos informar tanto sobre a pesquisa quanto a gravação das entrevistas, deixando claro que tudo ocorrerá garantindo o sigilo das informações e somente com a devida autorização.
-
-Somos alunos de Engenharia de Software da Universidade de Brasília, e estamos realizando um projeto na matéria de Interação Humano Computador, ministrada pelo professor André Barros.
-
-
-Nesta etapa do projeto, queremos fazer uma análise sobre como os usuários que utilizam o site da Agência Virtual NeoEnergia avaliam a realização das atividades e quais os principais pontos de melhoria e correção. Para isso, solicitamos a realização e gravação de uma entrevista.
-
-
- Para decidir sobre o seu consentimento, é importante que você conheça as seguintes informações sobre a pesquisa:
-
-
-- Os dados coletados durante a entrevista destinam-se estritamente a atividades de análise e elaboração de melhorias do sistema Agência Virtual NeoEnergia.
-
-- Nossa equipe tem o compromisso de divulgar os resultados de nossas pesquisas para o cliente. A divulgação desses resultados pauta-se no respeito à sua privacidade, e o anonimato dos participantes será preservado em quaisquer documentos que elaborarmos.
-
-- O consentimento para a gravação da entrevista é uma escolha livre, feita mediante a prestação de todos os esclarecimentos necessários sobre a pesquisa.
-
-- A entrevista pode ser interrompida a qualquer momento, segundo a sua disponibilidade e vontade.
-
-De posse dessas informações, gostaríamos que você se pronunciasse acerca do questionário:
-
-( ) Dou meu consentimento para a sua realização.
-
-( ) Não consinto com a sua realização.
+<br/><br/>
+<embed src="../../../../assets/termoConsentimento.pdf" type="application/pdf" width="700" height="500">
 
 ## Ferramentas utilizadas na avaliação
 
@@ -71,7 +50,7 @@ Na Figura 1, é colocado a recuperação de senha no contexto em que o usuário 
 <br>
 
 Na Figura 2, é contada uma história de uma pessoa emitindo um relatório nada consta para o aluguel de uma casa.
-![Logotipos](../../../assets/storyboards/stNatan.jpeg)
+![Logotipos](../../../assets/storyboards/stNatan.jpg)
 <div style="text-align: center">
 <p>Figura 2- Storyboard de relatório nada consta (Natan Santana)</p>
 </div>
@@ -97,4 +76,4 @@ Com todos esse planejamento, esperamos conseguir identificar todos os pontos a s
 
 | Data | Versão | Descrição | Autor | Revisor |
 | ---- | ------ | --------- | ----- | ------- |
-| 04/08/2022 | `0.1`  | Criação da página de planejamento de storyboard | [Luíza Esteves](https://github.com/luiza-esteves) |
+| 04/08/2022 | `0.1`  | Criação da página de planejamento de storyboard | [Luíza Esteves](https://github.com/luiza-esteves) | [Natan Santana](https://github.com/Neitan2001)
