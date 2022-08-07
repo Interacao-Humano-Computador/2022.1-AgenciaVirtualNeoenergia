@@ -41,9 +41,11 @@ Dentro da atividade de Perfil do Usuário e das Personas, conseguimos identifica
 | 8 | Como é fazer login na plataforma? | Pergunta discursiva |
 | 9 | Você já esqueceu a sua senha ao tentar realizar o login? | <ul> <li> Sim</li> <li>  Não </li><li>  Inconclusivo </li> </ul> |
 | 9.1 | _Caso tenha sido respondida a opção "Sim":_<br/>O que você achou do processo de recuperar a sua senha? | Pergunta discursiva |
+| 9.2 | _Caso tenha sido respondida a opção "Não":_<br/>Pedir para o usuário realizar essa ação na hora e relatar a experiência | Pergunta discursiva |
 | 10 | Quais são as atividades que você mais realiza no site? | <ul> <li> Segunda Via de Conta</li><li> Religação</li><li> Falta de Energia</li><li> Atualizar Cadastro</li><li> Alterar Data de Vencimento</li><li> Gerar Histórico de Consumo</li><li> Relatório Nada Consta</li><li> Data da Próxima Leitura</li></ul> |
 | 10.1 | _Caso tenha sido respondida a opção "Relatório Nada Consta":_<br/>Porque você precisou usar a função de geração do relatório nada consta? | Pergunta discursiva |
 | 10.2 | _Caso tenha sido respondida a opção "Relatório Nada Consta" na questão 10:_<br/>Você fez o geramento de qual relatório? |<ul> <li> Anual</li> <li>  Mensal</li><li>  Os dois</li> </ul> |
+| 10.2 | _Caso não tenha sido respondida a opção "Relatório Nada Consta"_<br/>Pedir para o usuário realizar essa ação na hora e relatar a experiência | Pergunta discursiva |
 | 11 | Qual é a sua maior dificuldade ao utilizar o site? | Pergunta discursiva |
 | 12 | Há alguma funcionalidade que você gostaria muito que tivesse no site? | Pergunta discursiva |
 
