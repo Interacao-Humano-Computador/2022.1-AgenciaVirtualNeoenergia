@@ -55,4 +55,4 @@ Por fim, será feita sugestões de correções para cada um dos problemas identi
 
 | Data | Versão | Descrição | Autor | Revisor |
 | ---- | ------ | --------- | ----- | ------- |
-| 05/08/2022 | `0.1`  | Adição do planejamento do relato dos resultados da avaliação da análise de tarefas | [Rafael Xavier](https://github.com/rafaelxavierr) | 
+| 05/08/2022 | `0.1`  | Adição do planejamento do relato dos resultados da avaliação da análise de tarefas | [Rafael Xavier](https://github.com/rafaelxavierr) | [Clara Ribeiro](https://github.com/clara-ribeiro)
