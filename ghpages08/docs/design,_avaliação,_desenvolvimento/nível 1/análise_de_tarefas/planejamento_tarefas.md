@@ -14,8 +14,7 @@ A metodologia escolhida foi a de entrevistas com usuários da Agência Virtual. 
 
 ## Termo de consentimento
 
-O termo de consentimento será entregue ao usuário antes do início 
-Dentro do termo, buscamos informar tanto sobre a pesquisa quanto a gravação das entrevistas, deixando claro que tudo ocorrerá garantindo o sigilo das informações e somente com a devida autorização.
+O termo de consentimento está apresentado abaixo e ele será entregue ao usuário antes do início da entrevista.
 <br/><br/>
 <embed src="../../../../assets/termoConsentimento.pdf" type="application/pdf" width="700" height="500">
 
