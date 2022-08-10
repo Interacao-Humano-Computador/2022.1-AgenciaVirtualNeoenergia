@@ -22,6 +22,10 @@ Dentro do termo, buscamos informar tanto sobre a pesquisa quanto a gravação da
 
 Para realizar a entrevista utilizaremos como ferramenta o Microsoft Teams, que permite tanto a comunicação quanto a gravação do encontro. Além disso, solicitaremos que o candidato esteja com lápis e papel caso deseje fazer algum esboço de seu raciocínio.
 
+## Teste Piloto
+
+Antes da entrevista com os participantes selecionados ser realizada, será feito um teste piloto a fim de verificar o planejamento, analisar se a avaliação produz os dados necessários e verificar se todas as ferramentas necessárias para a avaliação estão funcionando como planejado. O teste piloto consistirá de dois avaliadores executando a avaliação como se fosse uma sessão normal da entrevista e a gravação deste teste e os seus resultados serão documentados no relato dos resultados e qualquer mudança necessária no planejamento será feita antes que as entrevistas ocorram.
+
 ## Perfis dos entrevistados
 
 Dentro da atividade de Perfil do Usuário e das Personas, conseguimos identificar características necessárias para realizar uma entrevista com um usuário. Sendo assim buscaremos dois perfis maiores de 18 anos, que residam no Distrito Federal e que faça utilização do site da Agência Virtual NeoEnergia.
@@ -30,13 +34,10 @@ Dentro da atividade de Perfil do Usuário e das Personas, conseguimos identifica
 
 | Número | Pergunta | Possível Resposta |
 |:--:|:--:|:---|
-| 1 | Observando os dois storyboards dessa tarefa como usuário, você identifica que a sequência das atividades seja coerente? | <ul> <li> SIM</li> <li>  NÃO </li> <li> INCONCLUSIVO</li> </ul> |
+| 1 | Observando os storyboards dessa tarefa como usuário, você identifica que a sequência das atividades seja coerente? | <ul> <li> SIM</li> <li>  NÃO </li> <li> INCONCLUSIVO</li> </ul> |
 | 1.1 | Se a resposta à pergunta 1 foi NÃO ou INCONCLUSIVO, pode explicar o motivo da resposta? | Pergunta discursiva |
-| 2 | Você realmente acha que a Agência Virtual NeoEnergia facilita o usuário a realizar a tarefa indicada? | <ul> <li> SIM</li> <li>  NÃO </li> <li> INCONCLUSIVO</li> </ul> |
-| 2.1 | Explique o porque da sua resposta| Pergunta discursiva |
-| 3 | Qual dos storyboards você acha que mais faz sentido com a tarefa a qual eles estão indicados? | Pergunta discursiva |
-| 4 | O que você pensa sobre a solução da tarefa do sistema da NeoEnergia no Storyboard? Ela está atendendo ou faltam elementos? | Pergunta discursiva |
-| 5 | Você imagina alguma outra forma de solução que poderia ser representado pelos Storyboards? | Pergunta discursiva |
+| 2 | O que você pensa sobre a solução da tarefa do sistema da NeoEnergia no Storyboard? Ela está atendendo ou faltam elementos? | Pergunta discursiva |
+| 3 | Você imagina alguma outra forma de solução que poderia ser representado pelos Storyboards? | Pergunta discursiva |
 
 ## Storyboards desenvolvidos
 
@@ -77,3 +78,4 @@ Com todos esse planejamento, esperamos conseguir identificar todos os pontos a s
 | Data | Versão | Descrição | Autor | Revisor |
 | ---- | ------ | --------- | ----- | ------- |
 | 04/08/2022 | `0.1`  | Criação da página de planejamento de storyboard | [Luíza Esteves](https://github.com/luiza-esteves) | [Natan Santana](https://github.com/Neitan2001)
+| 10/08/2022 | `0.2`  | Ajuste nas perguntas e adição do tópico de teste piloto | [Natan Santana](https://github.com/Neitan2001) |
