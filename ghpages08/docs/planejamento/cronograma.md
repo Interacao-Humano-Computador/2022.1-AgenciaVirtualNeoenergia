@@ -80,12 +80,18 @@ Data limite para entrega | Atividade/entrega | Autor(es) | Revisor | Data limite
 
 Data limite para entrega  | Atividade/entrega | Autor(es) | Revisor | Data limite para revisão
 --------- | ----------------- | -------------- | ---------- | -----------
-13/08/2022 | Relato dos resultados do Story Board |  |  | 14/08/2022
-13/08/2022 | Relato dos resultados da Análise de tarefas |  |  | 14/08/2022
-13/08/2022 | Planejamento da Avaliação do Protótipo de Papel |  |  | 14/08/2022
-13/08/2022 | Planejamento do relato dos resultados da avaliação do Protótipo de Papel |  |  | 14/08/2022
-15/08/2022 | Slides e gravação do vídeo de apresentação |  |  | 16/08/2022
-16/08/2022 | Edição do  vídeo de apresentação |  |  | 17/08/2022
+16/08/2022 | Ajuste nas Metas de Usabilidade | [Matheus Perillo](https://github.com/MatheusPerillo) | [Clara Ribeiro](https://github.com/clara-ribeiro) | 17/08/2022
+16/08/2022 | Ajuste nos Princípios Gerais do projeto | [Luíza Esteves](https://github.com/luiza-esteves) | [Natan Santana](https://github.com/Neitan2001) | 17/08/2022
+16/08/2022 | Ajuste no planejamento de storyboard | [Luíza Esteves](https://github.com/luiza-esteves) e [Natan Santana](https://github.com/Neitan2001) | [Clara Ribeiro](https://github.com/clara-ribeiro) | 17/08/2022
+16/08/2022 | Ajuste no planejamento de análise de tarefa | [Clara Ribeiro](https://github.com/clara-ribeiro) e [Natan Santana](https://github.com/Neitan2001) | [Luíza Esteves](https://github.com/luiza-esteves) | 17/08/2022
+11/08/2022 | Teste-piloto das entrevistas | [Clara Ribeiro](https://github.com/clara-ribeiro) e [Natan Santana](https://github.com/Neitan2001) | [Rafael Xavier](https://github.com/rafaelxavierr) | 12/08/2022
+12/08/2022 | Realização das entrevistas | [Clara Ribeiro](https://github.com/clara-ribeiro) e [Natan Santana](https://github.com/Neitan2001) | [Rafael Xavier](https://github.com/rafaelxavierr) | 13/08/2022
+14/08/2022 | Relato dos resultados do Story Board | [Clara Ribeiro](https://github.com/clara-ribeiro) | [Natan Santana](https://github.com/Neitan2001) | 15/08/2022
+14/08/2022 | Relato dos resultados da Análise de tarefas | [Natan Santana](https://github.com/Neitan2001) | [Clara Ribeiro](https://github.com/clara-ribeiro) | 15/08/2022
+14/08/2022 | Planejamento da Avaliação do Protótipo de Papel | [Luíza Esteves](https://github.com/luiza-esteves) | [Matheus Perillo](https://github.com/MatheusPerillo) | 15/08/2022
+14/08/2022 | Planejamento do relato dos resultados da avaliação do Protótipo de Papel | [Rafael Xavier](https://github.com/rafaelxavierr) | [Luíza Esteves](https://github.com/luiza-esteves) | 15/08/2022
+15/08/2022 | Slides e gravação do vídeo de apresentação | Todos | [Clara Ribeiro](https://github.com/clara-ribeiro) | 16/08/2022
+16/08/2022 | Edição do  vídeo de apresentação | [Clara Ribeiro](https://github.com/clara-ribeiro) | [Natan Santana](https://github.com/Neitan2001) | 17/08/2022
 
 <div style="text-align: center">
 <p>Tabela 5: Relato dos resultados do Story Board e da Análise de tarefas, o Planejamento da Avaliação do Protótipo de Papel e do planejamento do relato dos resultados da avaliação do Protótipo de Papel</p>
@@ -128,3 +134,4 @@ Data limite para entrega | Atividade/entrega | Autor(es) | Revisor | Data limite
 | 06/07/2022 | `0.2`  | Adição de legendas nas tabelas | [Rafael Xavier](https://github.com/rafaelxavierr) | [Natan Santana](https://github.com/Neitan2001)
 17/07/2022 | `0.3` | Detalhando etapas do projeto | [Rafael Xavier](https://github.com/rafaelxavierr) | [Natan Santana](https://github.com/Neitan2001)
 29/07/2022 | `0.4` | Alterações na etapa 3 e adição de data para revisão | [Rafael Xavier](https://github.com/rafaelxavierr) | [Natan Santana](https://github.com/Neitan2001)
+11/08/2022 | `0.5` | Alterações na etapa 5 | [Natan Santana](https://github.com/Neitan2001) | 
