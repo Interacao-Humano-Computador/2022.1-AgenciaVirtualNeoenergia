@@ -34,10 +34,14 @@ Dentro da atividade de Perfil do Usuário e das Personas, conseguimos identifica
 
 | Número | Pergunta | Possível Resposta |
 |:--:|:--:|:---|
-| 1 | Observando os storyboards dessa tarefa como usuário, você identifica que a sequência das atividades seja coerente? | <ul> <li> SIM</li> <li>  NÃO </li> <li> INCONCLUSIVO</li> </ul> |
-| 1.1 | Se a resposta à pergunta 1 foi NÃO ou INCONCLUSIVO, pode explicar o motivo da resposta? | Pergunta discursiva |
-| 2 | O que você pensa sobre a solução da tarefa do sistema da NeoEnergia no Storyboard? Ela está atendendo ou faltam elementos? | Pergunta discursiva |
-| 3 | Você imagina alguma outra forma de solução que poderia ser representado pelos Storyboards? | Pergunta discursiva |
+| 1 | Observando o storyboard da tarefa "Recuperação de senha", você identifica que a sequência das atividades seja coerente? | <ul> <li> SIM</li> <li>  NÃO </li> <li> INCONCLUSIVO</li> </ul> |
+| 1.1 | Se a resposta à pergunta 1 foi NÃO ou INCONCLUSIVO, pode explicar o motivo da resposta? E você possui alguma sugestão de melhoria? | Pergunta discursiva |
+| 2 | Observando o storyboard da tarefa "Relatório Nada Consta anual", você identifica que a sequência das atividades seja coerente? | <ul> <li> SIM</li> <li>  NÃO </li> <li> INCONCLUSIVO</li> </ul> |
+| 2.1 | Se a resposta à pergunta 2 foi NÃO ou INCONCLUSIVO, pode explicar o motivo da resposta? E você possui alguma sugestão de melhoria? | Pergunta discursiva |
+| 3 | Observando o storyboard da tarefa "Recuperação de email", você identifica que a sequência das atividades seja coerente? | <ul> <li> SIM</li> <li>  NÃO </li> <li> INCONCLUSIVO</li> </ul> |
+| 3.1 | Se a resposta à pergunta 3 foi NÃO ou INCONCLUSIVO, pode explicar o motivo da resposta? E você possui alguma sugestão de melhoria? | Pergunta discursiva |
+| 4 | Observando o storyboard da tarefa "Relatório Nada Consta mensal", você identifica que a sequência das atividades seja coerente? | <ul> <li> SIM</li> <li>  NÃO </li> <li> INCONCLUSIVO</li> </ul> |
+| 4.1 | Se a resposta à pergunta 4 foi NÃO ou INCONCLUSIVO, pode explicar o motivo da resposta? E você possui alguma sugestão de melhoria? | Pergunta discursiva |
 
 ## Storyboards desenvolvidos
 
@@ -79,3 +83,4 @@ Com todos esse planejamento, esperamos conseguir identificar todos os pontos a s
 | ---- | ------ | --------- | ----- | ------- |
 | 04/08/2022 | `0.1`  | Criação da página de planejamento de storyboard | [Luíza Esteves](https://github.com/luiza-esteves) | [Natan Santana](https://github.com/Neitan2001)
 | 10/08/2022 | `0.2`  | Ajuste nas perguntas e adição do tópico de teste piloto | [Natan Santana](https://github.com/Neitan2001) |
+| 11/08/2022 | `0.3`  | Ajuste nas perguntas de acordo com o que foi observado no teste piloto | [Natan Santana](https://github.com/Neitan2001) |
