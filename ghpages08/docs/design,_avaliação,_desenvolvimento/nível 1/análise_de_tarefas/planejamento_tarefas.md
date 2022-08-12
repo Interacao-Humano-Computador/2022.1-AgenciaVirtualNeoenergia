@@ -57,4 +57,5 @@ Os dados coletados durante a entrevista serão registrados e utilizados como ins
 | ---- | ------ | --------- | ----- | ------- |
 | 04/08/2022 | `0.1`  | Criação da página de planejamento da análise de tarefas | [Clara Ribeiro](https://github.com/clara-ribeiro) |[Luíza Esteves](https://github.com/luiza-esteves)
 | 10/08/2022 | `0.2`  | Ajuste das perguntas e adição do tópico teste piloto | [Natan Santana](https://github.com/Neitan2001) |
+| 12/08/2022 | `0.3`  | Ajuste das perguntas de acordo com o teste piloto | [Natan Santana](https://github.com/Neitan2001) |
 
