@@ -134,4 +134,4 @@ Data limite para entrega | Atividade/entrega | Autor(es) | Revisor | Data limite
 | 06/07/2022 | `0.2`  | Adição de legendas nas tabelas | [Rafael Xavier](https://github.com/rafaelxavierr) | [Natan Santana](https://github.com/Neitan2001)
 17/07/2022 | `0.3` | Detalhando etapas do projeto | [Rafael Xavier](https://github.com/rafaelxavierr) | [Natan Santana](https://github.com/Neitan2001)
 29/07/2022 | `0.4` | Alterações na etapa 3 e adição de data para revisão | [Rafael Xavier](https://github.com/rafaelxavierr) | [Natan Santana](https://github.com/Neitan2001)
-11/08/2022 | `0.5` | Alterações na etapa 5 | [Natan Santana](https://github.com/Neitan2001) | 
+11/08/2022 | `0.5` | Alterações na etapa 5 | [Natan Santana](https://github.com/Neitan2001) | [Rafael Xavier](https://github.com/rafaelxavierr)
