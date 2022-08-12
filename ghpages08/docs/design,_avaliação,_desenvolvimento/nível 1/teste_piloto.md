@@ -3,7 +3,7 @@
 ## Introdução
 
 <div style="text-align: justify">
-Nesta página será documentada o Teste Piloto da validação do Storyboard e Análise de Tarefas. Os avaliadores que participaram deste teste foram os membros Natan Tavares Santana e Clara Ribeiro que se reuniram em uma reunião do Microsoft Team no dia 11/08, como previsto no cronograma. O Teste Piloto possui a finalidade de validar o planejameto das entrevistas, verificando se as respostas geradas pelas perguntas são pertinentes à avaliação e se será necessário alguma mudança no roteiro das perguntas a fim de gerar dados mais completos. Além disso, é verificado se o ambiente está preparado para a entrevista e se é necessário algum ajuste ou ferramenta.
+Nesta página será documentado o Teste Piloto da validação do Storyboard e Análise de Tarefas. Os avaliadores que participaram deste teste foram os membros Natan Tavares Santana e Clara Ribeiro que se reuniram em uma reunião do Microsoft Teams no dia 11/08, como previsto no cronograma. O Teste Piloto possui a finalidade de validar o planejameto das entrevistas, verificando se as respostas geradas pelas perguntas são pertinentes à avaliação e se será necessário alguma mudança no roteiro das perguntas a fim de gerar dados mais completos. Além disso, é verificado se o ambiente está preparado para a entrevista e se é necessário algum ajuste ou ferramenta.
 </div>
 
 ## Gravação do Teste Piloto
@@ -53,7 +53,7 @@ Além disso, será necessário que o avaliador tenha os seguintes artefatos aber
 ### Mudanças
 
 <div style="text-align: justify">
-Quanto ao roteiro de perguntas da Análise de Tarefa foi validado que os dados gerados são suficiente para realizar a validação. Já o roteiro de perguntas do Storyboard teve algumas mudanças:
+Quanto ao roteiro de perguntas da Análise de Tarefas, foi validado que os dados gerados são suficientes para realizar a validação. Já o roteiro de perguntas do Storyboard sofreu algumas mudanças:
 </div>
 - Retirada de perguntas que estavam gerando respostas iguais;
 - Especificação das perguntas para cada Storyboard;
@@ -69,4 +69,4 @@ O roteiro de perguntas disponível no documento de planejamento foi atualizado c
 
 | Data | Versão | Descrição | Autor | Revisor |
 | ---- | ------ | --------- | ----- | ------- |
-| 11/08/2022 | `0.1`  | Criação do documento e resultados do teste piloto | [Natan Santana](https://github.com/Neitan2001) | |
+| 11/08/2022 | `0.1`  | Criação do documento e resultados do teste piloto | [Natan Santana](https://github.com/Neitan2001) | [Rafael Xavier](https://github.com/rafaelxavierr)  | 
