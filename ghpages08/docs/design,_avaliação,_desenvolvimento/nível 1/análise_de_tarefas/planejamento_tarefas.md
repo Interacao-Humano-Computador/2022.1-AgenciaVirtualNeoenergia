@@ -37,10 +37,15 @@ Dentro da atividade de Perfil do Usuário e das Personas, conseguimos identifica
 | 1 | Qual é a sua idade? | Pergunta discursiva |
 | 2 | Com o que você trabalha? | Pergunta discursiva |
 | 3 | É você quem paga a conta de energia na sua casa? | <ul> <li> Sim</li> <li>  Não </li> </ul> |
-| 4 | observando o digrama de análise de tarefas hierárquica da funcionalidade "Acessar conta no site", você identifica que a sequência das atividades e os feedbacks recebidos sejam coerentes? | <ul> <li> Sim</li> <li>  Não </li> </ul> |
-| 4.1 | Se a resposta à pergunta 1 foi NÃO, pode explicar o motivo da resposta? | Pergunta discursiva |
-| 5 | observando o digrama de análise de tarefas hierárquica da funcionalidade "Relatório Nada Consta", você identifica que a sequência das atividades e os feedbacks recebidos sejam coerentes? | <ul> <li> Sim</li> <li>  Não </li> </ul> |
-| 5.1 | Se a resposta à pergunta 1 foi NÃO, pode explicar o motivo da resposta? | Pergunta discursiva |
+| 4 | De acordo com os problemas e recomendações levantadas para o item 1 da tarefa "Acessar conta no site", você concorda com o que foi dito ou possui alguma sugestão? | Pergunta discursiva |
+| 5 | De acordo com os problemas e recomendações levantadas para o item 2.2.1 da tarefa "Acessar conta no site", você concorda com o que foi dito ou possui alguma sugestão? | Pergunta discursiva |
+| 6 | De acordo com os problemas e recomendações levantadas para o item 2.2.2.1 da tarefa "Acessar conta no site", você concorda com o que foi dito ou possui alguma sugestão? | Pergunta discursiva |
+| 7 | observando o digrama de análise de tarefas hierárquica da funcionalidade "Acessar conta no site", você identifica que a sequência das atividades e os feedbacks recebidos sejam coerentes? | <ul> <li> Sim</li> <li>  Não </li> </ul> |
+| 7.1 | Se a resposta à pergunta 1 foi NÃO, pode explicar o motivo da resposta? | Pergunta discursiva |
+| 8 | De acordo com os problemas e recomendações levantadas para o item 1 da tarefa "Relatório Nada Consta", você concorda com o que foi dito ou possui alguma sugestão? | Pergunta discursiva |
+| 9 | De acordo com os problemas e recomendações levantadas para o item 2.1 da tarefa "Relatório Nada Consta", você concorda com o que foi dito ou possui alguma sugestão? | Pergunta discursiva |
+| 10 | observando o digrama de análise de tarefas hierárquica da funcionalidade "Relatório Nada Consta", você identifica que a sequência das atividades e os feedbacks recebidos sejam coerentes? | <ul> <li> Sim</li> <li>  Não </li> </ul> |
+| 10.1 | Se a resposta à pergunta 1 foi NÃO, pode explicar o motivo da resposta? | Pergunta discursiva |
 
 
 ## Conclusão 
