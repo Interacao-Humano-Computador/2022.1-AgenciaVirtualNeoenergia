@@ -53,10 +53,14 @@ Além disso, será necessário que o avaliador tenha os seguintes artefatos aber
 ### Mudanças
 
 <div style="text-align: justify">
-Quanto ao roteiro de perguntas da Análise de Tarefas, foi validado que os dados gerados são suficientes para realizar a validação. Já o roteiro de perguntas do Storyboard sofreu algumas mudanças:
+Após a execução do Teste Piloto, os avaliadores Natan e Clara decidiram que para obter dados melhores era necessário fazer alguns ajustes nas perguntas. Então o roteiro de perguntas do Storyboard sofreu algumas mudanças:
 </div>
 - Retirada de perguntas que estavam gerando respostas iguais;
 - Especificação das perguntas para cada Storyboard;
+
+<div style="text-align: justify">
+Para o roteiro de perguntas da análise de tarefas, foi observado que seria melhor ter uma pergunta para cada item do diagrama que apresentasse um problema e uma recomendação, a fim de verificar se o entrevistado concorda se o que foi levantado realmente é um problema e se a recomendação levantada seria suficiente para resolvê-lo.
+</div>
 
 <div style="text-align: justify">
 O roteiro de perguntas disponível no documento de planejamento foi atualizado com essas mudanças antes que as entrevistas ocorressem.
