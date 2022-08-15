@@ -49,7 +49,6 @@ As perguntas indicadas a seguir devem ser utilizadas para coletar o perfil do us
 | 3 | Quais atividades você costuma realizar dentro do sistema?| Pergunta discursiva |
 | 4 | Após a simulação e observando os protótipos dessa tarefa como usuário, você identifica que a sequência das atividades seja coerente? | <ul> <li> SIM</li> <li>  NÃO </li> <li> INCONCLUSIVO</li> </ul> |
 | 4.1 | Se a resposta à pergunta 1 foi NÃO ou INCONCLUSIVO, pode explicar o motivo da resposta? | Pergunta discursiva |
-
 | 4.1 | Explique o porque da sua resposta| Pergunta discursiva |
 | 5 | Você imagina alguma outra forma de solução que poderia ser representado pelo protótipo? | Pergunta discursiva |
 
