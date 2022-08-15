@@ -1,7 +1,5 @@
 # Planejamento do relato dos resultados da avaliação do Protótipo de Papel
 
-# Planejamento do relato dos resultados da avaliação do Protótipo de Papel
-
 ## Introdução
 
 <div style="text-align: justify">
@@ -56,4 +54,4 @@ Análise do grupo baseada nos dados obtidos na avaliação do protótipo. Aqui p
 
 | Data | Versão | Descrição | Autor | Revisor |
 | ---- | ------ | --------- | ----- | ------- |
-| 14/08/2022 | `0.1`  | Adição do planejamento do relato dos resultados da avaliação do Protótipo de Papel | [Rafael Xavier](https://github.com/rafaelxavierr) | 
+| 14/08/2022 | `0.1`  | Adição do planejamento do relato dos resultados da avaliação do Protótipo de Papel | [Rafael Xavier](https://github.com/rafaelxavierr) | [Luíza Esteves](https://github.com/luiza-esteves)
