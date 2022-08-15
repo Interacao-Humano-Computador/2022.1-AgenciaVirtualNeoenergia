@@ -57,12 +57,6 @@ As perguntas indicadas a seguir devem ser utilizadas para coletar o perfil do us
 
 Após a fase de desenvolvimento dos protótipos de papel, será feito o teste piloto pela equipe, simulando a entrevista antes de ser aplicada a entrevista para garantir que as perguntas elaboradas fazem sentindo com o propósito da entrevista.
 
-## Consolidação e relato dos resultados
-
-Após serem feitas as entrevistas, realizaremos a priorização dos problemas não resolvidos, colocando com prioridade maior os pontos que mais dificultam a realização das atividades.
-
-Além disso, faremos sugestão de correções pelos próprios membros do grupo para depois ser feito um relato de todos os problemas e sugestões coletados durante o processo.
-
 ## Conclusão
 
 Com todos esse planejamento, esperamos conseguir identificar todos os pontos a serem melhorados e os que estão em um bom nível para passar para as próximas etapas do design.
