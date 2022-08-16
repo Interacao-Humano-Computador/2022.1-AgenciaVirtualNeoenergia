@@ -18,6 +18,7 @@ As ferramentas utilizadas pela equipe serão softwares que facilitarão o gerenc
 | LucidChart | Elaboração de modelo de Árvore de Tarefas Concorrentes | ![LucidChart](../assets/tool_logos/lucidchart.svg)|
 | Google Forms | Criador de questionários e análise de respostas com gráficos | ![Google FOrms](../assets/tool_logos/forms.png){width="30"}
 | Visual Studio Code | IDE utilizada para a construção do código da documentação | ![VsCode](../assets/tool_logos/vscode.jpeg){width="30"}
+| StoryboardThat | Ferramenta usada para a criação dos storyboards | ![StoryboardThat](../assets/tool_logos/storyboardThat.png){width="30"}
 <div style="text-align: center">
     <p>
         Tabela 1: Tabela contendo as ferramentas utilizadas no projeto
