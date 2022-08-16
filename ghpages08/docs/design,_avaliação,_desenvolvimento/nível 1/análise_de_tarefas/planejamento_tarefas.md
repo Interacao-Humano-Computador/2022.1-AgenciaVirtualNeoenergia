@@ -8,9 +8,25 @@ O próximo passo é realizar uma avaliação com a perspectiva de usuários reai
 
 Coletar essas informações é essencial para entender os requisitos que o sistema deve ter para realmente ajudar os usuários a atingirem seus objetivos.
 
+## Objetivos da avaliação
+
+Estaremos realizando essa avaliação da Análise de Tarefas com o objetivo de fazer uma exploração de ideias e projetar soluções juntamente com o usuário. Com isso, esperamos ao final ter insumos suficientes para elaborar uma melhoria das funcionalidades dentro do sistema.
+
 ## Metodologia de avaliação da Análise de tarefas
 
 A metodologia escolhida foi a de entrevistas com usuários da Agência Virtual. A entrevista é um método investigativo e consegue coletar as informações buscadas por meio de uma pesquisa qualitativa. Com a entrevista é possível entender com maiores detalhes as dores dos usuários e seus objetivos.
+
+## Recrutamento dos participantes e cronograma das entrevistas
+
+Dentro da atividade de Perfil do Usuário e das Personas, conseguimos identificar características necessárias para realizar uma entrevista com um usuário. Sendo assim buscaremos dois perfis maiores de 18 anos, de diferentes faixas etárias e que sejam responsáveis pelo pagamento da conta de luz de sua residência.
+
+Para fazer o recrutamento, utilizamos redes sociais para buscar pessoas de acordo com os perfis indicados acima. Além disso, fizemos convite a pessoas conhecidas que encaixam com o perfil buscado.
+
+O cronograma da realização dessas atividades está detalhadamente descrito no nosso [Cronograma de atividades](../../../planejamento/cronograma.md)
+
+## Papéis dos avaliadores 
+
+Durante as entrevistas, estarão dois membros do projeto como avaliadores, sendo eles a Clara Ribeiro e o Natan Santana. Um ficará responsável por conduzir a entrevista e o outro por fazer os registros das respostas dos usuários para que posteriormente sejam feitas as análises das entrevistas.
 
 ## Termo de consentimento
 
@@ -25,10 +41,6 @@ A entrevista será realizada e gravada no Microsoft Teams.
 ## Teste Piloto
 
 Antes da entrevista com os participantes selecionados ser realizada, será feito um teste piloto a fim de verificar o planejamento, analisar se a avaliação produz os dados necessários e verificar se todas as ferramentas necessárias para a avaliação estão funcionando como planejado. O teste piloto consistirá de dois avaliadores executando a avaliação como se fosse uma sessão normal da entrevista e a gravação deste teste e os seus resultados serão documentados no relato dos resultados e qualquer mudança necessária no planejamento será feita antes que as entrevistas ocorram.
-
-## Perfis dos entrevistados
-
-Dentro da atividade de Perfil do Usuário e das Personas, conseguimos identificar características necessárias para realizar uma entrevista com um usuário. Sendo assim buscaremos dois perfis maiores de 18 anos, que residam no Distrito Federal e que faça utilização do site da Agência Virtual NeoEnergia.
 
 ## Roteiro de perguntas
 
@@ -52,4 +64,4 @@ Os dados coletados durante a entrevista serão registrados e utilizados como ins
 | ---- | ------ | --------- | ----- | ------- |
 | 04/08/2022 | `0.1`  | Criação da página de planejamento da análise de tarefas | [Clara Ribeiro](https://github.com/clara-ribeiro) |[Luíza Esteves](https://github.com/luiza-esteves)
 | 10/08/2022 | `0.2`  | Ajuste das perguntas e adição do tópico teste piloto | [Natan Santana](https://github.com/Neitan2001) |
-
+| 04/08/2022 | `0.3`  | Adição de informações sobre o teste piloto e sobre os entrevistados | [Clara Ribeiro](https://github.com/clara-ribeiro) | 
