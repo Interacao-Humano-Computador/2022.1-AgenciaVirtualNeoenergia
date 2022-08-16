@@ -6,11 +6,27 @@ O Storyboard é uma forma de prototipação de baixa fidelidade, em que são uti
 
 Suas principais vatangens ao ser executado são: baixo custo para ser desenvolvido, identifica requisitos, fácil comunicação e avalia vários conceitos do design. Nesse documento, será feita a descrição de como será feita a análise e avaliação dos storyboards desenvolvidos pela equipe.
 
+## Objetivos da avaliação
+
+Estaremos realizando essa avaliação do storyboard com o objetivo de fazer uma exploração de ideias e projetar soluções juntamente com o usuário. Com isso, esperamos ao final ter insumos suficientes para elaborar uma melhoria das funcionalidades dentro do sistema.
+
 ## Metodologias de avaliação dos Storyboards
 
 Dentro do nosso escopo de formas de avaliações, chegamos a um entendimento de que a forma mais adequada para o nosso projeto de se avaliar o storyboard são com entrevistas com os usuários, fazendo uma investigação técnica.
 
 Assim, começamos o processo de estruturação montando um termo de consentimento específico para a entrevista, fizemos a análise de ferramentas necessárias, definimos um roteiro de perguntas a serem utilizadas para a avaliação, podendo serem acrescidas mais caso seja de valia para a avaliação e fizemos a escolha de perfis para a entrevista.
+
+## Recrutamento dos participantes e cronograma das entrevistas
+
+Dentro da atividade de Perfil do Usuário e das Personas, conseguimos identificar características necessárias para realizar uma entrevista com um usuário. Sendo assim buscaremos dois perfis maiores de 18 anos, de diferentes faixas etárias e que sejam responsáveis pelo pagamento da conta de luz de sua residência.
+
+Para fazer o recrutamento, utilizamos grupos para divulgar que tenham pessoas de acordo com os perfis indicados acima. Além disso, fizemos convite a pessoas conhecidas que encaixam com o perfil buscado.
+
+O cronograma da realização dessas atividades está detalhadamente descrito no nosso [Cronograma de atividades](../../../planejamento/cronograma.md)
+
+## Papéis dos avaliadores 
+
+Durante as entrevistas, estarão dois membros do projeto como avaliadores. Um ficará responsável por conduzir a entrevista e o outro por fazer os registros das respostas dos usuários para que posteriormente sejam feitas as análises das entrevistas.
 
 ## Termo de consentimento
 
@@ -22,21 +38,24 @@ Dentro do termo, buscamos informar tanto sobre a pesquisa quanto a gravação da
 
 Para realizar a entrevista utilizaremos como ferramenta o Microsoft Teams, que permite tanto a comunicação quanto a gravação do encontro. Além disso, solicitaremos que o candidato esteja com lápis e papel caso deseje fazer algum esboço de seu raciocínio.
 
-## Perfis dos entrevistados
+## Teste Piloto
 
-Dentro da atividade de Perfil do Usuário e das Personas, conseguimos identificar características necessárias para realizar uma entrevista com um usuário. Sendo assim buscaremos dois perfis maiores de 18 anos, que residam no Distrito Federal e que faça utilização do site da Agência Virtual NeoEnergia.
+Antes da entrevista com os participantes selecionados ser realizada, será feito um teste piloto a fim de verificar o planejamento, analisar se a avaliação produz os dados necessários e verificar se todas as ferramentas necessárias para a avaliação estão funcionando como planejado. O teste piloto consistirá em dois avaliadores executando a avaliação como se fosse uma sessão normal da entrevista e a gravação deste teste e os seus resultados serão documentados no relato dos resultados e qualquer mudança necessária no planejamento será feita antes que as entrevistas ocorram.
 
 ## Roteiro de perguntas
 
 | Número | Pergunta | Possível Resposta |
 |:--:|:--:|:---|
-| 1 | Observando os dois storyboards dessa tarefa como usuário, você identifica que a sequência das atividades seja coerente? | <ul> <li> SIM</li> <li>  NÃO </li> <li> INCONCLUSIVO</li> </ul> |
-| 1.1 | Se a resposta à pergunta 1 foi NÃO ou INCONCLUSIVO, pode explicar o motivo da resposta? | Pergunta discursiva |
-| 2 | Você realmente acha que a Agência Virtual NeoEnergia facilita o usuário a realizar a tarefa indicada? | <ul> <li> SIM</li> <li>  NÃO </li> <li> INCONCLUSIVO</li> </ul> |
-| 2.1 | Explique o porque da sua resposta| Pergunta discursiva |
-| 3 | Qual dos storyboards você acha que mais faz sentido com a tarefa a qual eles estão indicados? | Pergunta discursiva |
-| 4 | O que você pensa sobre a solução da tarefa do sistema da NeoEnergia no Storyboard? Ela está atendendo ou faltam elementos? | Pergunta discursiva |
-| 5 | Você imagina alguma outra forma de solução que poderia ser representado pelos Storyboards? | Pergunta discursiva |
+| 1 | Observando o storyboard da tarefa "Recuperação de senha", você identifica que a sequência das atividades seja coerente? | <ul> <li> SIM</li> <li>  NÃO </li> <li> INCONCLUSIVO</li> </ul> |
+| 1.1 | Se a resposta à pergunta 1 foi NÃO ou INCONCLUSIVO, pode explicar o motivo da resposta? E você possui alguma sugestão de melhoria? | Pergunta discursiva |
+| 2 | Observando o storyboard da tarefa "Relatório Nada Consta anual", você identifica que a sequência das atividades seja coerente? | <ul> <li> SIM</li> <li>  NÃO </li> <li> INCONCLUSIVO</li> </ul> |
+| 2.1 | Se a resposta à pergunta 2 foi NÃO ou INCONCLUSIVO, pode explicar o motivo da resposta? E você possui alguma sugestão de melhoria? | Pergunta discursiva |
+| 3 | Observando o storyboard da tarefa "Recuperação de email", você identifica que a sequência das atividades seja coerente? | <ul> <li> SIM</li> <li>  NÃO </li> <li> INCONCLUSIVO</li> </ul> |
+| 3.1 | Se a resposta à pergunta 3 foi NÃO ou INCONCLUSIVO, pode explicar o motivo da resposta? E você possui alguma sugestão de melhoria? | Pergunta discursiva |
+| 4 | Observando o storyboard da tarefa "Relatório Nada Consta", você identifica que a sequência das atividades seja coerente? | <ul> <li> SIM</li> <li>  NÃO </li> <li> INCONCLUSIVO</li> </ul> |
+| 4.1 | Se a resposta à pergunta 4 foi NÃO ou INCONCLUSIVO, pode explicar o motivo da resposta? E você possui alguma sugestão de melhoria? | Pergunta discursiva |
+| 5 | Observando o storyboard da tarefa "Relatório Nada Consta Com Erro", você identifica que a sequência das atividades seja coerente? | <ul> <li> SIM</li> <li>  NÃO </li> <li> INCONCLUSIVO</li> </ul> |
+| 5.1 | Se a resposta à pergunta 4 foi NÃO ou INCONCLUSIVO, pode explicar o motivo da resposta? E você possui alguma sugestão de melhoria? | Pergunta discursiva |
 
 ## Storyboards desenvolvidos
 
@@ -47,24 +66,25 @@ Na Figura 1, é colocado a recuperação de senha no contexto em que o usuário 
 <div style="text-align: center">
 <p>Figura 1- Storyboard de recuperação de senha (Luíza Esteves)</p>
 </div>
-<br>
+<br/>
 
 Na Figura 2, é contada uma história de uma pessoa emitindo um relatório nada consta para o aluguel de uma casa.
 ![Logotipos](../../../assets/storyboards/stNatan.jpg)
 <div style="text-align: center">
 <p>Figura 2- Storyboard de relatório nada consta (Natan Santana)</p>
 </div>
+<br/>
 
 Na Figura 3, é colocado a recuperação de email para que o usuário consiga ter acesso a atividades do sistema
 ![Logotipos](../../../assets/storyboards/stRafael.jpeg)
 <div style="text-align: center">
 <p>Figura 3- Storyboard de recuperação de email (Rafael Xavier)</p>
 </div>
-
+<br/>
 Na Figura 4, é colocado o relatório nada consta para verificar se as contas realmente estão pagas
 ![Logotipos](../../../assets/storyboards/stClara.jpg)
 <div style="text-align: center">
-<p>Figura 3- Storyboard de relatório nada consta (Clara Ribeiro)</p>
+<p>Figura 4- Storyboard de relatório nada consta (Clara Ribeiro)</p>
 </div>
 
 
@@ -77,3 +97,6 @@ Com todos esse planejamento, esperamos conseguir identificar todos os pontos a s
 | Data | Versão | Descrição | Autor | Revisor |
 | ---- | ------ | --------- | ----- | ------- |
 | 04/08/2022 | `0.1`  | Criação da página de planejamento de storyboard | [Luíza Esteves](https://github.com/luiza-esteves) | [Natan Santana](https://github.com/Neitan2001)
+| 10/08/2022 | `0.2`  | Ajuste nas perguntas e adição do tópico de teste piloto | [Natan Santana](https://github.com/Neitan2001) |  [Clara Ribeiro](https://github.com/clara-ribeiro)
+| 11/08/2022 | `0.3`  | Ajuste nas perguntas de acordo com o que foi observado no teste piloto | [Natan Santana](https://github.com/Neitan2001) | [Clara Ribeiro](https://github.com/clara-ribeiro)
+| 16/08/2022 | `0.4`  | Ajuste nos tópicos e correção da legenda de figura | [Luíza Esteves](https://github.com/luiza-esteves)|  [Clara Ribeiro](https://github.com/clara-ribeiro)
