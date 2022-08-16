@@ -112,4 +112,4 @@ As entrevistas conseguiram levantar pontos importantes que não haviam sido pens
 
 | Data | Versão | Descrição | Autor | Revisor |
 | ---- | ------ | --------- | ----- | ------- |
-| 16/08/2022 | `0.1`  | Criação do documento de relato da entrevista dos Storyboards | [Clara Ribeiro](https://github.com/clara-ribeiro) | 
+| 16/08/2022 | `0.1`  | Criação do documento de relato da entrevista dos Storyboards | [Clara Ribeiro](https://github.com/clara-ribeiro) | [Natan Santana](https://github.com/Neitan2001) |
