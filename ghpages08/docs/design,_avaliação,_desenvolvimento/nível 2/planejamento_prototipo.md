@@ -12,17 +12,17 @@ Dentro dessa avaliação dos protótipos, nós buscamos identificar o que os usu
 
 ## Metodologias de avaliação dos Protótipos de Papel 
 
-Dentro do nosso escopo de formas de avaliações, chegamos a um entendimento de que a forma mais adequada para o nosso projeto de se avaliar os protótips de papel são com entrevistas com os usuários junto com a prototipação de papel, fazendo uma simulação com os mesmos para identificar pontos positivos e negativos do design de IHC e realizando perguntas para direcionar a simulação.
+Dentro do nosso escopo de formas de avaliações, chegamos a um entendimento de que a forma mais adequada para o nosso projeto de se avaliar os protótipos de papel são com entrevistas com os usuários junto com a prototipação de papel, fazendo uma simulação com os mesmos para identificar pontos positivos e negativos do design de IHC e realizando perguntas para direcionar a simulação.
 
-Assim, começamos o processo de estruturação montando um termo de consentimento específico para a entrevista, fizemos a análise de ferramentas necessárias, definimos um roteiro de perguntas a serem utilizadas para a avaliação, podendo serem acrescidas mais caso seja de valia para a avaliação e fizemos a escolha de perfis para a entrevista.
+Assim, começamos o processo de estruturação montando um termo de consentimento específico para a entrevista, fizemos a análise de ferramentas necessárias, definimos um roteiro de perguntas a serem utilizadas para a avaliação, podendo ser acrescidas caso seja de valia para a avaliação, e fizemos a escolha de perfis para a entrevista.
 
 ## Ferramentas utilizadas na avaliação
 
-Para realizar a entrevista utilizaremos como ferramenta o Microsoft Teams, que permite tanto a comunicação quanto a gravação do encontro. Iremos utilizar os protótipos que serão elaborados pela equipe de algumas funcionalidades do sistema, como recuperação de senha e geração do relatório nada consta. Além disso, forneceremos ao participante ferramentas online, caso ele queira esboçar alguma ideia em relação ao sistema.
+Para realizar a entrevista utilizaremos como ferramenta o Microsoft Teams, que permite tanto a comunicação quanto a gravação do encontro. Iremos utilizar os protótipos, que serão elaborados pela equipe, de algumas funcionalidades do sistema, como recuperação de senha e geração do relatório Nada consta. Além disso, forneceremos ao participante ferramentas online, caso ele queira esboçar alguma ideia em relação ao sistema.
 
 ## Perfis dos entrevistados e formas de seleção
 
-Dentro da atividade de Perfil do Usuário e das Personas, conseguimos identificar características necessárias para realizar uma entrevista com um usuário. Sendo assim buscaremos dois perfis maiores de 18 anos, que residam no Distrito Federal e que faça utilização do site da Agência Virtual NeoEnergia.
+Dentro da atividade de Perfil do Usuário e das Personas, conseguimos identificar características necessárias para realizar uma entrevista com um usuário. Sendo assim, buscaremos dois perfis maiores de 18 anos, que residam no Distrito Federal e que façam utilização do site da Agência Virtual NeoEnergia.
 
 Para encontrar esses perfis, divulgamos a necessidade da nossa entrevista em grupos de redes sociais com pessoas que estão dentro dos critérios de utilização do sistema e convidamos pessoas já conhecidas pelos membros do grupo que se encaixam.
 
@@ -40,7 +40,7 @@ Dentro do termo, buscamos informar tanto sobre a pesquisa quanto a gravação da
 
 ## Roteiro de perguntas
 
-As perguntas indicadas a seguir devem ser utilizadas para coletar o perfil do usuário e 
+As perguntas indicadas a seguir devem ser utilizadas para coletar o perfil do usuário.
 
 | Número | Pergunta | Possível Resposta |
 |:--:|:--:|:---|
@@ -48,13 +48,13 @@ As perguntas indicadas a seguir devem ser utilizadas para coletar o perfil do us
 | 2 | Você é o responsável pelo pagamento da conta de energia em sua residência?| <ul> <li> SIM</li> <li>  NÃO </li></ul> |
 | 3 | Quais atividades você costuma realizar dentro do sistema?| Pergunta discursiva |
 | 4 | Após a simulação e observando os protótipos dessa tarefa como usuário, você identifica que a sequência das atividades seja coerente? | <ul> <li> SIM</li> <li>  NÃO </li> <li> INCONCLUSIVO</li> </ul> |
-| 4.1 | Se a resposta à pergunta 1 foi NÃO ou INCONCLUSIVO, pode explicar o motivo da resposta? | Pergunta discursiva |
-| 4.1 | Explique o porque da sua resposta| Pergunta discursiva |
+| 4.1 | Se a resposta à pergunta 4 foi NÃO ou INCONCLUSIVO, pode explicar o motivo da resposta? | Pergunta discursiva |
+| 4.2 | Explique o porquê da sua resposta| Pergunta discursiva |
 | 5 | Você imagina alguma outra forma de solução que poderia ser representado pelo protótipo? | Pergunta discursiva |
 
 ## Teste piloto
 
-Após a fase de desenvolvimento dos protótipos de papel, será feito o teste piloto pela equipe, simulando a entrevista antes de ser aplicada a entrevista para garantir que as perguntas elaboradas fazem sentindo com o propósito da entrevista.
+Após a fase de desenvolvimento dos protótipos de papel, será feito o teste piloto pela equipe, simulando a entrevista antes de ser aplicada a entrevista para garantir que as perguntas elaboradas façam sentindo com o propósito da entrevista.
 
 ## Conclusão
 
