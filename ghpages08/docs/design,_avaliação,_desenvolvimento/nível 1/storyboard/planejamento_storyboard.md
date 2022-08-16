@@ -6,11 +6,27 @@ O Storyboard é uma forma de prototipação de baixa fidelidade, em que são uti
 
 Suas principais vatangens ao ser executado são: baixo custo para ser desenvolvido, identifica requisitos, fácil comunicação e avalia vários conceitos do design. Nesse documento, será feita a descrição de como será feita a análise e avaliação dos storyboards desenvolvidos pela equipe.
 
+## Objetivos da avaliação
+
+Estaremos realizando essa avaliação do storyboard com o objetivo de fazer uma exploração de ideias e projetar soluções juntamente com o usuário. Com isso, esperamos ao final ter insumos suficientes para elaborar uma melhoria das funcionalidades dentro do sistema.
+
 ## Metodologias de avaliação dos Storyboards
 
 Dentro do nosso escopo de formas de avaliações, chegamos a um entendimento de que a forma mais adequada para o nosso projeto de se avaliar o storyboard são com entrevistas com os usuários, fazendo uma investigação técnica.
 
 Assim, começamos o processo de estruturação montando um termo de consentimento específico para a entrevista, fizemos a análise de ferramentas necessárias, definimos um roteiro de perguntas a serem utilizadas para a avaliação, podendo serem acrescidas mais caso seja de valia para a avaliação e fizemos a escolha de perfis para a entrevista.
+
+## Recrutamento dos participantes e cronograma das entrevistas
+
+Dentro da atividade de Perfil do Usuário e das Personas, conseguimos identificar características necessárias para realizar uma entrevista com um usuário. Sendo assim buscaremos dois perfis maiores de 18 anos, que residam no Distrito Federal e que faça utilização do site da Agência Virtual NeoEnergia.
+
+Para fazer o recrutamento, utilizamos grupos para divulgar que tenham pessoas de acordo com os perfis indicados acima. Além disso, fizemos convite a pessoas conhecidas que utilizam o sistema da Agência Virtual NeoEnergia.
+
+O cronograma da realização dessas atividades está detalhadamente descrito no nosso [Cronograma de atividades](../../../planejamento/cronograma.md)
+
+## Papéis dos avaliadores 
+
+Durante as entrevistas, estarão dois membros do projeto como avaliadores. Um ficará responsável por conduzir a entrevista e o outro por fazer os registros das respostas dos usuários para que posteriormente sejam feitas as análises das entrevistas.
 
 ## Termo de consentimento
 
@@ -25,10 +41,6 @@ Para realizar a entrevista utilizaremos como ferramenta o Microsoft Teams, que p
 ## Teste Piloto
 
 Antes da entrevista com os participantes selecionados ser realizada, será feito um teste piloto a fim de verificar o planejamento, analisar se a avaliação produz os dados necessários e verificar se todas as ferramentas necessárias para a avaliação estão funcionando como planejado. O teste piloto consistirá de dois avaliadores executando a avaliação como se fosse uma sessão normal da entrevista e a gravação deste teste e os seus resultados serão documentados no relato dos resultados e qualquer mudança necessária no planejamento será feita antes que as entrevistas ocorram.
-
-## Perfis dos entrevistados
-
-Dentro da atividade de Perfil do Usuário e das Personas, conseguimos identificar características necessárias para realizar uma entrevista com um usuário. Sendo assim buscaremos dois perfis maiores de 18 anos, que residam no Distrito Federal e que faça utilização do site da Agência Virtual NeoEnergia.
 
 ## Roteiro de perguntas
 
@@ -69,7 +81,7 @@ Na Figura 3, é colocado a recuperação de email para que o usuário consiga te
 Na Figura 4, é colocado o relatório nada consta para verificar se as contas realmente estão pagas
 ![Logotipos](../../../assets/storyboards/stClara.jpg)
 <div style="text-align: center">
-<p>Figura 3- Storyboard de relatório nada consta (Clara Ribeiro)</p>
+<p>Figura 4- Storyboard de relatório nada consta (Clara Ribeiro)</p>
 </div>
 
 
@@ -82,5 +94,6 @@ Com todos esse planejamento, esperamos conseguir identificar todos os pontos a s
 | Data | Versão | Descrição | Autor | Revisor |
 | ---- | ------ | --------- | ----- | ------- |
 | 04/08/2022 | `0.1`  | Criação da página de planejamento de storyboard | [Luíza Esteves](https://github.com/luiza-esteves) | [Natan Santana](https://github.com/Neitan2001)
-| 10/08/2022 | `0.2`  | Ajuste nas perguntas e adição do tópico de teste piloto | [Natan Santana](https://github.com/Neitan2001) |
-| 11/08/2022 | `0.3`  | Ajuste nas perguntas de acordo com o que foi observado no teste piloto | [Natan Santana](https://github.com/Neitan2001) |
+| 10/08/2022 | `0.2`  | Ajuste nas perguntas e adição do tópico de teste piloto | [Natan Santana](https://github.com/Neitan2001) |  [Clara Ribeiro](https://github.com/clara-ribeiro)
+| 11/08/2022 | `0.3`  | Ajuste nas perguntas de acordo com o que foi observado no teste piloto | [Natan Santana](https://github.com/Neitan2001) | [Clara Ribeiro](https://github.com/clara-ribeiro)
+| 16/08/2022 | `0.4`  | Ajuste nos tópicos e correção da legenda de figura | [Luíza Esteves](https://github.com/luiza-esteves)|  [Clara Ribeiro](https://github.com/clara-ribeiro)
