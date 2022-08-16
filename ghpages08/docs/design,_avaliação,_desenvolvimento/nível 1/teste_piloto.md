@@ -73,4 +73,4 @@ O roteiro de perguntas disponível no documento de planejamento foi atualizado c
 
 | Data | Versão | Descrição | Autor | Revisor |
 | ---- | ------ | --------- | ----- | ------- |
-| 11/08/2022 | `0.1`  | Criação do documento e resultados do teste piloto | [Natan Santana](https://github.com/Neitan2001) | [Rafael Xavier](https://github.com/rafaelxavierr)  | 
+| 11/08/2022 | `0.1`  | Criação do documento e resultados do teste piloto | [Natan Santana](https://github.com/Neitan2001) | [Rafael Xavier](https://github.com/rafaelxavierr) | 
