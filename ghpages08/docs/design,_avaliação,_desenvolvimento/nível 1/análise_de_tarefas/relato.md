@@ -9,7 +9,7 @@ O seguinte documento apresentará o relato das entrevistas realizadas por Natan 
 ## Objetivo
 
 <div style="text-align: justify">
-Durante a etapa de Análise de Requisitos, foi feito a análise de duas tarefas do site Agência Virtual NeoEnergia a fim de identificar problemas de usabilidade e possíveis correções. Essa análise foi realizada pelo método de inspeção utilizando a Análise Hierárquica de Tarefas (HTA) e, afim de validar o que foi levantada pelos avaliadores, o grupo decidiu realizar entrevistas com pessoas que se encaixam no perfil de usuários levantado. Os dados coletados durante essas entrevistas servirão para complementar o que foi feito pelos avaliadores, garantindo que a visão do usuário seja levada em conta antes do grupo prosseguir para as próximas etapadas do projeto.
+Durante a etapa de Análise de Requisitos, foi feita a análise de duas tarefas do site Agência Virtual NeoEnergia a fim de identificar problemas de usabilidade e possíveis correções. Essa análise foi realizada pelo método de inspeção utilizando a Análise Hierárquica de Tarefas (HTA) e, a fim de validar o que foi levantado pelos avaliadores, o grupo decidiu realizar entrevistas com pessoas que se encaixam no perfil de usuários levantado. Os dados coletados durante essas entrevistas servirão para complementar o que foi feito pelos avaliadores, garantindo que a visão do usuário seja levada em conta antes do grupo prosseguir para as próximas etapadas do projeto.
 </div>
 
 ## Método
@@ -98,4 +98,4 @@ As entrevistas para validação da Análise de Tarefas conseguiram levantar algu
 
 | Data | Versão | Descrição | Autor | Revisor |
 | ---- | ------ | --------- | ----- | ------- |
-| 14/08/2022 | `0.1`  | Criação do documento de relato da avaliação da análise de tarefas | [Natan Santana](https://github.com/Neitan2001) |  | 
+| 14/08/2022 | `0.1`  | Criação do documento de relato da avaliação da análise de tarefas | [Natan Santana](https://github.com/Neitan2001) | [Clara Ribeiro](https://github.com/clara-ribeiro)
