@@ -9,7 +9,7 @@ O seguinte documento apresentará o relato das entrevistas realizadas por Natan 
 ## Objetivo
 
 <div style="text-align: justify">
-Durante a etapa de Análise de Requisitos, foi feita a análise de duas tarefas do site Agência Virtual NeoEnergia a fim de identificar problemas de usabilidade e possíveis correções. Essa análise foi realizada pelo método de inspeção utilizando a Análise Hierárquica de Tarefas (HTA) e, a fim de validar o que foi levantado pelos avaliadores, o grupo decidiu realizar entrevistas com pessoas que se encaixam no perfil de usuários levantado. Os dados coletados durante essas entrevistas servirão para complementar o que foi feito pelos avaliadores, garantindo que a visão do usuário seja levada em conta antes do grupo prosseguir para as próximas etapadas do projeto.
+Durante a etapa de Análise de Requisitos, foi feita a análise de duas tarefas do site Agência Virtual NeoEnergia a fim de identificar problemas de usabilidade e possíveis correções. Essa análise foi realizada pelo método de inspeção utilizando a Análise Hierárquica de Tarefas (HTA) e, a fim de validar o que foi levantado pelos avaliadores, o grupo decidiu realizar entrevistas com pessoas que se encaixam no perfil de usuários levantado. Os dados coletados durante essas entrevistas servirão para complementar o que foi feito pelos avaliadores, garantindo que a visão do usuário seja levada em conta antes do grupo prosseguir para as próximas etapas do projeto.
 </div>
 
 ## Método
@@ -21,7 +21,7 @@ O método utilizado pelo grupo a fim de validar a análise de tarefas foi a entr
 ## Avaliadores e Participantes
 
 <div style="text-align: justify">
-As entrevistas foram conduzidas pelos avaliadores Natan Tavares Santan e Clara Ribeiro. Para cada participante, foi realizado uma única entrevista dividida em duas partes: a de Análise de Tarefas e a do Storyboard. Durante a parte de Análise de Tarefas, o entrevistado Natan ficou responsável por fazer as perguntas e a Clara por fazer as anotações.
+As entrevistas foram conduzidas pelos avaliadores Natan Tavares Santana e Clara Ribeiro. Para cada participante, foi realizado uma única entrevista dividida em duas partes: a de Análise de Tarefas e a do Storyboard. Durante a parte de Análise de Tarefas, o entrevistado Natan ficou responsável por fazer as perguntas e a Clara por fazer as anotações.
 </div>
 <div style="text-align: justify">
 Com a finalidade de preservar o anonimato dos participantes, os nomes reais não serão utilizados e será usado nomes fictícios durante o relato dos dados coletados. O primeiro entrevistado, o qual será chamado de Jorge, possui 43 anos, trabalha como Desenvolvedor de Software e é responsável por pagar a conta de energia da casa dele. Já o segundo entrevistado, o qual será chamado de Felipe, possui 22 anos, trabalha como Desenvolvedor de Aplicativos e é responsável por pagar a conta de energia da casa dele. Os dois entrevistados se encaixam dentro do perfil de usuário levantado durante a fase de Análise de Requisitos, Jorge estando na faixa de 41-50 anos e Felipe na faixa de 21-30 anos. Além disso, ambos são responsáveis pela conta de energia, possuindo as mesmas necessidades dos usuários que acessam a Agência Virtual da NeoEnergia.
