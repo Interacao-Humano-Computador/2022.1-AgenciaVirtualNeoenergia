@@ -18,9 +18,9 @@ Assim, começamos o processo de estruturação montando um termo de consentiment
 
 ## Recrutamento dos participantes e cronograma das entrevistas
 
-Dentro da atividade de Perfil do Usuário e das Personas, conseguimos identificar características necessárias para realizar uma entrevista com um usuário. Sendo assim buscaremos dois perfis maiores de 18 anos, que residam no Distrito Federal e que faça utilização do site da Agência Virtual NeoEnergia.
+Dentro da atividade de Perfil do Usuário e das Personas, conseguimos identificar características necessárias para realizar uma entrevista com um usuário. Sendo assim buscaremos dois perfis maiores de 18 anos, de diferentes faixas etárias e que sejam responsáveis pelo pagamento da conta de luz de sua residência.
 
-Para fazer o recrutamento, utilizamos grupos para divulgar que tenham pessoas de acordo com os perfis indicados acima. Além disso, fizemos convite a pessoas conhecidas que utilizam o sistema da Agência Virtual NeoEnergia.
+Para fazer o recrutamento, utilizamos grupos para divulgar que tenham pessoas de acordo com os perfis indicados acima. Além disso, fizemos convite a pessoas conhecidas que encaixam com o perfil buscado.
 
 O cronograma da realização dessas atividades está detalhadamente descrito no nosso [Cronograma de atividades](../../../planejamento/cronograma.md)
 
@@ -40,7 +40,7 @@ Para realizar a entrevista utilizaremos como ferramenta o Microsoft Teams, que p
 
 ## Teste Piloto
 
-Antes da entrevista com os participantes selecionados ser realizada, será feito um teste piloto a fim de verificar o planejamento, analisar se a avaliação produz os dados necessários e verificar se todas as ferramentas necessárias para a avaliação estão funcionando como planejado. O teste piloto consistirá de dois avaliadores executando a avaliação como se fosse uma sessão normal da entrevista e a gravação deste teste e os seus resultados serão documentados no relato dos resultados e qualquer mudança necessária no planejamento será feita antes que as entrevistas ocorram.
+Antes da entrevista com os participantes selecionados ser realizada, será feito um teste piloto a fim de verificar o planejamento, analisar se a avaliação produz os dados necessários e verificar se todas as ferramentas necessárias para a avaliação estão funcionando como planejado. O teste piloto consistirá em dois avaliadores executando a avaliação como se fosse uma sessão normal da entrevista e a gravação deste teste e os seus resultados serão documentados no relato dos resultados e qualquer mudança necessária no planejamento será feita antes que as entrevistas ocorram.
 
 ## Roteiro de perguntas
 
@@ -52,8 +52,10 @@ Antes da entrevista com os participantes selecionados ser realizada, será feito
 | 2.1 | Se a resposta à pergunta 2 foi NÃO ou INCONCLUSIVO, pode explicar o motivo da resposta? E você possui alguma sugestão de melhoria? | Pergunta discursiva |
 | 3 | Observando o storyboard da tarefa "Recuperação de email", você identifica que a sequência das atividades seja coerente? | <ul> <li> SIM</li> <li>  NÃO </li> <li> INCONCLUSIVO</li> </ul> |
 | 3.1 | Se a resposta à pergunta 3 foi NÃO ou INCONCLUSIVO, pode explicar o motivo da resposta? E você possui alguma sugestão de melhoria? | Pergunta discursiva |
-| 4 | Observando o storyboard da tarefa "Relatório Nada Consta mensal", você identifica que a sequência das atividades seja coerente? | <ul> <li> SIM</li> <li>  NÃO </li> <li> INCONCLUSIVO</li> </ul> |
+| 4 | Observando o storyboard da tarefa "Relatório Nada Consta", você identifica que a sequência das atividades seja coerente? | <ul> <li> SIM</li> <li>  NÃO </li> <li> INCONCLUSIVO</li> </ul> |
 | 4.1 | Se a resposta à pergunta 4 foi NÃO ou INCONCLUSIVO, pode explicar o motivo da resposta? E você possui alguma sugestão de melhoria? | Pergunta discursiva |
+| 5 | Observando o storyboard da tarefa "Relatório Nada Consta Com Erro", você identifica que a sequência das atividades seja coerente? | <ul> <li> SIM</li> <li>  NÃO </li> <li> INCONCLUSIVO</li> </ul> |
+| 5.1 | Se a resposta à pergunta 4 foi NÃO ou INCONCLUSIVO, pode explicar o motivo da resposta? E você possui alguma sugestão de melhoria? | Pergunta discursiva |
 
 ## Storyboards desenvolvidos
 
@@ -64,20 +66,21 @@ Na Figura 1, é colocado a recuperação de senha no contexto em que o usuário 
 <div style="text-align: center">
 <p>Figura 1- Storyboard de recuperação de senha (Luíza Esteves)</p>
 </div>
-<br>
+<br/>
 
 Na Figura 2, é contada uma história de uma pessoa emitindo um relatório nada consta para o aluguel de uma casa.
 ![Logotipos](../../../assets/storyboards/stNatan.jpg)
 <div style="text-align: center">
 <p>Figura 2- Storyboard de relatório nada consta (Natan Santana)</p>
 </div>
+<br/>
 
 Na Figura 3, é colocado a recuperação de email para que o usuário consiga ter acesso a atividades do sistema
 ![Logotipos](../../../assets/storyboards/stRafael.jpeg)
 <div style="text-align: center">
 <p>Figura 3- Storyboard de recuperação de email (Rafael Xavier)</p>
 </div>
-
+<br/>
 Na Figura 4, é colocado o relatório nada consta para verificar se as contas realmente estão pagas
 ![Logotipos](../../../assets/storyboards/stClara.jpg)
 <div style="text-align: center">
