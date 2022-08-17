@@ -112,6 +112,9 @@ Data limite para entrega | Atividade/entrega | Autor(es) | Revisor | Data limite
 
 Data limite para entrega | Atividade/entrega | Autor(es) | Revisor | Data limite para revisão
 --------- | ----------------- | -------------- | ---------- | ---------
+26/08/2022 | Construção do protótipo de papel |  |  | 27/08/2022
+29/08/2022 | Teste Piloto da Validação do Protótipo de papel |  |  | 30/08/2022
+31/08/2022 | Entrevistas de Validação do Protótipo de papel |  |  | 01/08/2022
 02/09/2022 | Relato dos resultados do Protótipo de Papel |  |  | 03/09/2022
 02/09/2022 | Planejamento da Avaliação do protótipo de alta fidelidade |  |  | 03/09/2022
 02/09/2022 | Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade |  |  | 03/09/2022
