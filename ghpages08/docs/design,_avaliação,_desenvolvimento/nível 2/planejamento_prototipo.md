@@ -36,7 +36,7 @@ As datas da realização de cada etapa podem ser encontradas dentro do nosso [Cr
 
 Dentro do termo, buscamos informar tanto sobre a pesquisa quanto a gravação das entrevistas, deixando claro que tudo ocorrerá garantindo o sigilo das informações e somente com a devida autorização.
 <br/><br/>
-<embed src="../../../../assets/termoConsentimento.pdf" type="application/pdf" width="700" height="500">
+<embed src="../../../assets/termoConsentimento.pdf" type="application/pdf" width="700" height="500">
 
 ## Roteiro de perguntas
 
