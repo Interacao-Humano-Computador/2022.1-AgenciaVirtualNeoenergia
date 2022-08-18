@@ -23,7 +23,7 @@ Dentro do sistema, fizemos a análise do uso dos princípios das seguintes ativi
 
 **Correspondência com as expectativas dos usuários**
 
-Esse princípio deixa a desejar em todas as atividades citadas acima. Ao solicitar a geração do relatório nada consta, não é notificado ao usuário sobre o andamento da atividade nem se foi concluída, trazendo dificuldades para o usuário compreender se conseguiu efetuar a ação. Já na recuperação de senha e email, o sistema solicita que seja informado dados pessoais, e, quando a pessoa clica no botão de prosseguir, não é informado se os dados inseridos constam na base ou como prosseguir a seguir. Dentro disso, é importante inserir mais mensagem que informem melhor o usuário sobre qual a situação do sistema de acordo com as atividades.
+Esse princípio deixa a desejar em todas as atividades citadas acima. Ao solicitar a geração do relatório nada consta, se acontece um erro a mensagem que aparece ao usuário é muito genérica e difícil de entender, impossibilitando que o usuário se recupere do erro. Já na recuperação de senha e email, o sistema solicita que seja informado dados pessoais, e, quando a pessoa clica no botão de prosseguir, não é informado se os dados inseridos constam na base ou como prosseguir. Logo, é importante inserir mais mensagem que informem melhor o usuário sobre qual a situação do sistema de acordo com as atividades.
 
 **Visibilidade e reconhecimento**
 
