@@ -101,8 +101,18 @@ Data limite para entrega  | Atividade/entrega | Autor(es) | Revisor | Data limit
 
 Data limite para entrega | Atividade/entrega | Autor(es) | Revisor | Data limite para revisão
 --------- | ----------------- | -------------- | ---------- | ----------
-21/08/2022 | Verificação dos artefatos | 
-
+21/08/2022 | Planejamento da Verificação da Etapa 1 | [Matheus Perillo](https://github.com/MatheusPerillo) | [Rafael Xavier](https://github.com/rafaelxavierr) |  21/08/2022
+21/08/2022 | Planejamento da Verificação da Etapa 2 | [Daniel Coimbra](https://github.com/DanielCoimbra) e [Rafael Xavier](https://github.com/rafaelxavierr) | [Clara Ribeiro](https://github.com/clara-ribeiro) |  21/08/2022
+21/08/2022 | Planejamento da Verificação da Etapa 3 | [Natan Santana](https://github.com/Neitan2001) | [Luíza Esteves](https://github.com/luiza-esteves) |  21/08/2022
+21/08/2022 | Planejamento da Verificação da Etapa 4 | [Clara Ribeiro](https://github.com/clara-ribeiro) | [Matheus Perillo](https://github.com/MatheusPerillo) |  21/08/2022
+21/08/2022 | Planejamento da Verificação da Etapa 5 | [Luíza Esteves](https://github.com/luiza-esteves) | [Rafael Xavier](https://github.com/rafaelxavierr) |  21/08/2022
+21/08/2022 | Relato da Verificação da Etapa 1 e ajustes nos artefatos | [Matheus Perillo](https://github.com/MatheusPerillo) | [Rafael Xavier](https://github.com/rafaelxavierr) |  21/08/2022
+21/08/2022 | Relato da Verificação da Etapa 2 e ajustes nos artefatos | [Daniel Coimbra](https://github.com/DanielCoimbra) e [Rafael Xavier](https://github.com/rafaelxavierr) | [Clara Ribeiro](https://github.com/clara-ribeiro) |  21/08/2022
+21/08/2022 | Relato da Verificação da Etapa 3 e ajustes nos artefatos | [Natan Santana](https://github.com/Neitan2001) | [Luíza Esteves](https://github.com/luiza-esteves) |  21/08/2022
+21/08/2022 | Relato da Verificação da Etapa 4 e ajustes nos artefatos | [Clara Ribeiro](https://github.com/clara-ribeiro) | [Matheus Perillo](https://github.com/MatheusPerillo) |  21/08/2022
+21/08/2022 | Relato da Verificação da Etapa 5 e ajustes nos artefatos | [Luíza Esteves](https://github.com/luiza-esteves) | [Rafael Xavier](https://github.com/rafaelxavierr) |  21/08/2022
+21/08/2022 | Slides e gravação do vídeo de apresentação | Todos | [Clara Ribeiro](https://github.com/clara-ribeiro) | 22/08/2022
+22/08/2022 | Edição do  vídeo de apresentação | [Clara Ribeiro](https://github.com/clara-ribeiro) | [Natan Santana](https://github.com/Neitan2001) | 22/08/2022
 
 <div style="text-align: center">
 <p>Tabela 6: Verificação dos artefatos</p>
