@@ -1,0 +1,1 @@
+# Relato da Verificação da Etapa 1
