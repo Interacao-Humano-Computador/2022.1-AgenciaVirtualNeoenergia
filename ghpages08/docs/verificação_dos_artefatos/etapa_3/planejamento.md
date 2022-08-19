@@ -37,4 +37,4 @@ A tabela 1 especifica todos os pontos que serão avaliados durante a execução 
 
 | Data | Versão | Descrição | Autor | Revisor |
 | ---- | ------ | --------- | ----- | ------- |
-| 18/08/2022 | `0.1`  | Criação do planejamento da verificação da etapa 1 | [Natan Santana](https://github.com/Neitan2001) | 
+| 18/08/2022 | `0.1`  | Criação do planejamento da verificação da etapa 1 | [Natan Santana](https://github.com/Neitan2001) | [Luíza Esteves](https://github.com/luiza-esteves)
