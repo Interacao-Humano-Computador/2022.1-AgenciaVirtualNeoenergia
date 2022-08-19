@@ -42,4 +42,4 @@ Depois que foi levantado todos os problemas encontrados, o avaliador Natan tamb�
 
 | Data | Versão | Descrição | Autor | Revisor |
 | ---- | ------ | --------- | ----- | ------- |
-| 18/08/2022 | `0.1`  | Criação de relato da verificação da etapa 3 | [Natan Santana](https://github.com/Neitan2001) | 
+| 18/08/2022 | `0.1`  | Criação de relato da verificação da etapa 3 | [Natan Santana](https://github.com/Neitan2001) | [Luíza Esteves](https://github.com/luiza-esteves)
