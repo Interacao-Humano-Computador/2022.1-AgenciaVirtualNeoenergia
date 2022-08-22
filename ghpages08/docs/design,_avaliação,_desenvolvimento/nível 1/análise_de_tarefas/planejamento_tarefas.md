@@ -30,7 +30,29 @@ Durante as entrevistas, estarão dois membros do projeto como avaliadores, sendo
 
 ## Termo de consentimento
 
-O termo de consentimento está apresentado abaixo e ele será entregue ao usuário antes do início da entrevista.
+A pesquisa foi realizada levando em conta os princípios recomendados pela Resolução No 466/2012 do Conselho Nacional de Saúde, que é responsável pela regulamentação de pesquisas científicas envolvendo pessoas. Esses princípios são:
+
+- princípio da autonomia, que envolve o consentimento livre e esclarecido dos indivíduos;
+
+- princípio da beneficência, que envolve a ponderação entre riscos e benefícios, tanto atuais como potenciais, individuais ou coletivos, comprometendo-se com o máximo de benefícios e o mínimo de danos e riscos.
+
+- princípio da não maleficência, que envolve a garantia de evitar danos previsíveis relacionados à pesquisa, tanto os imediatos quanto os tardios;
+
+- princípio da justiça e equidade, relacionado à relevância social da pesquisa, com vantagens significativas para os participantes da pesquisa e minimização do ônus para os participantes vulneráveis, o que garante a igual consideração dos interesses envolvidos, não perdendo o sentido de sua destinação sócio-humanitária.
+
+Os participantes foram apresentados ao termo de consentimento, em que está especificado que:
+
+- os dados coletados durante a entrevista destinam-se estritamente a atividades de análise e elaboração de melhorias do sistema Agência Virtual NeoEnergia;
+
+- a equipe tem o compromisso de divulgar os resultados das pesquisas para o cliente. A divulgação desses resultados pauta-se no respeito à privacidade, e o anonimato dos participantes será preservado em quaisquer documentos que for elaborado;
+
+- quaisquer informações pessoais e sensíveis que aparecer durante a gravação (CPF, RG, data de nascimento, email) serão censuradas a fim de preservar a privacidade e o anonimato dos participantes;
+
+- o consentimento para a gravação da entrevista é uma escolha livre, feita mediante a prestação de todos os esclarecimentos necessários sobre a pesquisa
+
+- a entrevista pode ser interrompida a qualquer momento.
+
+O Termo de Consentimento está apresentado abaixo:
 <br/><br/>
 <embed src="../../../../assets/termoConsentimento.pdf" type="application/pdf" width="700" height="500">
 
@@ -71,3 +93,4 @@ Os dados coletados durante a entrevista serão registrados e utilizados como ins
 | 10/08/2022 | `0.2`  | Ajuste das perguntas e adição do tópico teste piloto | [Natan Santana](https://github.com/Neitan2001) |
 | 12/08/2022 | `0.3`  | Ajuste das perguntas de acordo com o teste piloto | [Natan Santana](https://github.com/Neitan2001) |
 | 16/08/2022 | `0.4`  | Adição de informações sobre o teste piloto e sobre os entrevistados | [Clara Ribeiro](https://github.com/clara-ribeiro) | 
+| 22/08/2022 | `0.5`  | Adição de informações sobre as questões éticas | [Clara Ribeiro](https://github.com/clara-ribeiro) |  [Matheus Perillo](https://github.com/MatheusPerillo)
