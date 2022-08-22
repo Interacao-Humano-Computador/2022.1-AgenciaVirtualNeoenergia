@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este documento possui o objetivo de relatar os resultados da verificação feita pelos avaliadores Rafael Xavier Canabrava e Daniel Coimbra no dia 21/08/2022 utilizando o método de Inspeção. O checklist desenvolvido no [planejamento da verificação](./planejamento.md) foi utilizado a fim de verificar a conformidade de todos os artefatos da etapa 2 quanto aos requisitos e critérios de aceitação definidos pelo professor André Barros.                                        
+Este documento possui o objetivo de relatar os resultados da verificação feita pelo avaliador Rafael Xavier Canabrava no dia 21/08/2022 utilizando o método de Inspeção. O checklist desenvolvido no [planejamento da verificação](./planejamento.md) foi utilizado a fim de verificar a conformidade de todos os artefatos da etapa 2 quanto aos requisitos e critérios de aceitação definidos pelo professor André Barros.                                        
 
 ## Sumário dos dados
 
@@ -114,4 +114,4 @@ Depois que levantamos todos os problemas, o avaliador Rafael Xavier ficou respon
 
 | Data | Versão | Descrição | Autores | Revisor |
 | ---- | ------ | --------- | ----- | ------- |
-| 21/08/2022 | `0.1`  | Criação de relato da verificação da etapa 2 | [Rafael Xavier](https://github.com/rafaelxavierr) |
+| 21/08/2022 | `0.1`  | Criação de relato da verificação da etapa 2 | [Rafael Xavier](https://github.com/rafaelxavierr) | [Clara Ribeiro](https://github.com/clara-ribeiro)
