@@ -12,6 +12,13 @@ O perfil de usuário é uma forma de entendermos quem são as pessoas que fazem 
 Para entender quem são os usuários, nossa equipe elaborou um questionário através do Google Forms com perguntas que possibilitassem o agrupamento de pessoas com características semelhantes para assim montarmos seus perfis e personas. Vale ressaltar que antes que o questionário iniciasse de fato, era necessário aceitar o seguinte termo de consentimento:
 </div>
 
+## Por que usar o perfil de usuário?
+
+<div style="text-align: justify">
+Visto que um perfil de usuário é caracterizado por dados sobre o próprio usuário, podemos observar a faixa de respostas para cada uma das características e a porcentagem de usuários nessa faixa, categorizando os usuários em grupos, com base em suas semelhanças. 
+</div>
+
+
 ![MkDocs](../assets/perfil/termo_de_consentimento.png)
 ![MkDocs](../assets/perfil/resposta_termo.png)
 

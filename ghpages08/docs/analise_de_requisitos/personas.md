@@ -10,9 +10,6 @@
 ## Metodologia
 
 <p style=" text-align: justify">
-&emsp; Este é um método de elicitação muito utilizado, inclusive existem metodologias de projeto guiadas por personas. É também, uma importante ferramenta de síntese de ideias, de forma que o nome de uma persona já evoca, na mente dos desenvolvedores, todas as necessidades e objetivos ligados àquela persona. Determinamos de início, a persona primária, as secundárias e a anti-persona.
-</p>
-<p style=" text-align: justify">
 &emsp;  Este é um método de elicitação muito utilizado, inclusive existem metodologias de projeto guiadas por personas. É também uma importante ferramenta de síntese de ideias, de forma que o nome de uma persona já evoca, na mente dos desenvolvedores, todas as necessidades e objetivos ligados àquela persona. Determinamos de início, a persona primária, as secundárias e a anti-persona. A partir do Brainstorm realizado em uma reunião com todos os membros do grupo, conseguimos levantar alguns requisitos básicos. A partir desses requisitos, buscamos as personas básicas que mais utilizariam esses requisitos. As personas foram detalhadas, com suas histórias, necessidades e objetivos. É importante criar essa imagem vívida da persona para os designers estabelecerem os requisitos de forma precisa.
 </p>
 
