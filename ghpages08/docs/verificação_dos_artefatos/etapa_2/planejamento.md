@@ -9,7 +9,7 @@ A fim de garantirmos que todos os artefatos de todas as entregas estão de acord
 O método escolhido pelo grupo para realizar a verificação será a Inspeção, método desenvolvido na IBM por Fagan (1976). A Inspeção consiste de uma revisão seguindo uma checklist que deve ser levantada no planejamento a qual terá todos os erros mais comuns e os critérios de aceitação. Esse método foi originalmente criado para revisão de código, mas pode ser usada também para outros escopos e artefatos.
 Através dessa checklist, verificaremos se é necessário realizar a correção ou adição de pontos dentro desse artefato.
 
-## Avaliador e Cronograma
+## Avaliadores e Cronograma
 
 Os avaliadores que ficarão responsáveis pela revisão dos artefatos da etapa 2 serão os membros Rafael Xavier Canabrava e Daniel Coimbra, que será executada no dia 21/08/2022. Assim, após a finalização já será iniciado o [relato dos resultados da verificação](./relato.md).
 
@@ -38,9 +38,9 @@ As tabelas 1, 2, 3, 4, e 5 especificam todos os pontos que serão avaliados dura
 
 | Considera aspectos éticos de pesquisas envolvendo pessoas? |
 | ---- |
-| Os 4 peincípios (da autonomia, da beneficência, princípio da não maleficência e da justiça e equidade) |
+| Os 4 princípios (da autonomia, da beneficência, princípio da não maleficência e da justiça e equidade) |
 | Solicitará a permissão para gravar a voz ou a imagem de qualquer pessoa, antes de começar a gravação? |
-| Possui oi termo de consentimento livre e esclarecido dos participantes? |
+| Possui o termo de consentimento livre e esclarecido dos participantes? |
 
 <div style="text-align: center">
 <p>Tabela 2: Checklist dos aspectos éticos</p>
@@ -82,7 +82,7 @@ As tabelas 1, 2, 3, 4, e 5 especificam todos os pontos que serão avaliados dura
 | ---- |
 | Foi utilizada alguma técnica para especificar as tarefas? |
 | O HTA possui diagrama, legenda e representação em tabela? |
-| O GOMS foi representado pelo KLM, CMN ou CPM? |
+| O GOMS foi representado pelo KLM, CMN e CPM? |
 
 <div style="text-align: center">
 <p>Tabela 5: Checklist de análise de tarefas</p>
@@ -96,4 +96,4 @@ As tabelas 1, 2, 3, 4, e 5 especificam todos os pontos que serão avaliados dura
 
 | Data | Versão | Descrição | Autor | Revisor |
 | ---- | ------ | --------- | ----- | ------- |
-| 21/08/2022 | `0.1`  | Criação do planejamento da verificação da etapa 2 | [Rafael Xavier](https://github.com/rafaelxavierr) | 
+| 21/08/2022 | `0.1`  | Criação do planejamento da verificação da etapa 2 | [Rafael Xavier](https://github.com/rafaelxavierr) | [Clara Ribeiro](https://github.com/clara-ribeiro)
