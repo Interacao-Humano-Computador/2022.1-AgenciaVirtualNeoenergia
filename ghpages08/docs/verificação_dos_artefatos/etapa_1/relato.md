@@ -22,6 +22,23 @@ Este documento possui o objetivo de relatar os resultados da verificação feita
 <div style="text-align: center">
 <p>Tabela 1: Checklist dos pontos avaliados</p>
 </div>
+<br></br>
+
+No Gráfico 1 abaixo, é possível visualizar o percentual de erros e acertos segundo o checklist realizado para essa etapa.
+
+<center>
+
+<img src="https://cdn.discordapp.com/attachments/822603758261370880/1011615381485535312/grafEtapa1.png"> </img>
+
+</center>
+
+<div style="text-align: center">
+<p>Gráfico 1: Ocorrência de erros</p>
+</div>
+<div style="text-align: center">
+<p>Fonte: Matheus Perillo</p>
+</div>
+
 
 ## Problemas encontrados
 
@@ -44,3 +61,4 @@ Depois que foi levantado todos os problemas encontrados, o avaliador Matheus Per
 | Data | Versão | Descrição | Autor | Revisor |
 | ---- | ------ | --------- | ----- | ------- |
 | 22/08/2022 | `0.1`  | Criação de relato da verificação da etapa 1 | [Matheus Perillo](https://github.com/MatheusPerillo) | [Rafael Xavier](https://github.com/rafaelxavierr)
+| 23/08/2022 | `0.2`  | Adição das sugestões feitas pelo professor André Barros | [Matheus Perillo](https://github.com/MatheusPerillo) | [Luíza Esteves](https://github.com/luiza-esteves)

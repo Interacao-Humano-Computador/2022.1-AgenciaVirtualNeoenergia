@@ -11,10 +11,28 @@ Através dessa checklist, verificaremos se é necessário realizar a correção 
 
 ## Avaliador e Cronograma
 
-O avaliador responsável pela revisão dos artefatos da etapa 1 será o membro Matheus Perillo e a revisão será executada no dia 22/08/2022.
+O avaliador responsável pela revisão dos artefatos da etapa 1 será o membro Matheus Perillo e a revisão será executada no dia 22/08/2022. Na Tabela 1 abaixo, é possível visualizar os responsáveis pelos artefatos dessa etapa.
+<br></br>
+
+| Atividade/entrega | Autor(es) | Revisor |
+| :-----------------: | :--------------: | :----------: |
+Criação e costumização do Github pages e página inicial do projeto | [Natan Santana](https://github.com/Neitan2001) | [Matheus Perillo](https://github.com/MatheusPerillo) |
+| Adição da equipe no Github pages | [Matheus Perillo](https://github.com/MatheusPerillo) | [Luíza Esteves](https://github.com/luiza-esteves) |
+| Lista de sites avaliados e site escolhido para a disciplina | [Luíza Esteves](https://github.com/luiza-esteves) | [Rafael Xavier](https://github.com/rafaelxavierr) |
+| Ferramentas do projeto | [Daniel Coimbra](https://github.com/DanielCoimbra) | [Natan Santana](https://github.com/Neitan2001) | 
+| Processo de Design | [Clara Ribeiro](https://github.com/clara-ribeiro) | [Matheus Perillo](https://github.com/MatheusPerillo) | 
+| Cronograma de atividades | [Rafael Xavier](https://github.com/rafaelxavierr) | [Natan Santana](https://github.com/Neitan2001) | 
+| Slides e gravação do vídeo de apresentação | Todos | [Clara Ribeiro](https://github.com/clara-ribeiro) |
+| Edição do  vídeo de apresentação | [Clara Ribeiro](https://github.com/clara-ribeiro) | [Daniel Coimbra](https://github.com/DanielCoimbra) | 11/07/2022
+
+<div style="text-align: center">
+<p>Tabela 1: planejamento do projeto e do Processo de Design</p>
+</div>
+
+
 ## Checklist
 
-A tabela 1 especifica todos os pontos que serão avaliados durante a execução da revisão, a fim de garantir que todos os pontos estão dentro do artefato.
+A tabela 2 especifica todos os pontos que serão avaliados durante a execução da revisão, a fim de garantir que todos os pontos estão dentro do artefato. As perguntas foram baseadas na avaliação disponibilizada pelo professor André Barros no dia da apresentação dessa etapa.
 
 | Checklist | 
 | ---- |
@@ -33,7 +51,7 @@ A tabela 1 especifica todos os pontos que serão avaliados durante a execução 
 
 
 <div style="text-align: center">
-<p>Tabela 1: Pontos a serem avaliados</p>
+<p>Tabela 2: Pontos a serem avaliados</p>
 </div>
 
 ## Bibliografia
@@ -44,3 +62,4 @@ A tabela 1 especifica todos os pontos que serão avaliados durante a execução 
 | Data | Versão | Descrição | Autor | Revisor |
 | ---- | ------ | --------- | ----- | ------- |
 | 22/08/2022 | `0.1`  | Criação do planejamento da verificação | [Matheus Perillo](https://github.com/MatheusPerillo) | [Rafael Xavier](https://github.com/rafaelxavierr)
+| 23/08/2022 | `0.2`  | Adição das sugestões feitas pelo professor André Barros | [Matheus Perillo](https://github.com/MatheusPerillo) | [Luíza Esteves](https://github.com/luiza-esteves)
