@@ -49,7 +49,7 @@
 
 #### Aplicação
 
-&emsp; A aplicação não apresenta uma proteção para o usuário quanto a condições perigosas e situações indesejáveis. Por exemplo, não há a opção de manter o usuário conectado ou de salvar a senha para facilitar o acesso na próxima vez que for realizar o login.
+&emsp; A aplicação não apresenta uma proteção para o usuário quanto a condições perigosas e situações indesejáveis. Por exemplo, não há a opção de manter o usuário conectado ou de salvar a senha para facilitar o acesso na próxima vez que for realizar o login. Além disso, o fluxo para mudar a senha, obrigatoriamente muda o email também e se o usuário não quiser mudar o email e escrever o email atual errado, é feito a alteração para o errado.
 </p>
 
 
@@ -85,6 +85,19 @@
 &emsp; O site por ter funcionalidades muito objetivas deixa os seus serviços bem visíveis em diversos espaços. O que permite aos usuários lembrarem com facilidade onde precisam clicar para realizar as tarefas.
 </p>
 
+## Conclusão
+
+<p style=" text-align: justify">
+&emsp;  Observa-se que o site Agência Virtual NeoEnergia não alcançou algumas das metas de usabilidade:
+</p>
+- Eficiência;
+- Segurança;
+- Aprendizagem;
+
+<p style=" text-align: justify">
+&emsp;  Portante, as metas listadas acima serão priorizadas durante as próximas etapas do projeto a fim de ser criado um design que os alcance.
+</p>
+
 ## Bibliografia
 
 > BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
@@ -105,3 +118,4 @@
 | 19/07/2022 | `0.3`  | Explicação dos objetivos | [Matheus Perillo](https://github.com/MatheusPerillo) | [Natan Santana](https://github.com/Neitan2001)
 | 19/07/2022 | `0.4`  | Explicação das metas de usabilidade | [Matheus Perillo](https://github.com/MatheusPerillo) | [Natan Santana](https://github.com/Neitan2001)
 | 29/07/2022 | `0.5`  | Aplicação das metas de usabilidade | [Matheus Perillo](https://github.com/MatheusPerillo) | [Natan Santana](https://github.com/Neitan2001)
+| 19/08/2022 | `0.6`  | Ajustes do artefato de acordo com a revisão | [Natan Santana](https://github.com/Neitan2001) |

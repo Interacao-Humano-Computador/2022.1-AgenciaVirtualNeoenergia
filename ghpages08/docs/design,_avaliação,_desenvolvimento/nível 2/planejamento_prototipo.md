@@ -18,7 +18,7 @@ Assim, começamos o processo de estruturação montando um termo de consentiment
 
 ## Ferramentas utilizadas na avaliação
 
-Para realizar a entrevista utilizaremos como ferramenta o Microsoft Teams, que permite tanto a comunicação quanto a gravação do encontro. Iremos utilizar os protótipos, que serão elaborados pela equipe, de algumas funcionalidades do sistema, como recuperação de senha e geração do relatório Nada consta. Além disso, forneceremos ao participante ferramentas online, caso ele queira esboçar alguma ideia em relação ao sistema.
+Para realizar a entrevista utilizaremos como ferramenta o Microsoft Teams, que permite tanto a comunicação quanto a gravação do encontro. Iremos utilizar os protótipos, que serão elaborados conforme o cronograma citado acima, pela equipe, de algumas funcionalidades do sistema, como recuperação de senha e geração do relatório Nada consta. Além disso, forneceremos ao participante ferramentas online, caso ele queira esboçar alguma ideia em relação ao sistema.
 
 ## Perfis dos entrevistados e formas de seleção
 
@@ -36,7 +36,7 @@ As datas da realização de cada etapa podem ser encontradas dentro do nosso [Cr
 
 Dentro do termo, buscamos informar tanto sobre a pesquisa quanto a gravação das entrevistas, deixando claro que tudo ocorrerá garantindo o sigilo das informações e somente com a devida autorização.
 <br/><br/>
-<embed src="../../../../assets/termoConsentimento.pdf" type="application/pdf" width="700" height="500">
+<embed src="../../../assets/termoConsentimento.pdf" type="application/pdf" width="700" height="500">
 
 ## Roteiro de perguntas
 
