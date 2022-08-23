@@ -11,11 +11,22 @@ Através dessa checklist, verificaremos se é necessário realizar a correção 
 
 ## Avaliador e Cronograma
 
-O avaliador que ficará responsável pela revisão dos artefatos da etapa 5 será o membro Luíza Esteves dos Santos e a revisão será executada no dia 19/08/2022. Assim, após a finalização já será iniciado o [relato dos resultados da verificação](./relato.md).
+O avaliador que ficará responsável pela revisão dos artefatos da etapa 5 será o membro Luíza Esteves dos Santos e a revisão será executada no dia 19/08/2022.Assim, após a finalização já será iniciado o [relato dos resultados da verificação](./relato.md). Os artefatos que serão avaliados nessa etapa foram produzidos e revisados inicialmente conforme a Tabela 1 indica:
+
+| Artefato | Autor | Revisor |
+| ---- | ------ | --------- | 
+| Relato dos resultados do Story Board | [Clara Ribeiro](https://github.com/clara-ribeiro) | [Natan Santana](https://github.com/Neitan2001) | 
+ | Relato dos resultados da Análise de tarefas | [Natan Santana](https://github.com/Neitan2001) |[Clara Ribeiro](https://github.com/clara-ribeiro) | [Clara Ribeiro](https://github.com/clara-ribeiro) |
+ |Planejamento da Avaliação do Protótipo de Papel | [Luíza Esteves](https://github.com/luiza-esteves)| [Matheus Perillo](https://github.com/MatheusPerillo) | 
+ | Planejamento do relato dos resultados da avaliação do Protótipo de Papel | [Rafael Xavier](https://github.com/rafaelxavierr) | [Luíza Esteves](https://github.com/luiza-esteves) | 
+
+ <div style="text-align: center">
+<p>Tabela 1: Artefatos desenvolvidos na etapa 5 com os devidos autores e revisores</p>
+</div>
 
 ## Checklist
 
-A tabela 1 especifica todos os pontos que serão avaliados durante a execução da revisão, a fim de garantir que todos os pontos estão dentro do artefato.
+A tabela 1 especifica todos os pontos que serão avaliados durante a execução da revisão, a fim de garantir que todos os pontos estão dentro do artefato. Esse checklist foi feito baseado nos critério colocados pelo professor André Barros no plano de ensino da disciplina de Interação Humano Computador, pontos indicados pelo monitor que acompanha o grupo e outros que foram acrescidos pelo grupo, de acordo com a necessidade da etapa.
 
 | Checklist | 
 | ---- |
@@ -37,4 +48,5 @@ A tabela 1 especifica todos os pontos que serão avaliados durante a execução 
 
 | Data | Versão | Descrição | Autor | Revisor |
 | ---- | ------ | --------- | ----- | ------- |
-| 18/08/2022 | `0.1`  | Criação do planejamento da verificação da etapa 5 | [Luíza Esteves](https://github.com/luiza-esteves) | 
+| 18/08/2022 | `0.1`  | Criação do planejamento da verificação da etapa 5 | [Luíza Esteves](https://github.com/luiza-esteves) | [Rafael Xavier](https://github.com/rafaelxavierr)
+| 23/08/2022 | `0.2`  | Alteração de atividades do planejamento da etapa 5 | [Luíza Esteves](https://github.com/luiza-esteves) | [Matheus Perillo](https://github.com/MatheusPerillo)
