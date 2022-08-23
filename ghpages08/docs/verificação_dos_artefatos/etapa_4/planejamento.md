@@ -25,7 +25,6 @@ A tabela 1 especifica todos os pontos que serão avaliados durante a execução 
 | O artefato possui as referência bibliográficas? |
 | Todas as imagens e tabelas dos artefatos possuem legenda e são chamadas em texto? |
 | É apresentado os objetivos da avaliação de IHC? |
-| Apresenta as perguntas a serem respondidas com a avaliação? |
 | Apresenta os métodos de avaliação a serem utilizados? |
 | Apresenta as questões práticas da avaliação? |
 | Apresenta sobre as questões éticas? |
