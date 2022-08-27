@@ -18,6 +18,18 @@ Este documento possui o objetivo de relatar os resultados da verificação feita
 | É apresentado o planejamento da avaliação do protótipo de papel?| Sim, porém é necessário ressaltar que os protótipos não estão prontos e colocar a data de realização, e além disso, alterar a quantidade de entrevistados com a devida justificativa |
 | É apresentado o planejamento do relato dos resultados avaliação do protótipo de papel?| Sim |
 
+No Gráfico 1 abaixo, é possível visualizar o percentual de erros e acertos segundo o checklist realizado para essa etapa.
+
+![Gráfico de erros da etapa 5](../../assets/grafEtapa5.png){ width="10000" }
+
+<div style="text-align: center">
+<p>Gráfico 1: Ocorrência de erros</p>
+</div>
+<div style="text-align: center">
+<p>Fonte: Luíza Esteves</p>
+</div>
+
+
 ## Problemas encontrados
 
 De acordo com as respostas do checklist acima, os seguintes problemas foram encontrados durante a revisão:
