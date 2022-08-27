@@ -2,7 +2,7 @@
 
 ## Introdução e Objetivo
 
-A fim de garantirmos que todos os artefatos de todas as entregas estão de acordo com os requisitos e critérios de aceitação definidos pelo professor André Barros além das alterações solicitadas pelos monitores, é necessário a realização de uma verificação. Assim, todos os erros encontrados e qualquer coisa que estiver faltando, será ajustado e documentado. Nesta página será feita o planejamento da verificação dos artefatos da Etapa 5.
+A fim de garantirmos que todos os artefatos de todas as entregas estão de acordo com os requisitos e critérios de aceitação definidos pelo professor André Barros além das alterações solicitadas pelos monitores, é necessário a realização de uma verificação. Assim, todos os erros encontrados e qualquer coisa que estiver faltando, será ajustado e documentado. Nesta página será detalha como foi feito o planejamento da verificação dos artefatos da Etapa 5.
 
 ## Método
 
