@@ -16,6 +16,8 @@ Dentro do nosso escopo de formas de avaliações, chegamos a um entendimento de 
 
 Assim, começamos o processo de estruturação montando um termo de consentimento específico para a entrevista, fizemos a análise de ferramentas necessárias, definimos um roteiro de perguntas a serem utilizadas para a avaliação, podendo ser acrescidas caso seja de valia para a avaliação, e fizemos a escolha de perfis para a entrevista.
 
+É importante ressaltar que o protótipo de papel ainda será elaborado pela equipe, conforme está datado dentro do [Cronograma de Atividades](../../planejamento/cronograma.md).
+
 ## Ferramentas utilizadas na avaliação
 
 Para realizar a entrevista utilizaremos como ferramenta o Microsoft Teams, que permite tanto a comunicação quanto a gravação do encontro. Iremos utilizar os protótipos, que serão elaborados conforme o cronograma citado acima, pela equipe, de algumas funcionalidades do sistema, como recuperação de senha e geração do relatório Nada consta. Além disso, forneceremos ao participante ferramentas online, caso ele queira esboçar alguma ideia em relação ao sistema.
@@ -68,3 +70,4 @@ Com todos esse planejamento, esperamos conseguir identificar todos os pontos a s
 | Data | Versão | Descrição | Autor | Revisor |
 | ---- | ------ | --------- | ----- | ------- |
 | 14/08/2022 | `0.1`  | Criação da página de planejamento de protótipo de papel | [Luíza Esteves](https://github.com/luiza-esteves) | [Matheus Perillo](https://github.com/MatheusPerillo)
+| 23/08/2022 | `0.2`  | Correção de atividades elaboradas| [Luíza Esteves](https://github.com/luiza-esteves) | [Matheus Perillo](https://github.com/MatheusPerillo)
