@@ -19,15 +19,15 @@ A construção dessas diretrizes se baseiam em nove pontos:
 
 ## Aplicação dos princípios no projeto
 
-Dentro do sistema, fizemos a análise do uso dos princípios das seguintes atividades: recuperação de senha, recuperação de email e geração do relatório nada consta. A partir disso conseguimos identificar problemas com as seguintes diretrizes:
+Dentro do sistema, fizemos a análise do uso dos princípios das seguintes atividades: primeiro acesso, recuperação de senha, recuperação de email e geração do relatório nada consta. A partir disso conseguimos identificar problemas com as seguintes diretrizes:
 
 **Correspondência com as expectativas dos usuários**
 
-Esse princípio deixa a desejar em todas as atividades citadas acima. Ao solicitar a geração do relatório nada consta, se acontece um erro a mensagem que aparece ao usuário é muito genérica e difícil de entender, impossibilitando que o usuário se recupere do erro. Já na recuperação de senha e email, o sistema solicita que seja informado dados pessoais, e, quando a pessoa clica no botão de prosseguir, não é informado se os dados inseridos constam na base ou como prosseguir. Logo, é importante inserir mais mensagem que informem melhor o usuário sobre qual a situação do sistema de acordo com as atividades.
+Esse princípio deixa a desejar em todas as atividades citadas acima. Na recuperação de senha e email, o sistema solicita que seja informado dados pessoais, e, quando a pessoa clica no botão de prosseguir, não é informado se os dados inseridos constam na base ou como prosseguir. Logo, é importante inserir mais mensagem que informem melhor o usuário sobre qual a situação do sistema de acordo com as atividades.
 
 **Visibilidade e reconhecimento**
 
-O usuário não consegue reconhecer dentro das atividades quando elas foram encerradas, já que nenhum indicativo nem de forma sonora nem de forma visual, deixando-o confuso ou esperando por algo sem saber se finalizou.
+Ao solicitar a geração do relatório nada consta, se acontece um erro, a mensagem que aparece ao usuário é muito genérica e difícil de entender, impossibilitando que o usuário se recupere do erro. Além disso, o usuário não consegue reconhecer dentro da atividade de "Primeiro Acesso" quando ela foi encerrada, já que nenhum indicativo nem de forma sonora nem de forma visual, deixando-o confuso ou esperando por algo sem saber se finalizou.
 
 **Projeto para erros**
 
@@ -45,3 +45,4 @@ Fazendo uma análise do sistema da NeoEnergia em relação às diretrizes aprese
 | ---- | ------ | --------- | ----- | ------- |
 | 26/07/2022 | `0.1`  | Criação da página de Princípios Gerais do Projeto | [Luíza Esteves](https://github.com/luiza-esteves) | [Clara Ribeiro](https://github.com/clara-ribeiro)
 | 16/08/2022 | `0.2`  | Ajustes da página de Princípios Gerais do Projeto | [Luíza Esteves](https://github.com/luiza-esteves) | [Natan Santana](https://github.com/Neitan2001)
+| 19/08/2022 | `0.3`  | Ajustes do artefato de acordo com a revisão | [Natan Santana](https://github.com/Neitan2001) |

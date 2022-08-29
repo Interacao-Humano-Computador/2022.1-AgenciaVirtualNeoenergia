@@ -101,8 +101,18 @@ Data limite para entrega  | Atividade/entrega | Autor(es) | Revisor | Data limit
 
 Data limite para entrega | Atividade/entrega | Autor(es) | Revisor | Data limite para revisão
 --------- | ----------------- | -------------- | ---------- | ----------
-21/08/2022 | Verificação dos artefatos | 
-
+21/08/2022 | Planejamento da Verificação da Etapa 1 | [Matheus Perillo](https://github.com/MatheusPerillo) | [Rafael Xavier](https://github.com/rafaelxavierr) |  22/08/2022
+21/08/2022 | Planejamento da Verificação da Etapa 2 | [Daniel Coimbra](https://github.com/DanielCoimbra) e [Rafael Xavier](https://github.com/rafaelxavierr) | [Clara Ribeiro](https://github.com/clara-ribeiro) |  22/08/2022
+21/08/2022 | Planejamento da Verificação da Etapa 3 | [Natan Santana](https://github.com/Neitan2001) | [Luíza Esteves](https://github.com/luiza-esteves) |  22/08/2022
+21/08/2022 | Planejamento da Verificação da Etapa 4 | [Clara Ribeiro](https://github.com/clara-ribeiro) | [Matheus Perillo](https://github.com/MatheusPerillo) |  22/08/2022
+21/08/2022 | Planejamento da Verificação da Etapa 5 | [Luíza Esteves](https://github.com/luiza-esteves) | [Rafael Xavier](https://github.com/rafaelxavierr) |  22/08/2022
+21/08/2022 | Relato da Verificação da Etapa 1 e ajustes nos artefatos | [Matheus Perillo](https://github.com/MatheusPerillo) | [Rafael Xavier](https://github.com/rafaelxavierr) |  22/08/2022
+21/08/2022 | Relato da Verificação da Etapa 2 e ajustes nos artefatos | [Daniel Coimbra](https://github.com/DanielCoimbra) e [Rafael Xavier](https://github.com/rafaelxavierr) | [Clara Ribeiro](https://github.com/clara-ribeiro) |  22/08/2022
+21/08/2022 | Relato da Verificação da Etapa 3 e ajustes nos artefatos | [Natan Santana](https://github.com/Neitan2001) | [Luíza Esteves](https://github.com/luiza-esteves) |  22/08/2022
+21/08/2022 | Relato da Verificação da Etapa 4 e ajustes nos artefatos | [Clara Ribeiro](https://github.com/clara-ribeiro) | [Matheus Perillo](https://github.com/MatheusPerillo) |  22/08/2022
+21/08/2022 | Relato da Verificação da Etapa 5 e ajustes nos artefatos | [Luíza Esteves](https://github.com/luiza-esteves) | [Rafael Xavier](https://github.com/rafaelxavierr) |  22/08/2022
+21/08/2022 | Slides e gravação do vídeo de apresentação | Todos | [Clara Ribeiro](https://github.com/clara-ribeiro) | 22/08/2022
+22/08/2022 | Edição do  vídeo de apresentação | [Clara Ribeiro](https://github.com/clara-ribeiro) | [Natan Santana](https://github.com/Neitan2001) | 22/08/2022
 
 <div style="text-align: center">
 <p>Tabela 6: Verificação dos artefatos</p>
@@ -112,17 +122,35 @@ Data limite para entrega | Atividade/entrega | Autor(es) | Revisor | Data limite
 
 Data limite para entrega | Atividade/entrega | Autor(es) | Revisor | Data limite para revisão
 --------- | ----------------- | -------------- | ---------- | ---------
-26/08/2022 | Construção do protótipo de papel |  |  | 27/08/2022
-29/08/2022 | Teste Piloto da Validação do Protótipo de papel |  |  | 30/08/2022
-31/08/2022 | Entrevistas de Validação do Protótipo de papel |  |  | 01/08/2022
-02/09/2022 | Relato dos resultados do Protótipo de Papel |  |  | 03/09/2022
-02/09/2022 | Planejamento da Avaliação do protótipo de alta fidelidade |  |  | 03/09/2022
-02/09/2022 | Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade |  |  | 03/09/2022
-03/09/2022 | Slides e gravação do vídeo de apresentação |  |  | 04/09/2022
-04/09/2022 | Edição do  vídeo de apresentação |  |  | 05/09/2022
+26/08/2022 | Planejamento da verificação dos artefatos | [Natan Santana](https://github.com/Neitan2001) | [Matheus Perillo](https://github.com/MatheusPerillo) | 28/08/2022 |
+28/08/2022 | Construção do protótipo de papel | [Clara Ribeiro](https://github.com/clara-ribeiro), [Matheus Perillo](https://github.com/MatheusPerillo) e [Rafael Xavier](https://github.com/rafaelxavierr) | [Natan Santana](https://github.com/Neitan2001) | 29/08/2022
+02/09/2022 | Construção do protótipo de alta fidelidade | [Clara Ribeiro](https://github.com/clara-ribeiro), [Matheus Perillo](https://github.com/MatheusPerillo) e [Rafael Xavier](https://github.com/rafaelxavierr) | [Luíza Esteves](https://github.com/luiza-esteves) | 03/09/2022
+30/08/2022 | Teste Piloto da Validação do Protótipo de papel | [Natan Santana](https://github.com/Neitan2001), [Rafael Xavier](https://github.com/rafaelxavierr) e [Luíza Esteves](https://github.com/luiza-esteves) | [Matheus Perillo](https://github.com/MatheusPerillo) | 30/08/2022
+31/08/2022 | Entrevistas de Validação do Protótipo de papel | [Natan Santana](https://github.com/Neitan2001) e [Luíza Esteves](https://github.com/luiza-esteves) | [Clara Ribeiro](https://github.com/clara-ribeiro) | 01/08/2022
+02/09/2022 | Relato dos resultados da validação do Protótipo de Papel | [Natan Santana](https://github.com/Neitan2001) | [Clara Ribeiro](https://github.com/clara-ribeiro) | 03/09/2022
+05/09/2022 | Ajustes do protótipo de alta fidelidade | [Clara Ribeiro](https://github.com/clara-ribeiro), [Matheus Perillo](https://github.com/MatheusPerillo) e [Rafael Xavier](https://github.com/rafaelxavierr) | [Luíza Esteves](https://github.com/luiza-esteves) | 06/09/2022
+02/09/2022 | Planejamento da Avaliação do protótipo de alta fidelidade | [Luíza Esteves](https://github.com/luiza-esteves) | [Rafael Xavier](https://github.com/rafaelxavierr) | 03/09/2022
+02/09/2022 | Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | [Rafael Xavier](https://github.com/rafaelxavierr) | [Natan Santana](https://github.com/Neitan2001) | 03/09/2022
+03/09/2022 | Slides e gravação do vídeo de apresentação | Todos | [Clara Ribeiro](https://github.com/clara-ribeiro) | 04/09/2022
+04/09/2022 | Edição do  vídeo de apresentação | [Clara Ribeiro](https://github.com/clara-ribeiro) | [Natan Santana](https://github.com/Neitan2001) | 05/09/2022
 
 <div style="text-align: center">
 <p>Tabela 7: Relato dos resultados do Protótipo de Papel, o Planejamento da Avaliação do protótipo de alta fidelidade e o Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade</p>
+</div>
+
+## Etapa 8
+Data limite para entrega | Atividade/entrega | Autor(es) | Revisor | Data limite para revisão
+--------- | ----------------- | -------------- | ---------- | ---------
+05/09/2022 | Teste Piloto da validação do protótipo de Alta Fidelidade | [Natan Santana](https://github.com/Neitan2001), [Rafael Xavier](https://github.com/rafaelxavierr) e [Luíza Esteves](https://github.com/luiza-esteves) | [Clara Ribeiro](https://github.com/clara-ribeiro) | 06/08/2022
+07/09/2022 | Entrevistas de validação do protótipo de Alta Fidelidade | [Natan Santana](https://github.com/Neitan2001) e [Luíza Esteves](https://github.com/luiza-esteves) | [Clara Ribeiro](https://github.com/clara-ribeiro) | 08/09/2022
+10/09/2022 | Relato dos resultados da avaliação do protótipo de Alta Fidelidade | [Rafael Xavier](https://github.com/rafaelxavierr) | [Natan Santana](https://github.com/Neitan2001) | 11/09/2022
+11/09/2022 | Slides e gravação do vídeo de apresentação | Todos | [Clara Ribeiro](https://github.com/clara-ribeiro) | 12/09/2022
+12/09/2022 | Edição do  vídeo de apresentação | [Clara Ribeiro](https://github.com/clara-ribeiro) | [Natan Santana](https://github.com/Neitan2001) | 12/09/2022
+
+
+
+<div style="text-align: center">
+<p>Tabela 8: Projeto Final - Construção do protótipo de alta fidelidade, Entrevistas de validação do protótipo de Alta Fidelidade, Relato dos resultados da avaliação do protótipo de alta fidelidade</p>
 </div>
 
 ## Bibliografia

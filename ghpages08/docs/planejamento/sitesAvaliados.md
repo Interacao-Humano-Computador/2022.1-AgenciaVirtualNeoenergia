@@ -2,7 +2,7 @@
 ## Introdução
 
 <div style="text-align: justify">
-  <p>Para realizar a escolha de um site a ser utilizado no decorrer da disciplina, foram feitas análises de 6 sites diferentes a fim de selecionar o que mais poderia ter mais melhorias indicadas dentro do contexto da disciplina. As avaliações foram feitas baseadas nas 10 heurísticas de Nielsen:</p>
+  <p>Para realizar a escolha de um site a ser utilizado no decorrer da disciplina, foram feitas análises de 6 sites diferentes, encontrados na Tabela 1, a fim de selecionar o que mais poderia ter mais melhorias indicadas dentro do contexto da disciplina. As avaliações foram feitas baseadas nas 10 heurísticas de Nielsen:</p>
 
   <ol>
 
@@ -50,6 +50,10 @@
 | Rastreamento Correios              | Daniel Coimbra           |
 | Brasília Laser Show              | Matheus Perillo           |
 | Agência Virtual NeoEnergia              | Clara Ribeiro           |
+
+<div style="text-align: center">
+<p>Tabela 1: Sites escolhidos pelos integrantes</p>
+</div>
 
 
 ## Caixa Econômica
@@ -183,5 +187,6 @@ Diante dos sites analisados individualmente por cada integrante da equipe, fizem
 | 03/07/2022 | `0.1`  | Criação da página de Sites Avaliados | [Luíza Esteves](https://github.com/luiza-esteves) | [Rafael Xavier](https://github.com/rafaelxavierr)
 | 04/07/2022 | `0.2`  | Adição de tabela de versionamento | [Luíza Esteves](https://github.com/luiza-esteves) | [Rafael Xavier](https://github.com/rafaelxavierr)
 | 07/07/2022 | `0.3`  | Inserção do restante dos sites avaliados| [Luíza Esteves](https://github.com/luiza-esteves) | [Rafael Xavier](https://github.com/rafaelxavierr)
-| 18/07/2022 | `0.4`  | Adição dos links para avaliações individuais dos sites| [Natan Santana](https://github.com/Neitan2001) | 
+| 18/07/2022 | `0.4`  | Adição dos links para avaliações individuais dos sites| [Natan Santana](https://github.com/Neitan2001) |
+| 22/08/2022 | `0.5`  | Correção realizada pelo relato de verficação| [Matheus Perillo](https://github.com/MatheusPerillo) | [Rafael Xavier](https://github.com/rafaelxavierr)
 

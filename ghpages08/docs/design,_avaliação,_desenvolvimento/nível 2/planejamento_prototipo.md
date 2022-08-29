@@ -20,11 +20,11 @@ Assim, começamos o processo de estruturação montando um termo de consentiment
 
 ## Ferramentas utilizadas na avaliação
 
-Para realizar a entrevista utilizaremos como ferramenta o Microsoft Teams, que permite tanto a comunicação quanto a gravação do encontro. Iremos utilizar os protótipos, que serão elaborados pela equipe, de algumas funcionalidades do sistema, como recuperação de senha e geração do relatório Nada consta. Além disso, forneceremos ao participante ferramentas online, caso ele queira esboçar alguma ideia em relação ao sistema.
+Para realizar a entrevista utilizaremos como ferramenta o Microsoft Teams, que permite tanto a comunicação quanto a gravação do encontro. Iremos utilizar os protótipos, que serão elaborados conforme o cronograma citado acima, pela equipe, de algumas funcionalidades do sistema, como recuperação de senha e geração do relatório Nada consta. Além disso, forneceremos ao participante ferramentas online, caso ele queira esboçar alguma ideia em relação ao sistema.
 
 ## Perfis dos entrevistados e formas de seleção
 
-Dentro da atividade de Perfil do Usuário e das Personas, conseguimos identificar características necessárias para realizar uma entrevista com um usuário. Sendo assim, buscaremos três perfis maiores de 18 anos, que residam no Distrito Federal e que façam utilização do site da Agência Virtual NeoEnergia. Escolhemos o total de três com base na análise de Krug que define boas práticas para se avaliar um protótipo de papel.
+Dentro da atividade de Perfil do Usuário e das Personas, conseguimos identificar características necessárias para realizar uma entrevista com um usuário. Sendo assim, buscaremos três perfis maiores de 18 anos, que residam no Distrito Federal e que façam utilização do site da Agência Virtual NeoEnergia. Decidimos esse quantitativo de entrevistados com base na análise de Kruger.
 
 Para encontrar esses perfis, divulgamos a necessidade da nossa entrevista em grupos de redes sociais com pessoas que estão dentro dos critérios de utilização do sistema e convidamos pessoas já conhecidas pelos membros do grupo que se encaixam.
 
