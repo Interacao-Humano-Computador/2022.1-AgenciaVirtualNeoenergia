@@ -41,7 +41,7 @@ Estamos realizando uma série de pesquisas e solicitamos seu consentimento para 
 
 ## Bibliografia
 
- <p><ul>1. SALES, André Barros. Plano de ensino da disciplina. Disponível em: <a href="https://aprender3.unb.br">https://aprender3.unb.br</a>. Acesso em: 22 de agosto de 2022.</ul></p>
+> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
 
 ## Tabela de Versionamento
 
