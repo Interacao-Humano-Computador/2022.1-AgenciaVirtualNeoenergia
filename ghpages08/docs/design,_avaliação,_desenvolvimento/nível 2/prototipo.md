@@ -69,7 +69,7 @@ Em relação a inferface já existente, as mudanças nessa proposta foram: adiç
 </div>
 <br/>
 
-O fluxo de recuperação de senha proposto se difere bastante da versão original, a proposta foi separar a recuperação de senha e e-mail. Para recuperar a senha, o usuário deve apenas inserir o CPF e será enviado as informações de recuperação ao e-mail cadastrado.
+O fluxo de recuperação de senha proposto se difere bastante da versão original, a proposta foi separar a recuperação de senha e e-mail. Para recuperar a senha, o usuário deve apenas inserir o CPF e serão enviadas as informações de recuperação ao e-mail cadastrado.
 
 ### Recuperação de e-mail
 
