@@ -10,7 +10,7 @@ O objetivo de fazer o protótipo de baixa fidelidade é avaliar a interface e id
 
 ## Metodologia
 
-Foi realizado uma prototipação vertical, ou seja, o protótipo realizado foca em um grupo definido de atividades, não abordando o sistema inteiro. As atividades exploradas foram as de login, recuperação de senha e geração do relatório nada consta. O software utilizado para a prototipação foi o Figma.
+Foi realizada uma prototipação vertical, ou seja, o protótipo realizado foca em um grupo definido de atividades, não abordando o sistema inteiro. As atividades exploradas foram as de login, recuperação de senha e geração do relatório nada consta. O software utilizado para a prototipação foi o Figma.
 
 ## Protótipos
 
@@ -30,7 +30,7 @@ Foi realizado uma prototipação vertical, ou seja, o protótipo realizado foca 
 </div>
 <br/>
 
-Em relação a inferface já existente, as mudanças nessa proposta foram: adição do botão de login e cadastro na barra de menu, opção de manter o usuário conectado e as opções de recuperação de senha e de e-mail foram aplicadas de forma separadas.
+Em relação a inferface já existente, as mudanças nessa proposta foram: adição do botão de login e cadastro na barra de menu, opção de manter o usuário conectado e as opções de recuperação de senha e de e-mail foram aplicadas de forma separada.
 
 ### Recuperação de senha
 
@@ -76,42 +76,42 @@ O fluxo de recuperação de senha proposto se difere bastante da versão origina
 ![Recuperação de email](../../assets/prototipos/Email1.png)
 
 <div style="text-align: center">
-<p>Figura 8 - Tela 1 de recuperação de senha</p>
+<p>Figura 8 - Tela 1 de recuperação de e-mail</p>
 </div>
 <br/>
 
 ![Recuperação de email](../../assets/prototipos/Email2.png)
 
 <div style="text-align: center">
-<p>Figura 9 - Tela 2 de recuperação de senha</p>
+<p>Figura 9 - Tela 2 de recuperação de e-mail</p>
 </div>
 <br/>
 
 ![Recuperação de email](../../assets/prototipos/Email3.png)
 
 <div style="text-align: center">
-<p>Figura 10 - Tela 3 de recuperação de senha</p>
+<p>Figura 10 - Tela 3 de recuperação de e-mail</p>
 </div>
 <br/>
 
 ![Recuperação de email](../../assets/prototipos/Email4.png)
 
 <div style="text-align: center">
-<p>Figura 11 - Tela 4 de recuperação de senha</p>
+<p>Figura 11 - Tela 4 de recuperação de e-mail</p>
 </div>
 <br/>
 
 ![Recuperação de email](../../assets/prototipos/Email5.png)
 
 <div style="text-align: center">
-<p>Figura 12 - Tela 5 de recuperação de senha</p>
+<p>Figura 12 - Tela 5 de recuperação de e-mail</p>
 </div>
 <br/>
 
 ![Recuperação de email](../../assets/prototipos/Email6.png)
 
 <div style="text-align: center">
-<p>Figura 13 - Tela 6 de recuperação de senha</p>
+<p>Figura 13 - Tela 6 de recuperação de e-mail</p>
 </div>
 <br/>
 
@@ -122,14 +122,14 @@ Caso o usuário não possua acesso ao celular e não lembre o e-mail, ele dever�
 ![Recuperação de email](../../assets/prototipos/Email7.png)
 
 <div style="text-align: center">
-<p>Figura 14 - Tela 3 de recuperação de senha</p>
+<p>Figura 14 - Tela 3 de recuperação de e-mail</p>
 </div>
 <br/>
 
 ![Recuperação de email](../../assets/prototipos/Email8.png)
 
 <div style="text-align: center">
-<p>Figura 15 - Tela 7 de recuperação de senha</p>
+<p>Figura 15 - Tela 7 de recuperação de e-mail</p>
 </div>
 <br/>
 
@@ -200,8 +200,10 @@ A confecção do protótipo possibilitou uma melhor visão de como irá ficar a 
 
 ## Referências
 
+> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
+
 ## Tabela de Versionamento
 
 | Data | Versão | Descrição | Autor | Revisor |
 | ---- | ------ | --------- | ----- | ------- |
-| 14/08/2022 | `0.1`  | Criação dos protótipos de baixa fidelidade |  | 
+| 14/08/2022 | `0.1`  | Criação dos protótipos de baixa fidelidade | [Clara Ribeiro](https://github.com/clara-ribeiro) | [Rafael Xavier](https://github.com/rafaelxavierr)
