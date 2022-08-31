@@ -8,7 +8,7 @@ Nesta página será documentado o Teste Piloto da validação do Protótipo de B
 
 ## Gravação do Teste Piloto
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=XmAZ2_9YQw8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XmAZ2_9YQw8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Resultados
 
@@ -33,13 +33,13 @@ Para a validação do Protótipo de Baixa Fidelidade, foi verificado que será n
 Além disso, será necessário que os avaliadores tenham os seguintes artefatos abertos em uma tela que não será mostrada para o entrevistado:
 </div>
 
-- Roteiro de perguntas da validação do Storyboard
+- Roteiro de perguntas da validação do Protótipo de Baixa Fidelidade
 - Documento para anotação das respostas dadas pelos entrevistados
 
 ### Mudanças
 
 <div style="text-align: justify">
-Após a execução do Teste Piloto, os avaliadores Luíza, Natan e Rafael decidiram que para obter dados melhores era necessário fazer alguns ajustes nas perguntas. Então o roteiro de perguntas do Storyboard sofreu algumas mudanças:
+Após a execução do Teste Piloto, os avaliadores Luíza, Natan e Rafael decidiram que para obter dados melhores era necessário fazer alguns ajustes nas perguntas. Então o roteiro de perguntas do Protótipo de Baixa Fidelidade sofreu algumas mudanças:
 </div>
 - Retirada de pergunta sobre utilização anterior de atividades do sistema;
 - Adição da pergunta sobre sua utilização para auxiliar outra pessoa, caso ele não seja a pessoa diretamente responsável pela conta de energia na residência;
@@ -55,4 +55,4 @@ O roteiro de perguntas disponível no documento de planejamento foi atualizado c
 
 | Data | Versão | Descrição | Autor | Revisor |
 | ---- | ------ | --------- | ----- | ------- |
-| 30/08/2022 | `0.1`  | Criação do documento e resultados do teste piloto | [Luíza Esteves](https://github.com/luiza-esteves) | | 
+| 30/08/2022 | `0.1`  | Criação do documento e resultados do teste piloto | [Luíza Esteves](https://github.com/luiza-esteves) | [Clara Ribeiro](https://github.com/clara-ribeiro) | 
