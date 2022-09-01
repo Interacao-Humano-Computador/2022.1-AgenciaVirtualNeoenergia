@@ -12,7 +12,7 @@ Dentro dessa avaliação dos protótipos, nós buscamos identificar o que os usu
 
 ## Metodologias de avaliação dos Protótipos de Alta Fidelidade 
 
-Dentro do nosso escopo de formas de avaliações, chegamos a um entendimento de que a forma mais adequada para o nosso projeto de se avaliar os protótipos de alta fidelidae são com entrevistas com os usuários junto com o protótipo, fazendo uma simulação com os mesmos para identificar pontos positivos e negativos do design de IHC e realizando perguntas para direcionar a simulação.
+Dentro do nosso escopo de formas de avaliações, chegamos a um entendimento de que a forma mais adequada para o nosso projeto de se avaliar os protótipos de alta fidelidae são com entrevistas com os usuários junto com o protótipo, fazendo uma simulação com os mesmos para identificar pontos positivos e negativos do design de IHC e realizando perguntas para direcionar a simulação. Ao final da entrevista, os entrevistados deverão criar um relatório com os resultados retirados da avaliação.
 
 Assim, começamos o processo de estruturação montando um termo de consentimento específico para a entrevista, fizemos a análise de ferramentas necessárias, definimos um roteiro de perguntas a serem utilizadas para a avaliação, podendo ser acrescidas caso seja de valia para a avaliação, e fizemos a escolha de perfis para a entrevista.
 
