@@ -35,6 +35,22 @@ Este documento possui o objetivo de relatar os resultados da verificação feita
 
 ### Planejamento da avaliação do protótipo de alta fidelidade
 
+| Checklist | 
+| ---- |
+| O documento possui um texto de introdução? | sim
+| O documento possui uma tabela de versionamento? | sim
+| O documento possui as referências bibliográficas? | sim
+| Todas as imagens e tabelas dos artefatos possuem legenda e são chamadas em texto? | Não
+| É apresentado os objetivos da avaliação de IHC? | Sim
+| Apresenta os métodos de avaliação a serem utilizados? | Sim
+| Apresenta as questões práticas da avaliação? | Sim
+| Apresenta sobre as questões éticas? | Sim
+| Apresenta a estrutura do relatório da avaliação? | Sim
+| Apresenta um cronograma para realização da avaliação? | Sim
+| Está previsto a realização de um teste piloto antes da avaliação? | Sim
+| Está previsto o que o avaliador deve realizar durante a avaliação? | Sim
+
+
 ### Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade
 
 | Checklist | Resposta |
@@ -48,10 +64,12 @@ Este documento possui o objetivo de relatar os resultados da verificação feita
 
 ## Problemas encontrados
 
+- No artefato do planejamento da avaliação do protótipo de alta fidelidade não haviam legendas nas tabelas
 
 
 ## Correções
 
+- Foram adicionadas legendas nas tabelas do planejamento da avaliação do protótipo de alta fidelidade
 
 ## Bibliografia
 > Gerência e Qualidade de Software - Aula 06 - Técnica de revisão, Fábio Levy Siqueira. Disponível em: <https://www.youtube.com/watch?v=nA1BVDd9GUE>- Acesso em 18/08/2022
