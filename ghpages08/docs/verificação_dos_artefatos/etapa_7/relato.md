@@ -50,6 +50,7 @@ Este documento possui o objetivo de relatar os resultados da verificação feita
 | Está previsto a realização de um teste piloto antes da avaliação? | Sim
 | Está previsto o que o avaliador deve realizar durante a avaliação? | Sim
 
+
 ### Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade
 
 | Checklist | Resposta |

@@ -99,7 +99,6 @@ As tabelas 2, 3, 4, 5, 6, 7 e 8 especifica todos os pontos que serão avaliados 
 
 | Checklist | 
 | ---- |
-| O teste piloto foi executado e documentado? |
 | O documento possui um texto de introdução? |
 | O documento possui uma tabela de versionamento? |
 | O documento possui as referências bibliográficas? |
@@ -114,7 +113,6 @@ As tabelas 2, 3, 4, 5, 6, 7 e 8 especifica todos os pontos que serão avaliados 
 
 | Checklist | 
 | ---- |
-| O teste piloto foi executado e documentado? |
 | O documento possui um texto de introdução? |
 | O documento possui uma tabela de versionamento? |
 | O documento possui as referências bibliográficas? |
@@ -136,7 +134,6 @@ As tabelas 2, 3, 4, 5, 6, 7 e 8 especifica todos os pontos que serão avaliados 
 
 | Checklist | 
 | ---- |
-| O teste piloto foi executado e documentado? |
 | O documento possui um texto de introdução? |
 | O documento possui uma tabela de versionamento? |
 | O documento possui as referências bibliográficas? |
