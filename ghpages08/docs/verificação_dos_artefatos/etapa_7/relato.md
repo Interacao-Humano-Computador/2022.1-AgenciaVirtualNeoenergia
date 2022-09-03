@@ -1,1 +1,62 @@
 # Relato da Verificação da Etapa 7
+
+## Introdução
+
+Este documento possui o objetivo de relatar os resultados da verificação feita pela avaliadora Luíza Esteves dos Santos no dia 19/08/2022 utilizando o método de Inspeção. O checklist desenvolvido no [planejamento da verificação](./planejamento.md) foi utilizado a fim de verificar a conformidade de todo os artefatos da etapa 7 quanto aos requisitos e critérios de aceite definidos pelo professor André Barros.                                        
+
+## Sumário dos dados
+
+### Planejamento da verificação dos artefatos
+
+| Checklist | Resposta |
+| --------- | -------- |
+| O docuemnto possui um texto de introdução? | Sim |
+| O docuemnto possui uma tabela de versionamento? | Sim |
+| O documento possui as referências bibliográficas? | Sim |
+| Todas as imagens e tabelas dos artefatos possuem legenda e são chamadas em texto? | Sim |
+| O checklist de cada artefato possui todas as perguntas necessárias para sua revisão? | Sim |
+
+### Construção do protótipo de papel
+
+### Construção do protótipo de alta fidelidade
+
+### Teste Piloto da Validação do Protótipo de Papel
+
+| Checklist | Resposta |
+| --------- | -------- |
+| O teste piloto foi executado e documentado? | Sim |
+| O documento possui um texto de introdução? | Sim |
+| O documento possui uma tabela de versionamento? | Sim |
+| O documento possui as referências bibliográficas? | Sim |
+| Todas as imagens e tabelas dos artefatos possuem legenda e são chamadas em texto? | Sim |
+| Foi feito os ajustes no planejamento da entrevista de acordo com o que foi levantado no teste piloto? | Sim |
+
+### Relato dos resultados da validação do protótipo de papel
+
+### Planejamento da avaliação do protótipo de alta fidelidade
+
+### Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade
+
+| Checklist | Resposta |
+| --------- | -------- |
+| O documento possui um texto de introdução? | Sim |
+| O documento possui uma tabela de versionamento? | Sim |
+| O documento possui as referências bibliográficas? | Sim |
+| Todas as imagens e tabelas dos artefatos possuem legenda e são chamadas em texto? | Sim |
+| Apresenta a estrutura do relatório da avaliação? | Sim |
+
+
+## Problemas encontrados
+
+
+
+## Correções
+
+
+## Bibliografia
+> Gerência e Qualidade de Software - Aula 06 - Técnica de revisão, Fábio Levy Siqueira. Disponível em: <https://www.youtube.com/watch?v=nA1BVDd9GUE>- Acesso em 18/08/2022
+## Tabela de Versionamento
+
+| Data | Versão | Descrição | Autor | Revisor |
+| ---- | ------ | --------- | ----- | ------- |
+| 18/08/2022 | `0.1`  | Criação de relato da verificação da etapa 7 | [Natan Santana](https://github.com/Neitan2001) | [Rafael Xavier](https://github.com/rafaelxavierr) |
