@@ -66,4 +66,4 @@ Descrição sobre as tarefas abordadas durante a avaliação, sendo elas:
 
 | Data | Versão | Descrição | Autor | Revisor |
 | ---- | ------ | --------- | ----- | ------- |
-| 02/09/2022 | `0.1`  | Adição do planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | [Rafael Xavier](https://github.com/rafaelxavierr) | 
+| 02/09/2022 | `0.1`  | Adição do planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | [Rafael Xavier](https://github.com/rafaelxavierr) | [Natan Santana](https://github.com/Neitan2001) |
