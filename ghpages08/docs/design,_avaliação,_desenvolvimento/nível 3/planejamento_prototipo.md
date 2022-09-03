@@ -12,7 +12,7 @@ Dentro dessa avaliação dos protótipos, nós buscamos identificar o que os usu
 
 ## Metodologias de avaliação dos Protótipos de Alta Fidelidade 
 
-Dentro do nosso escopo de formas de avaliações, chegamos a um entendimento de que a forma mais adequada para o nosso projeto de se avaliar os protótipos de alta fidelidae são com entrevistas com os usuários junto com o protótipo, fazendo uma simulação com os mesmos para identificar pontos positivos e negativos do design de IHC e realizando perguntas para direcionar a simulação. Ao final da entrevista, os entrevistados deverão criar um relatório com os resultados retirados da avaliação.
+Dentro do nosso escopo de formas de avaliações, chegamos a um entendimento de que a forma mais adequada para o nosso projeto de se avaliar os protótipos de alta fidelidade são com entrevistas com os usuários junto com o protótipo, fazendo uma simulação com os mesmos para identificar pontos positivos e negativos do design de IHC e realizando perguntas para direcionar a simulação. Ao final da entrevista, os entrevistados deverão criar um relatório com os resultados retirados da avaliação.
 
 Assim, começamos o processo de estruturação montando um termo de consentimento específico para a entrevista, fizemos a análise de ferramentas necessárias, definimos um roteiro de perguntas a serem utilizadas para a avaliação, podendo ser acrescidas caso seja de valia para a avaliação, e fizemos a escolha de perfis para a entrevista.
 
@@ -22,7 +22,7 @@ A construção desse planejamento foi baseada no Framework DECIDE, citada por Ro
 - Explorar perguntas que devem ser respondidas 
 - Escolher métodos de avaliação
 - Identificar questões práticas
-- Decidir como será gerenciadas questões éticas
+- Decidir como serão gerenciadas questões éticas
 - Avaliar o que foi coletado durante a execução do planejamento
 
 É importante ressaltar que o protótipo de alta fidelidade ainda será elaborado pela equipe, conforme está datado dentro do [Cronograma de Atividades](../../planejamento/cronograma.md).
@@ -41,7 +41,7 @@ Para encontrar esses perfis, divulgamos a necessidade da nossa entrevista em gru
 
 As entrevistas contarão com a presença de duas pessoas que estão no desenvolvimento do projeto, sendo um responsável por entrevistar o usuário e ir apresentado os prototipos e outro por observar a experiência de uso do sistema e fazer as devidas anotações. O avaliador da experiência deve ir analisando todas as dificuldades e facilidades.
 
-As datas da realização de cada etapa podem ser encontradas dentro do nosso [Cronograma de atividadess](../../planejamento/cronograma.md) 
+As datas da realização de cada etapa podem ser encontradas dentro do nosso [Cronograma de atividades](../../planejamento/cronograma.md) 
 
 ## Termo de consentimento
 
@@ -62,6 +62,9 @@ As perguntas indicadas a seguir devem ser utilizadas para coletar o perfil do us
 | 3 | Você é o responsável pelo pagamento da conta de energia em sua residência?| <ul> <li> SIM</li> <li>  NÃO </li></ul> |
 | 3.1 | Se a resposta for NÃO, perguntar se a pessoa auxilia o responsável ou alguém a realizar as atividades?| Pergunta discursiva |
 
+<div style="text-align: center">
+<p>Tabela 1: Checklist de perfil do usuário</p>
+</div>
 
 ### Perguntas para análise do design
 | Número | Pergunta | Possível Resposta |
@@ -70,6 +73,10 @@ As perguntas indicadas a seguir devem ser utilizadas para coletar o perfil do us
 | 5| Você considera o design dos botões, seleções estão possuem uma estética simples e agradável? | Pergunta discursiva |
 | 6 | Você sugere modificação em alguma parte do design desta página? | Pergunta discursiva |
 
+<div style="text-align: center">
+<p>Tabela 2: Checklist de análise de design</p>
+</div>
+
 ### Perguntas para análise da funcionalidade
 | Número | Pergunta | Possível Resposta |
 |:--:|:--:|:---|
@@ -77,6 +84,10 @@ As perguntas indicadas a seguir devem ser utilizadas para coletar o perfil do us
 | 7.1 | Se a resposta à pergunta 4 foi NÃO ou INCONCLUSIVO, pode explicar o motivo da resposta? | Pergunta discursiva |
 | 8 | Você considera que alguma atividade possa ser feita de forma mais simples? |Pergunta discursiva |
 | 9 | Você imagina alguma outra forma de solução que poderia ser representado pelo protótipo? | Pergunta discursiva |
+
+<div style="text-align: center">
+<p>Tabela 3: Checklist de análise de funcionalidade</p>
+</div>
 
 ## Teste piloto
 
@@ -93,4 +104,4 @@ Com todos esse planejamento, esperamos conseguir identificar todos os pontos a s
 
 | Data | Versão | Descrição | Autor | Revisor |
 | ---- | ------ | --------- | ----- | ------- |
-| 01/09/2022 | `0.1`  | Criação da página de planejamento de protótipo de alta fidelidade | [Luíza Esteves](https://github.com/luiza-esteves) | 
+| 01/09/2022 | `0.1`  | Criação da página de planejamento de protótipo de alta fidelidade | [Luíza Esteves](https://github.com/luiza-esteves) | [Rafael Xavier](https://github.com/rafaelxavierr)
