@@ -151,4 +151,4 @@ As tabelas 2, 3, 4, 5, 6, 7 e 8 especifica todos os pontos que serão avaliados 
 
 | Data | Versão | Descrição | Autor | Revisor |
 | ---- | ------ | --------- | ----- | ------- |
-| 25/08/2022 | `0.1`  | Criação do planejamento da verificação | [Natan Santana](https://github.com/Neitan2001) | 
+| 25/08/2022 | `0.1`  | Criação do planejamento da verificação | [Natan Santana](https://github.com/Neitan2001) | [Matheus Perillo](https://github.com/MatheusPerillo)
