@@ -20,6 +20,16 @@ Este documento possui o objetivo de relatar os resultados da verificação feita
 
 ### Construção do protótipo de alta fidelidade
 
+| Checklist | Resposta |
+| --------- | -------- |
+| O documento possui um texto de introdução? | Sim |
+| O documento possui uma tabela de versionamento? | Sim |
+| O documento possui as referências bibliográficas? | Sim |
+| Todas as imagens e tabelas dos artefatos possuem legenda e são chamadas em texto? | Sim |
+| A documentação possui todas as telas do protótipo? | Sim |
+| O protótipo foi feito de acordo com o que foi definido no guia de estilo? | Sim |
+| Foi realizado os ajustes de acordo com os relatos da validação do protótipo de baixa fidelidade? | Sim |
+
 ### Teste Piloto da Validação do Protótipo de Papel
 
 | Checklist | Resposta |
