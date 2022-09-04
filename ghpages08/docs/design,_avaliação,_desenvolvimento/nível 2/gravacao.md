@@ -18,4 +18,4 @@ Nesta página será documentado as gravações das entrevista da validação do 
 
 | Data | Versão | Descrição | Autor | Revisor |
 | ---- | ------ | --------- | ----- | ------- |
-| 01/09/2022 | `0.1`  | Criação do documento de gravações | [Natan Santana](https://github.com/Neitan2001) |   | 
+| 01/09/2022 | `0.1`  | Criação do documento de gravações | [Natan Santana](https://github.com/Neitan2001) |  [Clara Ribeiro](https://github.com/clara-ribeiro)  | 

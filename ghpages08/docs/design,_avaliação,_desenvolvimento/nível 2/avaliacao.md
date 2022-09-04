@@ -66,7 +66,7 @@ A seguir será listado os problemas encontrados pelos entrevistados:
 ## Aplicação das Sugestões
 
 <div style="text-align: justify">
-Como sugerido pelos entrevistados, será retirado a opçção de "Esqueci meu email" da tela de login e será adicionado a opção de "Perdi acesso ao meu email" no final do fluxo de recuperação de senha quando o email de recuperação é enviado para o usuário. Essas modificações podem ser verificadas na página do Protótipo de Papel.
+Como sugerido pelos entrevistados, será retirado a opçção de "Esqueci meu email" da tela de login e será adicionado a opção de "Perdi acesso ao meu email" no final do fluxo de recuperação de senha quando o email de recuperação é enviado para o usuário. Essas modificações podem ser verificadas na página do Protótipo de Baixa Fidelidade.
 </div>
 
 
@@ -83,4 +83,4 @@ As entrevistas conseguiram levantar pontos importantes que não haviam sido pens
 
 | Data | Versão | Descrição | Autor | Revisor |
 | ---- | ------ | --------- | ----- | ------- |
-| 01/09/2022 | `0.1`  | Criação do documento de relato da entrevista do protótipo de papel | [Natan Santana](https://github.com/Neitan2001) |  |
+| 01/09/2022 | `0.1`  | Criação do documento de relato da entrevista do protótipo de papel | [Natan Santana](https://github.com/Neitan2001) | [Clara Ribeiro](https://github.com/clara-ribeiro) |
