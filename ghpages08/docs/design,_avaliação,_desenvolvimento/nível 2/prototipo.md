@@ -206,4 +206,4 @@ A confecção do protótipo possibilitou uma melhor visão de como irá ficar a 
 
 | Data | Versão | Descrição | Autor | Revisor |
 | ---- | ------ | --------- | ----- | ------- |
-| 14/08/2022 | `0.1`  | Criação dos protótipos de baixa fidelidade | [Clara Ribeiro](https://github.com/clara-ribeiro) | [Rafael Xavier](https://github.com/rafaelxavierr)
+| 30/08/2022 | `0.1`  | Criação dos protótipos de baixa fidelidade | [Clara Ribeiro](https://github.com/clara-ribeiro) | [Rafael Xavier](https://github.com/rafaelxavierr)
