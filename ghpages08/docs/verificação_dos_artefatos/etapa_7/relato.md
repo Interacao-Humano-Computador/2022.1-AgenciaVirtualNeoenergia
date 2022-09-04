@@ -35,8 +35,8 @@ Este documento possui o objetivo de relatar os resultados da verificação feita
 
 ### Planejamento da avaliação do protótipo de alta fidelidade
 
-| Checklist | 
-| ---- |
+| Checklist | Resposta |
+| ---- | ---- |
 | O documento possui um texto de introdução? | sim
 | O documento possui uma tabela de versionamento? | sim
 | O documento possui as referências bibliográficas? | sim
