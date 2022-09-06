@@ -141,8 +141,8 @@ Data limite para entrega | Atividade/entrega | Autor(es) | Revisor | Data limite
 ## Etapa 8
 Data limite para entrega | Atividade/entrega | Autor(es) | Revisor | Data limite para revisão
 --------- | ----------------- | -------------- | ---------- | ---------
-05/09/2022 | Teste Piloto da validação do protótipo de Alta Fidelidade | [Natan Santana](https://github.com/Neitan2001), [Rafael Xavier](https://github.com/rafaelxavierr) e [Luíza Esteves](https://github.com/luiza-esteves) | [Clara Ribeiro](https://github.com/clara-ribeiro) | 06/08/2022
-07/09/2022 | Entrevistas de validação do protótipo de Alta Fidelidade | [Natan Santana](https://github.com/Neitan2001) e [Luíza Esteves](https://github.com/luiza-esteves) | [Clara Ribeiro](https://github.com/clara-ribeiro) | 08/09/2022
+07/09/2022 | Teste Piloto da validação do protótipo de Alta Fidelidade | [Natan Santana](https://github.com/Neitan2001), [Rafael Xavier](https://github.com/rafaelxavierr) e [Luíza Esteves](https://github.com/luiza-esteves) | [Clara Ribeiro](https://github.com/clara-ribeiro) | 08/08/2022
+08/09/2022 | Entrevistas de validação do protótipo de Alta Fidelidade | [Natan Santana](https://github.com/Neitan2001) e [Luíza Esteves](https://github.com/luiza-esteves) | [Clara Ribeiro](https://github.com/clara-ribeiro) | 09/09/2022
 10/09/2022 | Relato dos resultados da avaliação do protótipo de Alta Fidelidade | [Rafael Xavier](https://github.com/rafaelxavierr) | [Natan Santana](https://github.com/Neitan2001) | 11/09/2022
 11/09/2022 | Slides e gravação do vídeo de apresentação | Todos | [Clara Ribeiro](https://github.com/clara-ribeiro) | 12/09/2022
 12/09/2022 | Edição do  vídeo de apresentação | [Clara Ribeiro](https://github.com/clara-ribeiro) | [Natan Santana](https://github.com/Neitan2001) | 12/09/2022
