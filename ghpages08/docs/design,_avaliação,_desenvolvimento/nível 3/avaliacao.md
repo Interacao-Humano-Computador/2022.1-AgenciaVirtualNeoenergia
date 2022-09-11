@@ -190,7 +190,7 @@ O participante 3 fez a seguinte sugestão:
 ## Aplicação das Sugestões
 
 <div style="text-align: justify">
-Como sugerido pelos entrevistados, censuramos parte dos e-mails que aparecem nas telas do protótipo, trocamos o fundo verde dos ícones de serviços por um fundo branco com um sombreado em volta, deslocamos o botão "Continuar conectado" para debaixo do botão de entrar. Vale mencionar que permanecemos com apenas uma forma de recuperar o e-mail e futuramente podemos adicionar algumas perguntas de segurança para complementar essa atividade.
+Como sugerido pelos entrevistados, censuramos parte dos e-mails que aparecem nas telas do protótipo, trocamos o fundo verde dos ícones de serviços por um fundo branco com um sombreado em volta, deslocamos o botão "Continuar conectado" para debaixo do botão de entrar e movemos a mensagem de erro do relatório nada consta para o centro da tela enquanto o dropdown fica indisponível. Vale mencionar que permanecemos com apenas uma forma de recuperar o e-mail e futuramente podemos adicionar algumas perguntas de segurança para complementar essa atividade.
 </div>
 
 ## Conclusão
