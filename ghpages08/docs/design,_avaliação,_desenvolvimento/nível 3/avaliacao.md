@@ -21,11 +21,11 @@ O método utilizado pelo grupo a fim de validar o protótipo de papel foi a entr
 ## Avaliadores e Participantes
 
 <div style="text-align: justify">
-As entrevistas foram conduzidas pelos avaliadores Natan Tavares Santan e Luíza Esteves. A entrevistadora Luíza ficou responsável por fazer as perguntas e o entrevistador Natan por fazer as anotações. No total, foram 3 pessoas entrevistadas.
+As entrevistas foram conduzidas pelos avaliadores Natan Tavares Santana e Luíza Esteves. A entrevistadora Luíza ficou responsável por fazer as perguntas e o entrevistador Natan por fazer as anotações. No total, foram 3 pessoas entrevistadas.
 </div>
 
 <div style="text-align: justify">
-Com a finalidade de preservar o anonimato dos participantes, os nomes reais não serão utilizados. O primeiro entrevistado tem 23 anos, a segunda entrevistada possui 22 anos e o terceiro 20. Os três entrevistados são os responsáveis pelo pagamento da conta de energia em suas resaidências e se encaixam dentro do perfil de usuário levantado durante a fase de análise de requisitos. Além disso, ambos são responsáveis pela conta de energia, possuindo as mesmas necessidades dos usuários que acessam a Agência Virtual NeoEnergia.
+Com a finalidade de preservar o anonimato dos participantes, os nomes reais não serão utilizados. O primeiro entrevistado tem 23 anos, a segunda entrevistada possui 22 anos e o terceiro 20. Os três entrevistados são os responsáveis pelo pagamento da conta de energia em suas resaidências e se encaixam dentro do perfil de usuário levantado durante a fase de análise de requisitos. Além disso, todos são responsáveis pela conta de energia, possuindo as mesmas necessidades dos usuários que acessam a Agência Virtual NeoEnergia.
 </div>
 
 ## Sumário dos dados
@@ -206,4 +206,4 @@ As entrevistas conseguiram levantar pontos importantes que não haviam sido pens
 
 | Data | Versão | Descrição | Autor | Revisor |
 | ---- | ------ | --------- | ----- | ------- |
-| 10/09/2022 | `0.1`  | Criação do documento de relato da entrevista do protótipo de alta fidelidade | [Rafael Xavier](https://github.com/rafaelxavierr) |  |
+| 10/09/2022 | `0.1`  | Criação do documento de relato da entrevista do protótipo de alta fidelidade | [Rafael Xavier](https://github.com/rafaelxavierr) | [Natan Santana](https://github.com/Neitan2001) |
