@@ -18,6 +18,17 @@ Este documento possui o objetivo de relatar os resultados da verificação feita
 
 ### Construção do protótipo de papel
 
+| Checklist | Resposta |
+| --------- | -------- |
+| O documento possui um texto de introdução? | Sim |
+| O documento possui uma tabela de versionamento? | Sim |
+| O documento possui as referências bibliográficas? | Sim |
+| Todas as imagens e tabelas dos artefatos possuem legenda e são chamadas em texto? | Sim |
+| A documentação possui todas as telas do protótipo? | Sim |
+| O protótipo foi feito de acordo com o que foi definido no guia de estilo? | Sim |
+| As funcionalidades representadas no protótipo segue o que foi definido no storyboard? | Sim |
+| As recomendações para os problemas levantadas na análise hierárquica de tarefas foram atendidas? | Sim |
+
 ### Construção do protótipo de alta fidelidade
 
 | Checklist | Resposta |
@@ -42,6 +53,14 @@ Este documento possui o objetivo de relatar os resultados da verificação feita
 | Foi feito os ajustes no planejamento da entrevista de acordo com o que foi levantado no teste piloto? | Sim |
 
 ### Relato dos resultados da validação do protótipo de papel
+
+| Checklist | Resposta |
+| --------- | -------- |
+| O documento possui um texto de introdução? | Sim |
+| O documento possui uma tabela de versionamento? | Sim |
+| O documento possui as referências bibliográficas? | Sim |
+| Todas as imagens e tabelas dos artefatos possuem legenda e são chamadas em texto? | Sim |
+| O relato possui todos os tópicos levantado no planejamento do relato? | Sim |
 
 ### Planejamento da avaliação do protótipo de alta fidelidade
 
