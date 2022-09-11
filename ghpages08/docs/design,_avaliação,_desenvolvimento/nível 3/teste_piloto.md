@@ -48,4 +48,4 @@ Após a execução do teste piloto, os avaliadores Luíza, Natan e Rafael decidi
 
 | Data | Versão | Descrição | Autor | Revisor |
 | ---- | ------ | --------- | ----- | ------- |
-| 07/09/2022 | `0.1`  | Criação do documento e resultados do teste piloto | [Rafael Xavier](https://github.com/rafaelxavierr) |  | 
+| 07/09/2022 | `0.1`  | Criação do documento e resultados do teste piloto | [Rafael Xavier](https://github.com/rafaelxavierr) | [Natan Santana](https://github.com/Neitan2001) | 
