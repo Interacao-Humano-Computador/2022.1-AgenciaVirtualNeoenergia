@@ -23,7 +23,7 @@ Foi realizada uma prototipação vertical, ou seja, o protótipo realizado foca 
 </div>
 <br/>
 
-![Login2](../../assets/prototiposAlta/Login%202.png)
+![Login2](../../assets/prototiposAlta/Login%202%20(att).png)
 
 <div style="text-align: center">
 <p>Figura 2 - Protótipo da tela de login</p>
@@ -34,7 +34,7 @@ Em relação ao protótipo de baixa fidelidade, a mudança nessa proposta (Figur
 
 ### Recuperação de senha
 
-![Recuperação de senha](../../assets/prototiposAlta/Recuperar%20Senha%202.png)
+![Recuperação de senha](../../assets/prototiposAlta/Recuperar%20Senha%202%20(att).png)
 
 <div style="text-align: center">
 <p>Figura 3 - Tela 1 de recuperação de senha</p>
@@ -48,7 +48,7 @@ Em relação ao protótipo de baixa fidelidade, a mudança nessa proposta (Figur
 </div>
 <br/>
 
-![Recuperação de senha](../../assets/prototiposAlta/Recuperar%20Senha%204.png)
+![Recuperação de senha](../../assets/prototiposAlta/Recuperar%20Senha%204%20(att).png)
 
 <div style="text-align: center">
 <p>Figura 5 - Tela 3 de recuperação de senha</p>
@@ -73,7 +73,7 @@ Em relação ao protótipo de baixa fidelidade, a mudança nessa proposta (Figur
 
 ### Recuperação de e-mail
 
-![Recuperação de email](../../assets/prototiposAlta/Recuperar%20Email%201.png)
+![Recuperação de email](../../assets/prototiposAlta/Recuperar%20Senha%204%20(att).png)
 
 <div style="text-align: center">
 <p>Figura 8 - Tela 1 de recuperação de e-mail</p>
@@ -130,7 +130,7 @@ Caso o usuário não possua acesso ao celular e não lembre o e-mail, ele dever�
 
 #### Relatório Anual
 
-![Relatorio Nada Consta](../../assets/prototiposAlta/Relat%C3%B3rio%20Nada%20Consta%201.png)
+![Relatorio Nada Consta](../../assets/prototiposAlta/Relat%C3%B3rio%20Nada%20Consta%201%20(att).png)
 
 <div style="text-align: center">
 <p>Figura 15 - Tela 1 de geração do relatório Nada Consta</p>
@@ -176,7 +176,7 @@ Um dos problemas encontrados na avaliação foi a falta de feedback ao usuário 
 </div>
 <br/>
 
-![Relatorio Nada Consta](../../assets/prototiposAlta/Relat%C3%B3rio%20Nada%20Consta%206.png)
+![Relatorio Nada Consta](../../assets/prototiposAlta/Relat%C3%B3rio%20Nada%20Consta%2014%20(Fluxo%202%20MENSAL).png)
 
 <div style="text-align: center">
 <p>Figura 21 - Tela 7 de geração do relatório Nada Consta</p>
@@ -200,3 +200,4 @@ A confecção do protótipo de alta fidelidade possibilitou uma melhor visão de
 | Data | Versão | Descrição | Autor | Revisor |
 | ---- | ------ | --------- | ----- | ------- |
 | 03/09/2022 | `0.1`  | Criação dos protótipos de alta fidelidade | [Matheus Perillo](https://github.com/MatheusPerillo) | [Luíza Esteves](https://github.com/luiza-esteves)
+| 13/09/2022 | `0.2`  | Atualização dos protótipos de alta fidelidade | [Matheus Perillo](https://github.com/MatheusPerillo) | [Luíza Esteves](https://github.com/luiza-esteves)
